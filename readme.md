@@ -3,6 +3,8 @@
 An open source book about how to contribute to open source.  
 I already said open source?
 
+[Release article](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
+
 ## Description 
 Have you ever wondered how the open source world exists thanks to the contribution of thousands of people all over the world? Is there a way to learn the skills to contribute at maximum, or to improve it? 
 
