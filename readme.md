@@ -16,4 +16,4 @@ Join the revolution means be an active part of it in all the sides of this world
 
 Be a part of the open source world can be the 21 century skills that you deserve?
 
-Check the [pdf/epub/mobi version](https://leanpub.com/contributetoopensource-therightway/) for free.
+Check the [pdf/epub/mobi version on Leanpub](https://leanpub.com/contributetoopensource-therightway/) or on [GitHub](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2019.1) for free.
