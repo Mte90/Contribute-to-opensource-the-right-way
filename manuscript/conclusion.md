@@ -86,7 +86,7 @@ My experience level couldn't be as it is now without the help of a lot of people
 * Mozilla Italia community members for their involvement in the community itself and for what we achieved in the years, together: Sara, Saverio, Giovanni, Edoardo, Eugenio, Michele, Simone, Damiano, Gabriele, Stefania, Aronne, Niccolò, Francesco.
 * The founders (Marco and Vincenzo) of Industria Italiana del Software Libero, may our idea to create a national group of IT professionals in Italy be an achievable dream and not only a group of friends (Also Emilio, Stefano and Giancarlo).
 * WordPress community, even with all the issues I have with the actual project management I am still involved because I trust the people more than the project itself (now).
-* To all the other people in other communities that it’s always a pleasure to meet and chat with: Italo Vignoli, Enio Gemmo, Giordano Alborghetti, Gabriele Ponzo, Gianfranco Buttu, Roberto Guido, Marina Latini, Saverio Giulio Malatesta, Emiliano Vavassori, Dario Cavedon, Fabio Pietrosanti.
+* To all the other people in other communities that it’s always a pleasure to meet and chat with: Italo Vignoli, Enio Gemmo, Giordano Alborghetti, Gabriele Ponzo, Gianfranco Buttu, Roberto Guido, Marina Latini, Saverio Giulio Malatesta, Emiliano Valvassori, Dario Cavedon, Fabio Pietrosanti, Luca Martinelli.
 * All the reviewers for their time and lots of patience on finding English mistakes and suggesting new things that I forgot: Rizki D Kelimutu, Marco Lombardo, Elisabetta Carrara, Konstantina Papadea, Michele Nasti, Takeshi Hamasaki, Stefano Cassone.
 
 ## Books that you need to read
