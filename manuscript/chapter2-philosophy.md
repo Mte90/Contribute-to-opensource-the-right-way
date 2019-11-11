@@ -60,7 +60,7 @@ Nothing is more distant from civics (that in Italy is very poorly understood, ev
 ### How to do a ticket
 
 Who manages a project often **doesn't have a lot of time** so you need to give the most possible of useful information (and not ranting). Usually *giving some example* or user case helps avoid a shallow reject and will force to read the ticket with an analysis of the details.
-Basically the own vision of the problem or of the feature request is very important to give the context.  
+Basically the own vision of the problem or of the feature request is very important to give the context or user case/story. Also one ticket should address only a single topic to avoid confusions and lost of information. 
 For example, they reply to your ticket after 3 months asking for more details but you remember nothing. If you wrote them easy-to-read information then your request will be processed quickly there isn't the need for further exchanges.  
 The writing style should be friendly. No one wants to read rants, even if constructive ones. Also, often issues may be caused by a wrong usage of the product or by something that went unnoticed.   
 This is an useful approach for support centers too, behaving in a friendly way will encourage the support reps to act friendly towards you and be more helpful than usual.  
@@ -103,6 +103,7 @@ Obviously, this isn’t a fool-proof method, but makes us trustable, it transfor
 To open some tickets (or participate into existing ones) is very important, it allows you to get involved at a very low level and to join the party.
 
 Let’s consider that a way to start a relationship in the way others expect this to happen, like the fish, when we move it from his tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.  
+Also don't stop to learn, for this topic I suggest to read the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
 Now that you joined, what’s next?  
 It’s up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.  
 Next chapter is about how to maximize the Contributor Mode.  
