@@ -157,7 +157,7 @@ Usually one of last messages of that kind of discussions states “problem was f
 The Feynman technique, created by the Nobel winner physicist consists of 4 rules:
 
 * Pick a topic you want to learn
-* Pretend that you are teaching to a kid
+* Pretend that you are teaching to a kid (like the hashtag #explainlikeiamfive)
 * Identify issues in your explanation, go back and recheck
 * Simplify and use analogies
 
@@ -234,6 +234,16 @@ Instead, writing what we know from our first hand experience is easier, because 
 It's not required from you writing documentation for something you don't know about, so you can't ask newcomers to write documentation themself as their first task. Thisis something for veterans, like you are now (or will be in future!).
 
 Encyclopedias are written by experts, and we are the experts of the project. Sure, Wikipedia makes this statement feel outdated, but consider a bigger ecosystem where you are part of the big picture.
+
+#### Don't stop to learn
+
+Don't stop to learn in a world that moves quickly is important, to keep your brain elastic and fresh but don't lose the motivation to improve yourself every day.
+We saw that the first step is to teach to others but there also other steps or tasks that you can do (inspired also by (22 Simple Ways to Learn Faster)[https://dev.to/uncagedyou/22-simple-ways-to-learn-faster-3hg8]):
+
+* Read a lot of articles (every day or every few days): use Reddit, Dev.To, newsletters like Changelog/SoftwareleadWeekly
+* Study the evening before to sleep is very powerful because helps you to remember what you read more easily
+* Create a list of stuff to read or study when you have time
+* Find a way to experiment what you are learning, check the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
 
 # Conclusion
 

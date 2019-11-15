@@ -103,7 +103,7 @@ Obviously, this isn’t a fool-proof method, but makes us trustable, it transfor
 To open some tickets (or participate into existing ones) is very important, it allows you to get involved at a very low level and to join the party.
 
 Let’s consider that a way to start a relationship in the way others expect this to happen, like the fish, when we move it from his tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.  
-Also don't stop to learn, for this topic I suggest to read the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
+The next chapter approach a bit how to improve the quality of your learnings with this new philosophy.
 Now that you joined, what’s next?  
 It’s up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.  
 Next chapter is about how to maximize the Contributor Mode.  
