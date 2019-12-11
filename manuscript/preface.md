@@ -57,3 +57,7 @@ With the *open source* term usually we refer to a lot of things, from software p
 * [https://www.instagram.com/mte90/](https://www.instagram.com/mte90/)
 * [https://t.me/mte90](https://t.me/mte90)
 * Mastodon: [https://hostux.social/@Mte90](https://hostux.social/@Mte90)
+
+## Donation
+
+If you want to donate to the author (me) you can do it with [Patreon](https://www.patreon.com/Mte90).
