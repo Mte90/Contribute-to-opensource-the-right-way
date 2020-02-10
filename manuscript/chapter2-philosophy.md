@@ -17,7 +17,7 @@ This 4 freedoms created the philosophy and the open source model.
 
 I> Open source model examples: Open Hardware (Arduino or RepRap), Open Content (Creative Commons license), Open Knowledge (WikiPedia or Project Gutenberg), Open Data (OpenStreetMaps), Open Access (Open Document File formats)
 
-We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that is free of charge. This point for newcomers is very difficult to understand and if you have troubles, well check it out reading the rest of this chapter.
+We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that it is free of charge. This point is very difficult to understand for newcomers and if you have troubles, well check it out reading the rest of this chapter.
 
 ## Do ut des
 
@@ -52,7 +52,7 @@ Enterprises apply that way of thinking, but an open philosophy project cannot ha
 You can do your part to change the world, and after some time see the problem solved thanks to your intervention! At the same time all other users will have same benefit.  
 Little step for a man, huge step for humanity as a whole.  
 
-When working with public domain resources, there shouldn't be any *omerta*,for it's against the philosophy of the open source projects itself. Everybody can do his own part, even with little time available or doing just little things. A puzzle is made b thousands of little pieces, and  everyone can contribute competing it.  
+When working with public domain resources, there shouldn't be any *omerta*,for it's against the philosophy of the open source projects itself. Everybody can do his own part, even with little time available or doing just little things. A puzzle is made by thousands of little pieces, and  everyone can contribute competing it.  
 Nothing is more distant from civics (that in Italy is very poorly understood, even if now it's mandatory to teach it in public schools).  
 
 ![Open Source is adorable](images/2/adorable.jpg)

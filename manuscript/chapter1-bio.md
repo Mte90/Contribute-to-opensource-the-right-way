@@ -40,7 +40,7 @@ So to explain what I am doing or what I am learning to others, because what's us
 
 For me internet was the first way to meet people like me (I still love forums) to work on my projects or discuss.  
 In 2009 after the school I had to choose what to do with my life. A question that all the young people often face, my choice was very simple: work with computers (without math).   
-Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math remembering formulas or calculating glogarithms.  
+Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math remembering formulas or calculating algorithms.  
 
 I chose to go to L'Aquila and take a university course at the Academy of Fine Arts on Web Design. After all I liked to work with websites, so I was easily getting the piece of paper (my parents were longing for).  
 For non-italians, 2009 was the year of the big earthquake with 309 dead and that course never started, so I took a sabbatical year working at the family's shop in the morning and doing a work stage in an IT company in the afternoon for 6 months.  
@@ -62,7 +62,7 @@ After 4 years we are still doing stuff but we are only two people now. With a lo
 I was developing in PHP because when I moved to Linux this was my home, with the discovery of Python and I made my first UI projects with the Qt framework. I was experimenting with doing the same things on Linux as I was doing with Windows, even with custom software.  
 It's basically what people do when migrating from the first to the latter, in my case I felt like Indiana Jones, without boundaries, and it was intriguing.  
 
-At 18 years (2008) I bought my domain `mte90.net`, after some time I opted for using a CMS, and since data bases were overrated I decided to build  my site with a flat CMS.  
+At 18 years (2008) I bought my domain `mte90.net`, after some time I opted for using a CMS, and since databases were overrated I decided to build  my site with a flat CMS.  
 So I started using an Italian Open Source CMS and extending it creating plugins and also doing a fork to the project to add more stuff.  
 I built a tiny community around it, a mini build system and at the time I didn't know about git or other version control systems.  
 In 2012 I opted to use a real CMS that was following real coding standards (compared to the spaghetti code) to do more and better without starting from scratch.  
@@ -103,19 +103,19 @@ I had an idea of how the browser and software work, their development cycle and 
 I also discovered what doesn't work at a higher level within IT companies, the distance they have to their users' needs (because they follow market needs instead).  
 I strengthened my language skills in the process.  
 Mozilla assigned funds to volunteers to organize or participate in events, when I joined I was one of the few experts of Firefox OS in Italy.  
-In short, I traveled all around Italy, visiting new places and meeting people, having the chance to better understand the needs and questions of the users of Mozilla products and of the Open Source ecosystem as a whole in general.  
-This traveling allowed me to build a group of friends that started to do the same, hosting demonstrations of Firefox OS, explaining how to develop for it, recruiting new people and finding new ways to engage them. Also we have improved and expanded Firefox OS Italian manual together.
+In short, I travelled all around Italy, visiting new places and meeting people, having the chance to better understand the needs and questions of the users of Mozilla products and of the Open Source ecosystem as a whole in general.  
+This travelling allowed me to build a group of friends that started to do the same, hosting demonstrations of Firefox OS, explaining how to develop for it, recruiting new people and finding new ways to engage them. Also we have improved and expanded Firefox OS Italian manual together.
 
 ![The hard work of months for the Italian version of the Firefox OS development book](images/1/ffos-libro.jpg)  
 
-With the [death of Firefox OS](https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/) I got a lot of experience in community building, mentoring, development and so on, and I kept traveling in the country also even if a little less than before.  
+With the [death of Firefox OS](https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/) I got a lot of experience in community building, mentoring, development and so on, and I kept travelling in the country also even if a little less than before.  
 I was giving speeches about other technologies, like addons development, Firefox web tools for developers, how to join the community, privacy and why Mozilla was important.  
 
 These travels created an "aura" around me, I was (and still I am) called many nicknames like Mozilla-Man, Mr. Firefox, Mozilla and so on. People aren't creative with nicknames after all...  
 At the same time I started improving my English,and in 2015 I joined Mozilla Reps program, participating in activities and discussions online at international level.  
 
-I> Mozilla Reps program is an international program free for everyone meant to empower ones local Mozilla community (not only about Firefox but Mozilla per se or other projects like A-Frame as example).  
-I> It is a program with 280~ people from a lot of countries now (when I joined it was double that number), empowering volunteers to become better community managers, better project managers, join Mozilla discussions as NDA group, get funding for events and swag.
+I> Mozilla Reps program is an international program free for everyone meant to empower local Mozilla communities (not only about Firefox but Mozilla per se or other projects like A-Frame as example).  
+I> It is a program with ~280 people from a lot of countries now (when I joined it was double that number), empowering volunteers to become better community managers, better project managers, join Mozilla discussions as NDA (Non-Disclosure Agreement) group, get funding for events and swag.
 
 In the same period I attended my first international event the [FOSDEM 2015](https://daniele.tech/2015/02/fosdem-2015-the-report/), even with my messy English I was able to organize it with the help of 3 Italian friends.  
 Participating allowed me to meet new volunteers in person (also from Mozilla) and this helped me to meet new people (or recognize them from the nickname), slowly I understood that the Reps program was a way to help the community to do more and better.  

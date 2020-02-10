@@ -22,10 +22,10 @@ Take a moment, relax, get ready to discover a new approach to community projects
 
 ## How to live inside the Open Source
 
-First step is discovering the **Code of Conduct**, every project has one and usually they are based on the same basic rules, mainly covering how to work on the project and relate to others among the project.  
+First step is discovering the **Code of Conduct**, every project has one (often) and usually they are based on the same basic rules, mainly covering how to work on the project and relate to others among the project.  
 In detail, common sense rules: not to be aggressive, no bad words or insults, understand contributors come from different backgrounds and it isn't always easy to understand each others or avoiding conflicts without applying patience.
 
-I> Being Italian, for me it's normal to make gestures, even when people aren't seeing me. Other people may be confused by that, or the gestures themselves can mean differently to the. Think about that in a big picture, adapting your tone to the environment.
+I> Being Italian, for me it's normal to make gestures, even when people aren't seeing me. Other people may be confused by that, or the gestures themselves can mean differently to them. Think about that in a big picture, adapting your tone to the environment.
 
 This Code of Conduct often applies only to the project home and not for interactions with others about the project happening outside the community (sometimes you even have to sign the CoC), so a twitter interaction may violate it!
 
@@ -42,7 +42,7 @@ For Italian people usually those rules are enough to understand how to behave di
 ### Communicate on the internet
 
 The action of communicating is foundamental. If we communicate badly we lose everything. The talker is an introvert who may as well work on his own, all alone in a garage, without issues.  
-One reason why I wrote that book is my interest in life coaching and self-help, that helped me discover many things about the fact Iam not so good in communicating what is on my mind and to meet what others expect in terms of interactions, tone and mood from me.  
+One reason why I wrote that book is my interest in life coaching and self-help, that helped me discover many things about the fact I am not so good in communicating what is on my mind and to meet what others expect in terms of interactions, tone and mood from me.  
 
 Think about being in an international context, where there are cultural differences, and communication happens in another language to understand how complexity level can ramp up.  
 We will cover various kinds of communication in Open Source, but before that, let's refresh the basics:
@@ -93,7 +93,7 @@ Cannot recall what the ticket was about now, this isn't the point however; after
 
 Mailing list are the noisier communication medium, it's easy to lose interest or feel in the wrong place.  
 It's very easy to find people using *Reply to All* feature just to ask what an acronym means or what kind of tool are you referring to and the like. Netiquette is so easy that often... nobody uses it.  
-Let's imagine a "Thank You" being sent to all the thousands participants in the mailing list, for an update or piece of new that was shared, it's better to send that kind of messages in a private way.  
+Let's imagine a "Thank You" being sent to all the thousands participants in the mailing list, for an update or piece of news that was shared, it's better to send that kind of messages in a private way.  
 My colleague Eugenio often says he wants to write an one page book: “how to use the reply all feature of your mail client”. Often if the conversation is among more than two people, they forget to use it failing to spread the message across, or, on the contrary, sometimes they don't understand how much noise they are creating mailing to everyone something that is meant to be shared in another place.
 
 Different issues, same communication medium with different rules for each kind of communication that has to be shared. That requires a bit of thinking along the lines of: “am I writing this in the right place and with the correct format?”. This may save you time, protect your pride and also your skills won't go wasted, for one of the issues people face with this technology often is: “why do I have to join these discussions?”
@@ -120,7 +120,7 @@ Visit these links to find examples:
 
 #### Chat
 
-As of today, they took the place of mailing lists condemning them to oblivion. Especially the new generations find very uncomfortable to write long messages, considering the fact they very often  use a smartphone in place of a computer.  
+These days, they took the place of mailing lists condemning them to oblivion. Especially the new generations find very uncomfortable to write long messages, considering the fact they very often  use a smartphone in place of a computer.  
 Sometimes however they behave silly, for example when they ask what a link is about without even opening it. There is no way around that, the only thing we can do is welcome them in the community as fast as we can, so that they may learn its rules.  
 Rules may be boring to write down, but are indeed important. We need to explain them and enforce them as mandatory to avoid spam and people abandoning the channel for it's impossible to catch up with it.  
 It may be scary to some people to receive many notifications of unread messages from a very crowded community channel.  
@@ -197,7 +197,7 @@ And even if you aren't able to see differences, this doesn't mean there aren't.
 
 #### Lets you meet new people with different skills and backgrounds
 
-We can say the previous point allows you to understand the various kind of users in your project community. From a marketing perspective, if you are working on a project aimed at hospitals your audience won't be composed by farmers or plumbers, but from nurses and doctors. This means you have to adapt your communication tone (from terminology, to the way of explaining IT stuff, to details and understanding when they aren't needed like when explaining acronyms basing on the context you are in, and you also need to have basic language skills.  
+We can say the previous point allows you to understand the various kind of users in your project community. From a marketing perspective, if you are working on a project aimed at hospitals your audience won't be composed by farmers or plumbers, but from nurses and doctors. This means you have to adapt your communication tone from terminology, to the way of explaining IT stuff, to details and understanding when they aren't needed like when explaining acronyms basing on the context you are in, and you also need to have basic language skills.  
 
 In marketing that is accomplished by creating the various Personas representing ideal users, you can use these to shape the flow of your project and the communication tone. Something we can learn from the Startuppers, they need to adapt their product/service to an undefined audience, understanding what customers need is the first step in shaping their Personas and is useful to shape the best product/service for them.  
 In short, levelling down the learning curve is very important. Documentation has all this power, and gets unused.
@@ -207,16 +207,16 @@ Let's move to the next item…
 
 Usually project become famous for they are the first to appear on the scene (or the easier to get access to, like Internet Explorer) or because they are most friendly. Not for their quality in both cases.  
 Make sure to include resources to make the project more intuitive also, if project itself is complex. A simple example of this is Arduino. We are talking about electronics here, as of today Arduino has many competitors, but Arduino stand out among them (and is default technology supported almost everywhere) because internet is packed full of information about it, also libraries to implement it can be found over the net and many events are organized by third parties to spread the world and inform/educate people about it.  
-Another example is ArchLinux in the Linux-sphere. It's so famous because it includes an extensive documentation that may also be used in the context of other linux distros for its completedeness, among other things.
+Another example is ArchLinux in the Linux-sphere. It's so famous because it includes an extensive documentation that may also be used in the context of other linux distros for its completeeness, among other things.
 
-In short, documentation helps to sell, also in other contexts. If you want to address specific niches it is a requirement, for you can't convince people by posting stickers and cool pictures over the social medias, people want facts. Documentation is a fact. Its quality shows the completedeness and coolness of the project.
+In short, documentation helps to sell, also in other contexts. If you want to address specific niches it is a requirement, for you can't convince people by posting stickers and cool pictures over the social medias, people want facts. Documentation is a fact. Its quality shows the completeeness and coolness of the project.
 
 Very often you aren't in the position of the first on the market or the more available, but you may be the more intuitive. Again, documentation helps a lot because it allows people to do things on their own. That is the goal the end users want to achieve with the technologies they use. One of the reason why Open Source project grows and spreads wide is they are autonomous, not depending on others support and being able to rely sometimes on periodic fees charged for their usage.
 
 #### Provide useful resources for newcomers
 
 Newcomers always have the same issue as we had ourselves in the past: they are disoriented. Transforming them in autonomous user is critical to lower their defenses, it's the reason Travellers' Club is famous, it lets travellers collect books about the cities they visited, to visit them as they wish.  
-In an Open Source project is not always possible to do what one wants, having a set of instructions is very helpful. It's like the concierge in a hotel explaining what to visit, where to eatand soon. It's nice and one feels welcomed.
+In an Open Source project is not always possible to do what one wants, having a set of instructions is very helpful. It's like the concierge in a hotel explaining what to visit, where to eat and soon. It's nice and one feels welcome.
 
 One of the suggestions or activities I think are among the most powerful to boost engagement in newcomers is proposing them to read the documentation because:
 
@@ -229,9 +229,9 @@ Reading is accessible to everyone and doesn't require a lot of efforts or time (
 #### It's comfortable because it's something you know about or have real experience on
 
 Homework at school could be difficult for someone (in Italy as students we also undertake oral interviews one-on-one with teachers) and may require special studies that after short time are easily forgotten.  
-Instead, writing what we know from our first hand experience is easier, because we already did it, we know the difficoult parts and we can help others and at the same time improve what we know.
+Instead, writing what we know from our first hand experience is easier, because we already did it, we know the difficult parts and we can help others and at the same time improve what we know.
 
-It's not required from you writing documentation for something you don't know about, so you can't ask newcomers to write documentation themself as their first task. Thisis something for veterans, like you are now (or will be in future!).
+It's not required from you writing documentation for something you don't know about, so you can't ask newcomers to write documentation themselves as their first task. This is something for veterans, like you are now (or will be in future!).
 
 Encyclopedias are written by experts, and we are the experts of the project. Sure, Wikipedia makes this statement feel outdated, but consider a bigger ecosystem where you are part of the big picture.
 

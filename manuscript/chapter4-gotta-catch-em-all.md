@@ -31,7 +31,7 @@ One of the trending topic in self-learning is the transfer learning. Famous peop
 I> Transfer learning: the power to reuse the knowledge learned in other areas or from other experiences/people (even if completely different) in other areas or situations.
 
 Joining a project helps us to improve our knowledge and skills in a different context from the one we think it's natural for us, it might be learning a new language or understanding the logic behind a decision.  
-In short it helps in strengthening out knowledge by living real experiences instead of “gathering” facts about them.
+In short it helps in strengthening our knowledge by living real experiences instead of “gathering” facts about them.
 
 The experience makes the difference, if it is also followed by meritocracy and satisfaction (normal things in open source) this may help us reach a new point of view.  
 In this chapter we will discuss the questions we need to ask to understand in what area or project
@@ -58,7 +58,7 @@ Before moving on, a very good book about persuasion "Pre-suasion" by Robert Cial
 I bought that book while at the airport waiting for the last flight to come back in Italy after a Mozilla's All Hands in US (I don't recall which one specifically) and it has been was very important in shifting my approach to persuading people.  
 
 Anyway I wrote the first version of the doc "How to recruit and motivate volunteers" in 11/07/2016 before reading it and it was surprising for me to discover how much I was skilled in marketing and how much I improved in this field. This explains why I was motivated to run as a candidate for the Reps Council too.  
-Bck on track, the next pages are based on this document that is still available on internet (and mentioned in Mozilla Reps resources too).  
+Back on track, the next pages are based on this document that is still available on internet (and mentioned in Mozilla Reps resources too).  
 
 Think that these points are important to understand how much a project may be easy for newcomers:
 
@@ -72,13 +72,13 @@ Moving to the marketing side:
 
 * Are there big companies contributing or using your project? If yes why?
 * How many volunteers do you have?
-* How many events you organize?
+* How many events do you organize?
 * How is the project maintained (private, companies, foundation, etc)
 * Interesting numbers or facts that show how your project is changing people's lives
 
 ### Rules for the interviewer on recruiting
 
-As talkative Italian I defined these rules for an informal chat (1:1 or 1:to-many-people).
+As talkative Italian I defined these rules for an informal chat (1:1 or 1:many-people).
 
 * Ask friendly, you are talking with a probable volunteer so you can be informal, but don't forget that you are looking for a volunteer and not for a professional
 * Get informed about the interests of the local people in the area of volunteering you are looking for
@@ -97,7 +97,7 @@ As talkative Italian I defined these rules for an informal chat (1:1 or 1:to-man
 
 ![Ask the real questions - https://www.reddit.com/r/linuxmemes/comments/akft99/why_i_use_linux_instead_of_windows/](images/4/ask.png)
 
-There are many factors that may shape these questions, like the skills of the interviewer, their professional background and hobbies (student, working, hacker) and why is he/her attending the event, so think carefully what to ask him/her.
+There are many factors that may shape these questions, like the skills of the interviewer, their professional background and hobbies (student, working, hacker) and why is he/she attending the event, so think carefully what to ask him/her.
 
 The first and second rounds of the conversation can be done together in person or online.  
 This discussion can be followed with mentoring of the potential contributor after they join the community. This round of questions/chat can be done together so feel free to reassemble it as you want, this is my way of doing that part!

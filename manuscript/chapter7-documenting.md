@@ -55,7 +55,7 @@ Every social campaign requires different digital assets to the organizers, here 
 
 ### Roles
 
-To create a team you need to specify the various rules to work all together and avoid conflicts and issues.
+To create a team you need to specify the various roles to work all together and avoid conflicts and issues.
 
 * Talk
    * A person who can do the talk and later plan a meeting to review it

@@ -36,7 +36,7 @@ This is very personal and I suggest you to read a few books (check the appendix)
 One solution may be to get a mouse with side button to switch tabs or hotkeys to launch programs (or to learn the hotkeys themselves) and so on.  
 For this I suggest checking the Kaizen philosophy, that is basically a way to do a little change that improves something and continuing to perform a lot of tiny changes that in the big picture create a big puzzle completely different from the previous one.  
 
-As example after optimizing the usage of the keyboard I moved to optimizing my daily routine, like checkiing the news-feed after lunch or saving things to read during “news-feed Moments” in the bookmarks during the day. Also, try to dedicate a specific amount of time to emails every hour or day based on the momentary needs and this is another way to aggregate stuff that requires your attention.  
+As example after optimizing the usage of the keyboard I moved to optimizing my daily routine, like checking the news-feed after lunch or saving things to read during “news-feed Moments” in the bookmarks during the day. Also, try to dedicate a specific amount of time to emails every hour or day based on the momentary needs and this is another way to aggregate stuff that requires your attention.  
 Anyway, this can be stupid, any second you save is a way to do something else and make a better use of your time; with tiny steps you can see more tasks that you can optimize like improving the spam filter settings of your inbox or a new feature of your computer. The optimization doesn't need to be intended to save time for open source but time for you to use for what you like but also to be faster.
 
 ## Use your boredom/break times

@@ -44,7 +44,7 @@ Start from something that hasn't specific rules to see what are the skills and E
 The rules of localization can hinder their interest or they may be something they have to learn, and this may slow down their interest.  
 A new volunteer wants to do something without having to undertake a big course/onboarding to see if fits him.  
 Moreover, technical glossary may create a problem because the project can use specific terms and the volunteers don't know or understand them yet.  
-Every project usually has rules or guides about how to help on localizating and is something that everyone can do.
+Every project usually has rules or guides about how to help on localizing and is something that everyone can do.
 
 ### Support *D/I*
 
@@ -93,12 +93,12 @@ The project needs more buzzword to get promoted and to have a chance to fight wi
 * Open source doesn't mean it is free, but that the project is under a license allowing specific things. So it's sometimes possible to get the code by paying it for example, like in WordPress plugin/theme ecosystem.
 
 Those are examples of advocacy 2.0 for open source projects. We take an important fact that involves everyone from the newbie to the non-IT aware person, leaving a fewdoubts behind so people will remember the whole point and giving information about something new that they don't know. Also, giving people a choice without being a dictator but motivating them to discover more and not only by talking about your project.  
-For me this differs from promotion/evangelism because the purpose here is to motivate people to discover more and engage, not only get a gacts or pieces of new.
+For me this differs from promotion/evangelism because the purpose here is to motivate people to discover more and engage, not only get a gadget or something new to promote.
 
 ### Event *I*
 
 Often events are seen like amateur gatherings where friends meet to always discuss the same things.  
-This is true, but it's also a way to network, find new people and approach them to promote live. If you want to talk about open source for students you have to do it in a school and you'll ave to consider what they may be interested in.  
+This is true, but it's also a way to network, find new people and approach them to promote live. If you want to talk about open source for students you have to do it in a school and you'll have to consider what they may be interested in.  
 Organizing events and giving talks or hosting workshops is important. It's a huge way to interact with people, understand their mood and motivate them. Humans are social animals that need interaction, and sometimes they need to meet also offline.  
 The people you engage in events are more prone to be engaged later as volunteers, because they see other people like them or that is possible to contribute because the others are akin to them.
 
