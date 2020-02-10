@@ -190,7 +190,7 @@ A great idea that today has failed to explode as we thought, also because we are
 I say it because in 2018 I became the president of the association and after a few years I can see the issues in a world that transform itself too much quickly.  
 Let's think a moment together, in 2019 the open source world is not as strange and dark as 5 or 10 years before.  
 The world is paying more and more attention to the opportunities of these technologies (except the Italian government in the various cities) but I see the big problem: to contribute.  
-This book was written because I see a lot of young people and newcomers that ask how to do something, how to start or how works. how it works. Because it is more important to be able to participate and contribute than to be mere users of the product for them.
+This book was written because I see a lot of young people and newcomers that ask how to do something, how to start or how it works. Because it is more important to be able to participate and contribute than to be mere users of the product for them.
 
 # Conclusion
 
