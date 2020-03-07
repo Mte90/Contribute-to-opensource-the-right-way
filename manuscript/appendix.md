@@ -3,11 +3,11 @@
 ## How to manage a meeting
 
 Meetings can be boring so it’s important to have an agenda with strict times to be sure not to forget something or keep at pace with the plan itself.  
-During the meeting take few minutes to talk about the purpose of the meeting (also on the invitation card) and the workflow of the meeting.  
-Preparing the attendees it’s important to improve the quality of the meeting  and to be proud of what was done during this time, so it is not going to be a boring meeting.  
-The agenda of the meeting is important, and also the titles of the various moments that help to remember the topics.  
+During the meeting take few minutes to talk about the purpose of the meeting (also on the invitation email/communication) and the workflow of the meeting.  
+Preparing the attendees it’s important to improve the quality of the meeting itself and to be proud of what was done during this time, so it is not going to be a boring meeting.  
+The agenda of the meeting is important, and also the titles of the various moments that help to remember the topics (a nice tip can be to add a prefix on your communication like "Website localization - First steps" or "Event organization 2020 - Venue").  
 The order too, put on top the topics with more priority, avoid jargon during the meeting and don’t forget to leave time to reply to questions and also the last words to the attendees.  
-Don’t forget that someone needs to get notes of the meetings for the people that missed it and to write a report.  
+Don’t forget that someone needs to get notes of the meetings for the people that missed it and to write a report, also define a specific amount of time to avoid off topic discussion and be on track.  
 
 ### When
 
@@ -87,6 +87,8 @@ In every communication it’s better to follow the rule of 7 communications.
 When you have no idea where to start with a communication the simple way is writing a list with every point, prioritize and only then writing your message.  
 Because you are part of an open project, you need to do open questions to the people too. These open questions are not for better clarification but let the others explain what they mean, because a lot of things are not specifically communicated with words for example.
 
+There are different tasks about communication and for a community managers is important to keep a public communication on high quality standards, to save time but also to be more transparent, create an history, create a workflow and improve the reputation of your project. There are 2 ways for that: gather the common questions of newcomers of the community and create some sort of documentation or keep a period report of what is happening/ed in a project. Those are simple ways to improve the quality of communication in your project that on long term can have a lot of benefits.
+
 ## How to talk with people
 
 * Don’t criticize, condemn, nor recriminate
@@ -158,7 +160,7 @@ Every culture has differences but there are few rules that apply for everyone.
 * Telegram: is the best choice because has bots, link previews, moderation tools, links/media recap, client desktop/mobile and is open source (there are open source addicts that don’t want to use proprietary software)
 * Hangouts/Hangouts Meet: it’s useful online for video meetings but remember it allows a maximum of 10 people on the free plan
 * IRC: it’s the classic solution on open source to chat but for the new generation and for the mobile world it’s too difficult to configure and understand
-* Slack-like: it is a IRC 2.0 that may improve the organization in groups of people and usually a bridge between IRC and Telegram can improve the migration. Slack have problems on onboarding new people because the free plan is very limited to 10000 messages (also on private groups and is very easy to reach that). It is not open source and there are many alternatives without that problem. This tools, like telegram have integrations such as bots.
+* Matrix/Slack-like: it is a IRC 2.0 that may improve the organization in groups of people and usually a bridge between IRC and Telegram can improve the migration. Slack have problems on onboarding new people because the free plan is very limited to 10000 messages (also on private groups and is very easy to reach that). It is not open source and there are many alternatives without that problem. This tools, like telegram have integrations such as bots.
 * Mailing list: like irc they can be annoying but used for the marketing part they work very well
 * Discourse or forum: with a modern interface they work very well with notification and other stuff
 * Collaborative Documents: they are important to work together on a plan. Etherpad in the open source world are the best, but they are very poor in features like: comments or suggest changes, notification and classic features of a text editor. Usually Google Docs are used, covering all those features but the urls are very complicated and some people don’t like that because they are not open source.

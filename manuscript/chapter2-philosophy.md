@@ -34,8 +34,9 @@ In the open source world this doesn't exist, a service works because some people
 
 Why everything starts in the open source ecosystem? Because a user sees a problem, something missing, text written badly or with typos, incomplete localization and so on.  
 Basically the contribution starts when something doesn't sound so good and the issue is quite clear.   
-When the problem is noticed instead of doing a useless comment online or a ranting at the pub/bar, there is an action with a report and the problem is/will be gone. This is the contributor, that enforces the contributor mode (next chapter) without noticing it.  
+When the problem is noticed instead of doing a useless comment online or a ranting at the pub/bar, there is an action with a report and the problem is/will be gone. This is the contributor, that enforces the contributor mode (next chapter) without noticing it just because OSS require commitment.  
 This report is the first step to contribute to the project, because behind there are people that are not perfect and that can miss something.  
+The society doesn't understand all of this things, maybe the 4 freedoms are more easy to accept but the commitment on something that is from the IT world is very strange. We need to help the society to understand why this commitment is important, like the civic hacking or other reality that in the IT world act to improve the quality of life using the technology.
 
 ![The real story](images/2/open-source-developers.jpg)
 
@@ -56,6 +57,8 @@ When working with public domain resources, there shouldn't be any *omerta*,for i
 Nothing is more distant from civics (that in Italy is very poorly understood, even if now it's mandatory to teach it in public schools).  
 
 ![Open Source is adorable](images/2/adorable.jpg)
+
+There is also another kind of reporting, the one that can help your community on track what is happening or just gathering the common questions and write some documentation. Those are more tasks for a community manager and will be defined in other chapters on the book.
 
 ### How to do a ticket
 

@@ -1,6 +1,7 @@
 -# What are the most common areas of activity?
 
 Prerequisite of the activities to propose is the mentioned chat. That way the volunteer is ready to do something, not alone of course, but with your help.  
+Remember Open Source is not just project promotion but everything that let the project alive, contribute in other areas can help your overall view and open new ideas to move further what you are doing and the project itself.
 They get confidence with your help in the project without experiencing the huge barrier of a link with a list of things to do.  
 It's not always possible to have that chat but in my experience without that the volunteer will always have problems to understand something of the project – why is this so or how that works for example. 
 
@@ -28,6 +29,8 @@ PS: The joy of contributing happens when you see your change/improvement/localiz
 The biggest gratification of a volunteer is the activity he did is used by others!
 
 Imagine your contribution to the project and the effect of other people on what you are doing to get a boost of motivation!
+
+Just a little note, there aren't only common areas but also tasks that are often repeated or that happens periodically, those are areas where a new volunteer or a contributor can act to improve the amount of time used to dedicated on something more important.
 
 ## First level activities
 
