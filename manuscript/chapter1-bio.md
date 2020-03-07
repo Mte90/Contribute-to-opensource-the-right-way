@@ -138,15 +138,16 @@ An important lesson is in the working environment and human, there are reasons b
 
 I want to close this section with links from my blog about a lot of experiences in Mozilla, I had always the habit to write a report after events or topics, and know they are a very valuable resource to understand the period and what was happening years after:
 
-* [https://daniele.tech/2014/10/september-mozilla-marketplace-contributor-of-the-month-daniele-scasciafratte/](https://daniele.tech/2014/10/september-mozilla-marketplace-contributor-of-the-month-daniele-scasciafratte/)
-* [https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/](https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/)
-* [https://daniele.tech/2016/06/mozilla-all-hands-london-was-there/](https://daniele.tech/2016/06/mozilla-all-hands-london-was-there/)
-* [https://daniele.tech/2016/06/confsl-2016-was-there/](https://daniele.tech/2016/06/confsl-2016-was-there/)
-* [https://daniele.tech/2016/09/mozilla-tech-speaker-meetup-european-gathering-in-berlin/](https://daniele.tech/2016/09/mozilla-tech-speaker-meetup-european-gathering-in-berlin/)
-* [https://daniele.tech/2016/09/clsxitaly-roma-2016-was-there/](https://daniele.tech/2016/09/clsxitaly-roma-2016-was-there/)
-* [https://daniele.tech/2017/01/get-stats-of-your-browser-extension/](https://daniele.tech/2017/01/get-stats-of-your-browser-extension/)
-* [https://daniele.tech/2017/09/why-developing-browser-extensions/](https://daniele.tech/2017/09/why-developing-browser-extensions/)
+* [September Mozilla Marketplace Contributor of the Month: Daniele Scasciafratte](https://daniele.tech/2014/10/september-mozilla-marketplace-contributor-of-the-month-daniele-scasciafratte/)
+* [The Firefox OS 1.x/2.x Problems](https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/)
+* [Mozilla All Hands London – I was there](https://daniele.tech/2016/06/mozilla-all-hands-london-was-there/)
+* [ConfSL 2016 – I was there](https://daniele.tech/2016/06/confsl-2016-was-there/)
+* [Mozilla Tech Speaker Meetup & European Gathering in Berlin](https://daniele.tech/2016/09/mozilla-tech-speaker-meetup-european-gathering-in-berlin/)
+* [CLSxItaly Roma 2016 – I was there](https://daniele.tech/2016/09/clsxitaly-roma-2016-was-there/)
+* [ExtStoreStats – Get stats of your browser extension](https://daniele.tech/2017/01/get-stats-of-your-browser-extension/)
+* [Why I am developing Browser Extensions](https://daniele.tech/2017/09/why-developing-browser-extensions/)
 * [https://daniele.tech/2017/11/analisi-del-sondaggio-mozilla-su-iot/](https://daniele.tech/2017/11/analisi-del-sondaggio-mozilla-su-iot/) - Italian
+* [Firefox lost the browser war and what we can do?](https://daniele.tech/2020/02/firefox-lost-the-browser-war-and-what-we-can-do/)
 
 ![The monument with the names of 5000 Mozillians in front of the Mozilla's office in San Francisco](images/1/monumento.jpg)  
 
