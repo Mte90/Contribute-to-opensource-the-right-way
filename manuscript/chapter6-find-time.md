@@ -53,6 +53,14 @@ It is a fact that veteran volunteers become the reference and usually are gettin
 Those are difficult to plan but it's possible if you leave a spot in your day to check if you have this kind of requests.  
 Leadership without involvement is impossible, for this reason usually when there is someone that wants to lead and no experience, there are no interests on what he is proposing. This is kind of normal, you need to get the respect from the community in this role, taking care of it by replying to the requests is important.
 
+## Delegating
+
+Another option is clearly assign tasks to someone else or delegating. This can be a workaround but in the reality is a way to empower others and grow the project itself.  
+At the same time help you to avoid burnout, understand what is the amount of tasks that require you and others that can be done from others.  
+As contributor or leader is important to empower others to create better relationships but just do a better team job for the purpose of the project itself.  
+The benefits of the delegating can be very surprising because with empowering others there will be probably new opportunities to grow or change something that you never think of.  
+At the same time this avoid the gatekeeping that sometimes in OSS is a problem that block the project itself also for long time and creating a difficult feeling around the work that you are doing.
+
 # Conclusion
 
 I can't show you how to save your time. It is on you to analyze your tasks and your time and understand how you can optimize it to do whatever you want.  

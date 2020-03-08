@@ -17,7 +17,12 @@ This 4 freedoms created the philosophy and the open source model.
 
 I> Open source model examples: Open Hardware (Arduino or RepRap), Open Content (Creative Commons license), Open Knowledge (WikiPedia or Project Gutenberg), Open Data (OpenStreetMaps), Open Access (Open Document File formats)
 
-We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that it is free of charge. This point is very difficult to understand for newcomers and if you have troubles, well check it out reading the rest of this chapter.
+We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that it is free of charge. This point is very difficult to understand for newcomers and if you have troubles, well check it out reading the rest of this chapter.  
+Another important benefit of Open Source is that you are getting in addition to the product a bonus, the access to the various pieces that build it. It is like getting a pizza but also the recipe with the various information for any ingredient and so on. For a non-technical person this can be useless but when you need to study how works or implement based on the requirements of your customer is very important because let you to do a full analysis.
+
+I> Good artists copy; great artists steal.
+I> From: [https://quoteinvestigator.com/2013/03/06/artists-steal/](https://quoteinvestigator.com/2013/03/06/artists-steal/)
+I> In the IT world there is another version: "Reinventing the wheel" but I prefer to add also "What is not understood is not possessed" of Johann Von Goethe to help you understand the philosophy.
 
 ## Do ut des
 
@@ -115,4 +120,20 @@ I call it so because I am a nerd, and probably because eating so much candies, c
 # Conclusion
 
 I hope that now it’s clear why Philosophy is so important: not only it differentiate us from our competitors (the non-open projects) but it’s for us a path to follow.  
-Open source without understanding the philosophy or way it should be open or managed openly, is only another proprietary project hidden by the code availability. Again a project without a license is not an open source project.
+Open source without understanding the philosophy or way it should be open or managed openly, is only another proprietary project hidden by the code availability. Again a project without a license is not an open source project.  
+The real question could be *Why you should join a OSS project?*, let's see some points:
+
+* Improve your knowledge in different areas
+* Visibility on your field
+* You can find a job or new employees
+* You do something also for others
+* You will see some effect of what you do in other people or areas
+* Learn the rules to work with other people
+* Learn how to verify the problems/issues reported
+* Fight against demotivational critics
+* Helps others also with code
+* Learn when avoid Jargon language
+* Find people similar to you
+* Find mentors
+
+Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.

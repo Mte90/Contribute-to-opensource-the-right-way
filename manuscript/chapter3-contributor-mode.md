@@ -2,7 +2,7 @@
 
 I call “Contributor Mode” that moment I use to code patches, localize or organize events (no specific key combo here – I grew with videogames).
 
-In other words, when I am highly focused in these activities,doing something I like (oftentimes) and I strive to do it the right way. Usually I enter Contributor Mode to have a break between 2 different job activities, to relax a bit.
+In other words, when I am highly focused in these activities, doing something I like (oftentimes) and I strive to do it the right way. Usually I enter Contributor Mode to have a break between 2 different job activities, to relax a bit.
 
 This makes distinguishing among work and contribution periods easier. Often these two activities may be on the same level of importance, but I prefer shifting my attitude in performing them, for later I may use the outcome of contribution for a job project.  
 
@@ -17,7 +17,7 @@ Simple! You have to learn to live inside it.
 
 How can you live in an open project without any previous experience in contributing to one?  
 
-Good question,if the answer was simple you probably would be doing something else now, instead of reading this book.  
+Good question, if the answer was simple you probably would be doing something else now, instead of reading this book.  Also don't forget that more is small the project more is easy to contribute to but you should not be afraid to discover how big project works.  
 Take a moment, relax, get ready to discover a new approach to community projects that may help you in your work as well as your daily life.  
 
 ## How to live inside the Open Source
@@ -39,9 +39,24 @@ For Italian people usually those rules are enough to understand how to behave di
 
 ![Body languages difference all around the world](images/3/body-language.jpg)
 
+Basically Open Source is a group work with different people so is important to have some basics rules to live and moving on and avoid problems during the discussions that can degenerate on flame war.
+
+### Understand if a project is alive
+
+One of the common issues in Open source is to understand if a project is alive, abandoned or dead.
+
+When is alive is easy to see, the tickets are getting replies in reasonable time (like 1 month at maximum), the pull requests are getting reviews, the social channels keep pushing updates when there are (and not forgetting to do so) and so on.  
+Abandoned is more complicated because maybe the owner or maintainer is not replying on the tickets or pull requests but is active on social networks. So basically seems that is not caring at all of the project but he wrote anything about it in the project page itself. Usually this means that a fork is possible without so many troubles but probably will be difficult to get the ownerships of the website domain, social accounts etc from the original creator.  
+Instead dead is like abandoned but there are no forks or any communication but just people asking if the project is still alive and no one is interested to move on the project.  
+
+Based on your skills you can decide what kind of effort you can put in a project and define a goal. As example can be: create a new fork that handle some bugs that are very annoying to still use the project without do any brand changes or  define a big plan maybe with the help of someone else.  
+
+As newcomer to open source of course probably is better to start with a project alive but if you have skills and you think that you know how to lead a project you can do a fork, keeping the quality standards and so on with a fork.  
+The kind of fork is based on the goals that you want to achieve and the time that you want to put on that. Can be strange this reference to time but when you take ownership of a OSS project you will see a lot of problems with time management for various reasons but this book has a full chapter about that.
+
 ### Communicate on the internet
 
-The action of communicating is foundamental. If we communicate badly we lose everything. The talker is an introvert who may as well work on his own, all alone in a garage, without issues.  
+The action of communicating is fundamental. If we communicate badly we lose everything. The talker is an introvert who may as well work on his own, all alone in a garage, without issues.  
 One reason why I wrote that book is my interest in life coaching and self-help, that helped me discover many things about the fact I am not so good in communicating what is on my mind and to meet what others expect in terms of interactions, tone and mood from me.  
 
 Think about being in an international context, where there are cultural differences, and communication happens in another language to understand how complexity level can ramp up.  
@@ -215,7 +230,7 @@ Very often you aren't in the position of the first on the market or the more ava
 
 #### Provide useful resources for newcomers
 
-Newcomers always have the same issue as we had ourselves in the past: they are disoriented. Transforming them in autonomous user is critical to lower their defenses, it's the reason Travellers' Club is famous, it lets travellers collect books about the cities they visited, to visit them as they wish.  
+Newcomers always have the same issue as we had ourselves in the past: they are disoriented. Transforming them in autonomous users is critical to lower their defenses, it's the reason Travellers' Club is famous, it lets travellers collect books about the cities they visited, to visit them as they wish.  
 In an Open Source project is not always possible to do what one wants, having a set of instructions is very helpful. It's like the concierge in a hotel explaining what to visit, where to eat and soon. It's nice and one feels welcome.
 
 One of the suggestions or activities I think are among the most powerful to boost engagement in newcomers is proposing them to read the documentation because:
@@ -224,7 +239,8 @@ One of the suggestions or activities I think are among the most powerful to boos
 * They review the resources and may be able to signal if they need updating/corrections, if something is missing and if they are overall clear and understandable
 * Tomorrow they will know how they can use documentation and they will help in empowering it in the long run
 
-Reading is accessible to everyone and doesn't require a lot of efforts or time (not to mention by reading one gains experience on the project) but it's a first important step to engage and involve the reader in being a part of it and to contribute back. Maybe fixing typos or updating screenshots included in the page.
+Reading is accessible to everyone and doesn't require a lot of efforts or time (not to mention by reading one gains experience on the project) but it's a first important step to engage and involve the reader in being a part of it and to contribute back. Maybe fixing typos or updating screenshots included in the page.  
+Read the documentation let the volunteers to discover how the project/community is structured, organized and what are the various web portal or tools that are important. As example in Mozilla, Pontoon is the web tool for localization instead in WordPress is GlotPress or in OpenSuse is Weblate. 
 
 #### It's comfortable because it's something you know about or have real experience on
 

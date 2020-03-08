@@ -17,7 +17,7 @@ If this works with systems why can't it work with your tasks?
 I will mark with *D* the activities that can have a direct effect on the project and *I* he ones whose impact is difficult to measure but are part of the things people can do even if they aren't active members of the project.  
 Also, I divided the various areas by level, the higher the level the more experience is required in the project or for the type of activity (basically some activities require skills that you might not have).
 
-Just before reading the next chapter, ask yourself this questions:
+Just before reading the next chapter, ask yourself this questions "To live inside this project, ...":
 
 * What do you like to do?
 * What are your skills?

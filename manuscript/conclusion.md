@@ -4,7 +4,7 @@
 
 Open source was a scary topic years ago, they used to see you as an amateur. This is a fake new today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
 Do you know Volvo invented the seat belts but the patent was set up as free to use for all to improve the security for everyone?  
-I think we need people discovering how the open world changed everything already.  
+I think we need people discovering how the open world changed everything already, and give to them the opportunities from time slot in their job as example.  
 
 From the routers in every house to connect to the internet, that are cheap because of open source technologies allowing internet to spread everywhere and so on.  
 We as people need to let the rest of the world be more conscious for what there is around, as we are doing with climate change.  

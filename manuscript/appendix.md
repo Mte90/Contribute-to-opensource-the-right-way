@@ -1,5 +1,18 @@
 -# Appendix 1 for Community Managers
 
+## Divide your community members to various levels
+
+As we saw in this book a project can have different areas of involvements or activities and this based on the volunteers availability.  
+It is important to organize at the best what you want to do as community manager divide (just for you) the volunteers in various levels so based on your needs you know what kind of people to reach.  
+We can define as example in this ways:
+
+* Author/Owner - The creator of a project or the is the leader
+* Maintainer - A different role then the above that is doing the hard work of keeping everything work and also checking for issues or new opportunities
+* Contributors - People that can work based on their time on specific activities
+* Community members - the whole group of people that is moving on the project
+
+This groups of people can have as example different communications or different knowledge of what is the project is doing. Keeping an eye on those will help you to find people "to promote" on different tasks that can require more accountability as example.
+
 ## How to manage a meeting
 
 Meetings can be boring so it’s important to have an agenda with strict times to be sure not to forget something or keep at pace with the plan itself.  
