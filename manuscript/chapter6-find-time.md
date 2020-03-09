@@ -47,6 +47,8 @@ As example, I do an important task, I deserve a long break maybe 30 minutes or m
 They suggest a piece of chocolate, I do something else. Also, doing such breaks during the work is a way to not get distracted or tired working at the computer, we easily switch to different things keeping the attention span working. Of course, I sometimes dedicate the afternoon to something specific,it may be work or an open source task but it's on me to decide based on the priorities what to do.  
 This should happen to you also, in this way you can better value your time, your work and get more satisfaction from it.
 
+Another way can be define an hobby that you want to invest your time, as example for myself for an year I worked to improve my knowledge in other spoken languages. In this way you can appreciate more how you are using your time and define what kind of break you need based on your time availability.
+
 ## Leadership
 
 It is a fact that veteran volunteers become the reference and usually are getting a lot of requests for help or for their feedback on something.  

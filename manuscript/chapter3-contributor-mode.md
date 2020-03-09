@@ -95,7 +95,9 @@ What does advanced knowledge of the project means?
 
 First of all recognize if the request is compliant to the reporting tool. Few examples: ticket about an issue that instead should be reported to another project, documentation issue reported as error instead it's a localization issue, budget request in a public ticket system and so on. 
 
-A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will be not abandoned for months because it's not clear the status. And again there will be a documentation of what is required to do.
+A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will be not abandoned for months because it's not clear the status. And again there will be a documentation of what is required to do.  
+On the other side if someone open a ticket give to them the clues to fix on their own the fix and contribute back to the project, one example give to them the line and the file to patch so they can open a pull requests or suggest a new wording for the documentation.  
+Also be quickly to reply is important because the contributor feels to be appreciated for what is doing, wait weeks is not healthy for the project and the interest of the contributor.
 
 Scared about the tool?  
 Often the tool is public, sometimes there is the fear of the public (like in public speaking) with concern it would be permanent because it is written. I remember the first time I opened a ticket on Debian for an error on a software that I was using. I had a lot of anxiety because I had to use the email instead of a web interface, I was writing a ticket to one of the biggest Linux organizations in the world.  
@@ -169,14 +171,15 @@ Usually one of last messages of that kind of discussions states “problem was f
 
 ![XKCD #979](images/3/wisdom_of_the_ancients.png)
 
-The Feynman technique, created by the Nobel winner physicist consists of 4 rules:
+The [Feynman technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/), created by the Nobel winner physicist consists of 4 rules:
 
 * Pick a topic you want to learn
 * Pretend that you are teaching to a kid (like the hashtag #explainlikeiamfive)
 * Identify issues in your explanation, go back and recheck
 * Simplify and use analogies
 
-This technique is used to learn any topic in the most effective, easy and fast way. In Open Source world it would be a part of Public Speaking of Documenting.  
+This technique is used to learn any topic in the most effective, easy and fast way. There is another version called [Explanation effect](https://medium.com/accelerated-intelligence/explanation-effect-why-you-should-always-teach-what-you-learn-9800983a0ea1) that include also a research and other modern information.  
+In Open Source world those technique would be a part of Public Speaking of Documenting.  
 Being a grumpy cat doesn't clearly help, even if you are trying to use the technique. So it is required of you to come out of the shell, meet people and confront with them, Trust me, at the start it may seem it makes no sense, but one of the reason this book was started, was because of that.  
 
 What are the benefits of applying the art of documenting then?: 
@@ -187,6 +190,8 @@ What are the benefits of applying the art of documenting then?:
  * You help improving the project's branding
  * You provide useful resources for newcomers
  * You feel confident for you know the topic or you have a real experience with it
+
+Also to keep you active and aligned with your world is important to not stop from learning every year something new, and maybe learn how to document can be your next goal to move on your knowledge! Don't forget that if you stop to learning you can become easily obsolete but the goal of this book is to not be so pessimist.
 
 Those are the good reasons to start documenting the right way, let's see them in detail! 
 

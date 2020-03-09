@@ -232,3 +232,5 @@ X> * Where you see yourself in this story
 X> * What is your biggest target (also non-realistic)
 X> * What is the first step you want to do
 X> * What you want to learn
+
+There are also other FOSS story around with less photos but more clear learnings (maybe) like [this one](https://blog.burntsushi.net/foss/).

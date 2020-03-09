@@ -62,7 +62,7 @@ Back on track, the next pages are based on this document that is still available
 
 Think that these points are important to understand how much a project may be easy for newcomers:
 
-* What are the tools to get familiar with the community and for what kind of requests (forum, mailing list, telegram, etc.)?
+* What are the tools to get familiar with the community and for what kind of requests (forum, mailing list, telegram, etc.)? Ex: IRC is not easy for newcomers from the UX to access, evaluate other solution like Telegram or Matrix
 * What are the tools that the project uses to document itself (manuals, wiki)?
 * The most common 5 issues that newcomers have in the project
 * 3 tips to contribute to the project

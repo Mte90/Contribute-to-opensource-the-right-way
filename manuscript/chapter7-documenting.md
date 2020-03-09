@@ -98,4 +98,5 @@ Next steps:
 
 # Conclusion
 
-Take this chapter as inspirational for you to start writing documentation about community management but also on other things. Write the most stupid things too but write them, the next one that is going to replace you probably won't know everything.
+Take this chapter as inspirational for you to start writing documentation about community management but also on other things. Write the most stupid things too but write them, the next one that is going to replace you probably won't know everything.  
+Instead if you are interested on discover how to write documentation from the language or the style there is [this guide by Google](https://developers.google.com/style).

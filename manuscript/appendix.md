@@ -20,7 +20,8 @@ During the meeting take few minutes to talk about the purpose of the meeting (al
 Preparing the attendees it’s important to improve the quality of the meeting itself and to be proud of what was done during this time, so it is not going to be a boring meeting.  
 The agenda of the meeting is important, and also the titles of the various moments that help to remember the topics (a nice tip can be to add a prefix on your communication like "Website localization - First steps" or "Event organization 2020 - Venue").  
 The order too, put on top the topics with more priority, avoid jargon during the meeting and don’t forget to leave time to reply to questions and also the last words to the attendees.  
-Don’t forget that someone needs to get notes of the meetings for the people that missed it and to write a report, also define a specific amount of time to avoid off topic discussion and be on track.  
+Don’t forget that someone needs to get notes of the meetings for the people that missed it and to write a report, also define a specific amount of time to avoid off topic discussions and be on track.  
+At the same time can be important to have a moment during the meeting for open floor questions but just define in it on your agenda so everyone can plan what to ask in that slot.
 
 ### When
 

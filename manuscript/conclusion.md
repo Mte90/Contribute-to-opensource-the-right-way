@@ -103,3 +103,8 @@ My experience level couldn't be as it is now without the help of a lot of people
 * "How to Win Friends and Influence People" by Dale Carniege and the new edition for the digital era - It is the basic about human relationships, talking and engage better with people.
 * "Rebel Code: Linux and the Open Source Revolution" by Glyn Moody - The story about Linux and open source with interviews.
 * "Hyperfocus" by Chris Bailey - How to be productive, avoid distraction and use better your time every day.
+
+## Other resources
+
+* [OpenSource.guide, a GitHub official project with a lot of guides about Open source, contribute and so on](https://opensource.guide/)
+* [Producing Open Source software, a book by one of the core contributor of SVN](https://producingoss.com/en/)
