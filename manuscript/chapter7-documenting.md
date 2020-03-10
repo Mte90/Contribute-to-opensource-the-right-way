@@ -2,12 +2,14 @@
 
 Maybe it's not clear, documenting is very important even if it is boring.  
 You have no idea how much it may be powerful to document and allow for these resources to be used from everyone.  
-You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI and because of your story you need to be the master.  
+You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI or the logo changes (I am talking to you Mozilla) and because of your story you need to be the Master.  
 You have to stop making the things worse, before the new logo change or the new motto to be ready, moving on your hobbits to the next fatigue and making everything better.
 
 Probably too much cinematic but I think you got the point, before performing better than what we have now you have to stop things from getting worse.  
 
 This book is based on documents that I have written during the years and also this chapter is filled with things gathered in various resources that I have written for my communities and maybe it can be inspirational for you!
+
+Just as example how FAQ, guide, tutorial, wiki and so on can grow during the time just with a first kick to the ball (if those are open to everyone to contribute).
 
 ## How to analyze an activity
 

@@ -74,6 +74,9 @@ Few example of this points on public discussion I started:
 * [About regional local community management in Mozilla](https://discourse.mozilla.org/t/about-regional-local-community-management-in-mozilla/38924)
 * [About the Volunteer role in the Mozilla workflow decision chain](https://discourse.mozilla.org/t/about-the-volunteer-role-in-the-mozilla-workflow-decision-chain/38451)
 
+The lesson of this section is: don't be afraid to ask (in the right place) questions.  
+Open source contributors also have a big problem about communications because you need to be also a good communicator. **We are exposed on the internet**, what we say as comment about a project or a issue can be the first step of the [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect). We prefer async communication, especially if we are not native English speakers because we can improve the quality of what we have to say and be more comfortable.
+
 #### Ticket/Bug/Issue
 
 Based on the service/tool used they have different names, I prefer *ticket* that can be a container also for other kind of requests like features, roadmap, discussions instead of something specific (like a bug).  
@@ -265,6 +268,16 @@ We saw that the first step is to teach to others but there also other steps or t
 * Study the evening before to sleep is very powerful because helps you to remember what you read more easily
 * Create a list of stuff to read or study when you have time
 * Find a way to experiment what you are learning, check the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
+
+I want to quote a phrase from this article [Interview candidates with an Open Source background](https://toscalix.com/2019/12/10/interview-candidates-with-an-open-source-background/) that I liked a lot:
+
+    Professionals with a solid Open Source background do not depend on certifications paid by their companies to learn how to use their tools, or having to change their base tool-set regularly, limited by commercial decisions. 
+    In other words, Open Source professionals have made their career supported in specific tooling and associated practices they have chosen and mastered.
+
+It is easy to spot the real skilled people with knowledge about it, I saw this also on my job. People thrust me about specific topi because I know how they works not because I read a tutorial but because I studied the internal stuff and experienced in a lot of different ways. Just create a repo for [hacktoberfest](https://hacktoberfest.digitalocean.com/) to do 4 pull requests and get a t-shirt cannot compare to with people that does real effective contribution and improve their skills on high level.  
+Of course you can create a repo for learning but just doing it in that period of the year doesn't mean that you are a contributor.
+
+Open source skilled people doesn't have a CV (after all I don't have any) but our career speak for us and is more powerful of a course bought on Udemy. Probably we need to improve our communication skills (one of the reason of this book) but this is another topic.
 
 # Conclusion
 

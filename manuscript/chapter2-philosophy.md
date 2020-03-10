@@ -115,7 +115,17 @@ The next chapter approach a bit how to improve the quality of your learnings wit
 Now that you joined, what’s next?  
 It’s up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.  
 Next chapter is about how to maximize the Contributor Mode.  
-I call it so because I am a nerd, and probably because eating so much candies, chocolate, liquirice, fruits and the like, I get to drink not enough coffee,
+I call it so because I am a nerd, and probably because eating so much candies, chocolate, liquirice, fruits and the like, I get to drink not enough coffee.
+
+## How to manage a new project or a legacy one
+
+This is an hot topic today with a lot of technical debts around, old projects released [open source or to the public (two different things)](http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) or a project started in the company internally now is ready to be published to the OSS world.  
+There are tons of article about how to manage a legacy project/codebase but I don't want to talk about those.  
+
+The real point is that if you are starting a project is important that the code is ready from the start to be released as public just because the project rules, tickets, commits, and so on will be free of badwords (I know what happens), non-english stuff, documentation etc are ready to be released. Take as example if you are hardcoding token and other things that is better to avoid in your commit history, if there issues in non-englush languages mentioned in the code that the people doesn't have access to.  
+The transparency of the OSS management can benefit the quality of the project itself also if internal and to new people that will work on that.  
+
+For legacy project instead it is important to define the license, how to setup a dev environment (if it is possible) and give all the information that are available and that can be helpful to run your tool. DOn't be like [this (source code of XIII game that I like so much, also the comic)](https://github.com/Ch0wW/xiii_unrealscript) that doesn't include any readme or documentation.
 
 # Conclusion
 
@@ -137,3 +147,5 @@ The real question could be *Why you should join a OSS project?*, let's see some 
 * Find mentors
 
 Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.
+
+**Don't be just a OSS promoter but a OSS contributor!**
