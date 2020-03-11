@@ -13,6 +13,26 @@ We can define as example in this ways:
 
 This groups of people can have as example different communications or different knowledge of what is the project is doing. Keeping an eye on those will help you to find people "to promote" on different tasks that can require more accountability as example.
 
+## How to do productive discussions
+
+One of the problem in a community that is easy to change the focus or the point of the discussion, in other words to go off-topic. This isn't a specific problem of the meetings but with any discussion from emails to chat.  
+My experience taught me that in a chat if you sent 2 messages (not 2 questions in the same message) people will reply to just one, maybe the first one or the last one.  
+
+There are 2 kind of discussions productive or useless and as maintainer or community manager is important to get the maximum to save your time, because communication is a time-consuming task.  
+How you can recognize Useless discussions? Check this list:
+
+* When are used a lot of hyperbole
+* There is a lot of repetition
+* There are tons of new ideas without any clear proposal
+* Noise detection
+  * Comments from inactive people can be very dangerous:
+      * They are not aligned with the project status
+      * They are just lurking so don't have any experience of the community life of the project
+      * Can act as troll because you [just changed their workflow](https://xkcd.com/1172/)
+   * Doers are usually silent and is important to reach them
+
+This are basic rules but you need to give a different weight to the your evaluation based also on the previous section. Every volunteer is important but some can have more relevance on the decisions just because they are alive and participating in what you are doing.  
+
 ## How to manage a meeting
 
 Meetings can be boring so it’s important to have an agenda with strict times to be sure not to forget something or keep at pace with the plan itself.  
