@@ -59,7 +59,7 @@ Because they show you are very well organized and motivate him to join in the ne
 
 ## How to approach a problem/improvement or how to organize a new project/team
 
-In every team there are discussions about new ideas or problems that need to be solved and there are different tricks to speed up and define a roadmap.
+In every team there are discussions about new ideas or problems/blockers that need to be solved and there are different tricks to speed up and define a roadmap.
 
 * Try explaining only with words what are the goal of that, Ex:
     * Get fun

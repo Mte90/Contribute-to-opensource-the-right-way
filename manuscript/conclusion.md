@@ -108,3 +108,6 @@ My experience level couldn't be as it is now without the help of a lot of people
 
 * [OpenSource.guide, a GitHub official project with a lot of guides about Open source, contribute and so on](https://opensource.guide/)
 * [Producing Open Source software, a book by one of the core contributor of SVN](https://producingoss.com/en/)
+* [Mozilla Contributor Research 2017](https://mzl.la/whyopensource)
+* [Mozilla Open Strategy 2018](https://mzl.la/openstrategy)
+* [Mozilla Contributor's Communities 2019](https://report.mozilla.community/)

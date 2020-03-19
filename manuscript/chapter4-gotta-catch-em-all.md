@@ -78,7 +78,7 @@ Moving to the marketing side:
 
 ### Rules for the interviewer on recruiting
 
-As talkative Italian I defined these rules for an informal chat (1:1 or 1:many-people).
+As talkative Italian I defined these rules for an informal chat (1:1 or 1:many-people) or a way to identify better a (future) contributor.
 
 * Ask friendly, you are talking with a probable volunteer so you can be informal, but don't forget that you are looking for a volunteer and not for a professional
 * Get informed about the interests of the local people in the area of volunteering you are looking for

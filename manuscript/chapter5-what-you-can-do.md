@@ -28,7 +28,8 @@ The answers to these questions will give you a personal overview of the area or 
 PS: The joy of contributing happens when you see your change/improvement/localization/etc being used by everyone, and they don't know you are the author.  
 The biggest gratification of a volunteer is the activity he did is used by others!
 
-Imagine your contribution to the project and the effect of other people on what you are doing to get a boost of motivation!
+Imagine your contribution to the project and the effect of other people on what you are doing to get a boost of motivation!  
+This is also part of understand what the others are doing inside the project and how is moving on, where you can help and maybe new blockers.  
 
 Just a little note, there aren't only common areas but also tasks that are often repeated or that happens periodically, those are areas where a new volunteer or a contributor can act to improve the amount of time used to dedicated on something more important.
 
@@ -59,7 +60,7 @@ Probably a combo will be to translate something about Support.
 This is very important, as is the reviewer, because they can learn about the project and make it something to improve it. It follows reviewer rules.  
 The difference is that Testing consists in trying to find problems or bugs while Reviewing on the other hand consists in writing a document including all the problems without going in depth about implementation but only to receive feedback.
 
-### Promotion/Evangelism *D/I*
+### Promotion/Evangelism/Design *D/I*
 
 Promotion is very important, you can have the coolest project but if the rest of the world is not interested, it will die.  
 This is a lesson I learned in the startup world, often the most successful company may not have the best project but is promoted better.  
@@ -119,11 +120,13 @@ Also, this is a very important role because usually it is a bridge between new v
 There will be a guide on how to motivate volunteers in the appendix, because also the most active one can have his/her moments of doubt or other things to do, and we need to re-engage them later, or we can easily lose their help.  
 A little suggestion, don't forget that the community likes to be involved in decisions, because the project is open, so defining ways to let them join in it's very important.
 
-### Development *D/I*
+### Development/Infra *D/I*
 
 If the project has a software, well they are important!  
 Without skilled developers the project will be dead in short time, because it will be abandoned and you don't want that.  
-People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.
+People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
+
+Also some projects has a different team called Infra or infrastructure or Meta and he role is to keep moving on the official websites and the various tools used by the project from the ticket system to the git instance. They can be developers that create a new theme or specific needs or sysadmin that keep the server safe and updated.
 
 # Conclusion
 
