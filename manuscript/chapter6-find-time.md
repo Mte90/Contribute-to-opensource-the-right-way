@@ -27,8 +27,10 @@ With work, I mean a patch to something that I need to use, open a ticket for an 
 My needs are specially to enhance the next part of my workflow but sometimes also for daily usage of my workstation, like a browser extension or a script to automate stuff.  
 I want to help: this instead is based on my free time, but how I can merge all of them in my daily life?  
 
-I have a wall of post-it, bookmarks of tickets, notes about things to do and so on. I order them based on the priorities and based on performance time and the third part of the workflow. Another point is also part of the project management, check who can do that task and propose it to him/her. In this way you are motivating a new volunteer, becoming his/her mentor (maybe), using the skills of a new volunteer and saving time to do something else.  
-Learning to delegate is very important and lets you focus on the things that you can do better, in the meantime onboarding new people that (maybe) can help you on that task later.
+I have a wall of post-it, bookmarks of tickets, notes about things to do and so on. I prefer to write any idea to free my mind about those thoughts and focus on something else, maybe I can recatch them after days or weeks.  
+I order them based on the priorities and based on performance time and the third part of the workflow. Another point is also part of the project management, check who can do that task and propose it to him/her. In this way you are motivating a new volunteer, becoming his/her mentor (maybe), using the skills of a new volunteer and saving time to do something else.  
+Learning to delegate is very important and lets you focus on the things that you can do better, in the meantime onboarding new people that (maybe) can help you on that task later.  
+Others suggest in case you tasks that you don't want to do it, instead of doing them later is better to do them as first. In this way you feel more relaxed and free to do the rest of things in queue.
 
 ## Optimization of tasks
 
@@ -61,7 +63,18 @@ Another option is clearly assign tasks to someone else or delegating. This can b
 At the same time help you to avoid burnout, understand what is the amount of tasks that require you and others that can be done from others.  
 As contributor or leader is important to empower others to create better relationships but just do a better team job for the purpose of the project itself.  
 The benefits of the delegating can be very surprising because with empowering others there will be probably new opportunities to grow or change something that you never think of.  
-At the same time this avoid the gatekeeping that sometimes in OSS is a problem that block the project itself also for long time and creating a difficult feeling around the work that you are doing.
+At the same time this avoid the gatekeeping that sometimes in OSS is a problem that block the project itself also for long time and creating a difficult feeling around the work that you are doing.  
+
+## Burnout
+
+About this topics a lot of people with better knowledge then me wrote a lot of books.  
+My experience is basically to understand what are the priorities and define time slot, where after that you don't care except very important things (it is a skills understand what are them).  
+
+Usually burnout has different symptoms: isolation, feeling undervalued, recognition, values conflict, lose motivation and lack of autonomy.  
+There are somethings that you can do quick easy: automatize tasks (I use the rule of 3), understand what others are doing and how, communicate better.
+
+I># Rules of 3
+I> I don't remember where i found it but I have my own version: if it is a task that I do with the computer like 3 times a day or for week always in the same way you need to automatize it. Especially if this task is based on a lot of steps that can creates confusions. In case it is something where you cannot use a computer there are other ways to automatize things in this days with Zapier or IFTTT or if you are a developer you can find some ways.
 
 # Conclusion
 

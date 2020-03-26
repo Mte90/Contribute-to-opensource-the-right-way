@@ -99,12 +99,18 @@ Concluding, don't forget to take responsibility in case you are the culprit (by 
 
 ## The virtuosity of reports
 
-Let’s think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**. Gorgeous, isn’t it? Let’s take the first difficult step ourselves, let’s be ready to take it because we know how it’s powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.  
+Let’s think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**. 
+
+![](images/2/feedback.jpg)
+
+Gorgeous, isn’t it? Let’s take the first difficult step ourselves, let’s be ready to take it because we know how it’s powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.  
 
 On a personal level, it helps thinking in a constructive way, it helps in lifting depression and avoiding being angry with other people around us (I guess that moment before the proverbial "morning coffee" is an exception to that); it helps in making us more optimistic, it makes us grow better, when the request is well received and we wait like a child on Christmas Eve for the outcome.  
 In life, when something is not working we need to be listened, but the only way to achieve that is to be constructive and available because this speeds the process up a lot, by improving communication.
 
-Obviously, this isn’t a fool-proof method, but makes us trustable, it transforms the environment into one where interactions are productive/pleasurable/easy (when there is a shortage of time making things hectic, too!). Communicating that way also creates an “history” that may come useful in future times ahead as a reference.
+Obviously, this isn’t a fool-proof method, but makes us trustable, it transforms the environment into one where interactions are productive/pleasurable/easy (when there is a shortage of time making things hectic, too!). Communicating that way also creates an “history” that may come useful in future times ahead as a reference.  
+
+Another point is in a OSS project is not possible to do questions it isn't OSS. Another view can be you can do questions but there are some choices that for [1-2-3-etc] reasons is not possible to ask again.
 
 ## How to evolve it to the next Pokemon
 

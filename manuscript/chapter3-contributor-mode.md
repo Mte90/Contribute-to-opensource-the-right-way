@@ -140,7 +140,7 @@ Visit these links to find examples:
 
 #### Chat
 
-These days, they took the place of mailing lists condemning them to oblivion. Especially the new generations find very uncomfortable to write long messages, considering the fact they very often  use a smartphone in place of a computer.  
+These days, they took the place of mailing lists condemning them to oblivion. Especially the new generations find very uncomfortable to write long messages, considering the fact they very often use a smartphone in place of a computer.  
 Sometimes however they behave silly, for example when they ask what a link is about without even opening it. There is no way around that, the only thing we can do is welcome them in the community as fast as we can, so that they may learn its rules.  
 Rules may be boring to write down, but are indeed important. We need to explain them and enforce them as mandatory to avoid spam and people abandoning the channel for it's impossible to catch up with it.  
 It may be scary to some people to receive many notifications of unread messages from a very crowded community channel.  
@@ -150,7 +150,12 @@ The big issue with chats is to stay on topic, and get back to the topic when the
 
 An example of this is when one piles many questions/issues in one single message, when people join after some time the discussion,they are unable to catch up from the very top sometimes. In that case is better to face one thing at the time and pass on to the next when the previous is exhausted and in doing that there is the need to be intransigent with the discussion remaining on topic.
 
-E-mails allow for recap, or a single notification for a group of mails, chat systems send a notification for every and each message that gets to be posted, this resulting in a dancing and ringing smartphone in less than a minute.
+E-mails allow for recap, or a single notification for a group of mails, chat systems send a notification for every and each message that gets to be posted, this resulting in a dancing and ringing smartphone in less than a minute.  
+
+For this reasons a chat solution is fine for some stuff and not for everything. Also understand the kind of technology for chatting is important, is not just a flow of messages like IRC (that anyway is getting abandoned for various reasons), but include usability, multi-device usage and various levels of anonymous.  
+For a lot of people use IRC or Jabber is difficult because they have no idea of what means use a "client", that need to be configured but also what pick for that scope based on their system. Often this clients doesn't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc. Another problem is the anonymous level that today's with the various Code of Conducts is a problem because doesn't let to be enforced.  
+
+So a chat is not just a place to discuss but part of the ecosystem and need to follow some rules and expectations that are shared with everyone. Infact as example if you take specific kind of community for they is perfectly fine to be anonymous and they doesn't care of the client etc but for others instead the appearance is very important.
 
 #### Public Speaking
 
@@ -183,7 +188,7 @@ The [Feynman technique](https://curiosity.com/topics/learn-anything-in-four-step
 
 This technique is used to learn any topic in the most effective, easy and fast way. There is another version called [Explanation effect](https://medium.com/accelerated-intelligence/explanation-effect-why-you-should-always-teach-what-you-learn-9800983a0ea1) that include also a research and other modern information.  
 In Open Source world those technique would be a part of Public Speaking of Documenting.  
-Being a grumpy cat doesn't clearly help, even if you are trying to use the technique. So it is required of you to come out of the shell, meet people and confront with them, Trust me, at the start it may seem it makes no sense, but one of the reason this book was started, was because of that.  
+Being a grumpy cat doesn't clearly help, even if you are trying to use the technique. So it is required of you to come out of the shell, meet people and confront with them. Trust me, at the start it may seem it makes no sense, but one of the reason this book was started, was because of that.  
 
 What are the benefits of applying the art of documenting then?: 
 
@@ -193,6 +198,7 @@ What are the benefits of applying the art of documenting then?:
  * You help improving the project's branding
  * You provide useful resources for newcomers
  * You feel confident for you know the topic or you have a real experience with it
+ * You will getting a growth mindset
 
 Also to keep you active and aligned with your world is important to not stop from learning every year something new, and maybe learn how to document can be your next goal to move on your knowledge! Don't forget that if you stop to learning you can become easily obsolete but the goal of this book is to not be so pessimist.
 
@@ -267,6 +273,7 @@ We saw that the first step is to teach to others but there also other steps or t
 * Read a lot of articles (every day or every few days): use Reddit, Dev.To, newsletters like Changelog/SoftwareleadWeekly
 * Study the evening before to sleep is very powerful because helps you to remember what you read more easily
 * Create a list of stuff to read or study when you have time
+* Read stuff from others that you admire
 * Find a way to experiment what you are learning, check the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
 
 I want to quote a phrase from this article [Interview candidates with an Open Source background](https://toscalix.com/2019/12/10/interview-candidates-with-an-open-source-background/) that I liked a lot:

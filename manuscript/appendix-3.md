@@ -8,7 +8,7 @@ Who is contributing to open source often is part of the last group, maybe is som
 All this kinds of people need to be always motivated to do more or better to move on the focus of the project.  
 Also, you sometimes need a break or to be engaged again, it’s a continuous work to stimulate them that someone should do in the right way.  
 People need to be gratified for what they do, in different ways and this is on you.  
-The coaching way of doing things is very helpful on motivating but also on optimizing a lot of common issues or tasks on project/people management.
+The coaching way of doing things is very helpful on motivating but also on optimizing a lot of common issues or tasks on project/people management. Coaching means that people around you succeed and it is something that you want in an OSS projects.
 
 ## What it means to be a mentor
 
