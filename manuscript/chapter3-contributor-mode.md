@@ -39,7 +39,7 @@ For Italian people usually those rules are enough to understand how to behave di
 
 ![Body languages difference all around the world](images/3/body-language.jpg)
 
-Basically Open Source is a group work with different people so is important to have some basics rules to live and moving on and avoid problems during the discussions that can degenerate on flame war.
+Basically Open Source is a group work with different people so is important to have some basics rules to live and moving on and avoid problems during the discussions that can degenerate on flame war. A reading about [work with people that you don't like can be easily found here](https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like).
 
 ### Understand if a project is alive
 
@@ -98,16 +98,19 @@ What does advanced knowledge of the project means?
 
 First of all recognize if the request is compliant to the reporting tool. Few examples: ticket about an issue that instead should be reported to another project, documentation issue reported as error instead it's a localization issue, budget request in a public ticket system and so on. 
 
-A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will be not abandoned for months because it's not clear the status. And again there will be a documentation of what is required to do.  
-On the other side if someone open a ticket give to them the clues to fix on their own the fix and contribute back to the project, one example give to them the line and the file to patch so they can open a pull requests or suggest a new wording for the documentation.  
-Also be quickly to reply is important because the contributor feels to be appreciated for what is doing, wait weeks is not healthy for the project and the interest of the contributor.
-
 Scared about the tool?  
 Often the tool is public, sometimes there is the fear of the public (like in public speaking) with concern it would be permanent because it is written. I remember the first time I opened a ticket on Debian for an error on a software that I was using. I had a lot of anxiety because I had to use the email instead of a web interface, I was writing a ticket to one of the biggest Linux organizations in the world.  
 I was thinking along the lines of: "it's a stupid error", "maybe it's my fault because I don't know how to read documentation", "I am reporting to the wrong people, since it's the tool and not the distro", "maybe my report is lacking something important", or "it's poorly written and they will mock me for that".
 
 Basically I was joining the public circle of technicians that contribute to one of the most famous project in Linux, it was public and open but at the same time it was for a small elite. I took a breath, provided more information I could, verified it few times and sent it (without asking for help, all by myself).  
 Cannot recall what the ticket was about now, this isn't the point however; after that situation I had no more fear or anxiety. If I, an expert and skilled person, was to have them, it was easy to understand what newcomers feel in front of a form whatsoever (even when posing the simplest questions).
+
+On the other hand who will read the ticket need to be a bit a community manager not just a project maintainer. Close a ticket because there is no time to do it is wrong, is evil for your users and a misuse of the tool itself.  
+Who opened a ticket as we saw require for newcomers a lot of thrust on their skills, so you reply is the first touch with someone more skilled then them and what you will do will impose the brand of your project to them. They can enthusiastic people that want to help or someone that cannot use the software maybe for configuration issues or a bug (they think is a bug).  
+One of the common comments that I receive on tickets in my project as example is a thank you because I replied (this is not so common in OSS) and also that I replied very fast (in the same day at least if now few minutes). People approached in this way feels more appreciated and can be very helpful and motivated to do more, is a win-win for both the parties.
+
+A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will be not abandoned for months because it's not clear the status. And again there will be a documentation of what is required to do.  
+On the other side if someone open a ticket give to them the clues to fix on their own the fix and contribute back to the project, one example give to them the line and the file to patch so they can open a pull requests or suggest a new wording for the documentation.  
 
 #### Email
 
@@ -137,6 +140,8 @@ Visit these links to find examples:
 * [Bits from Debian (January 2019)](https://lists.debian.org/debian-devel-announce/2019/01/msg00010.html)
 * [WireGuard: Secure Network Tunnel integration on Linux Kernel (advanced)](https://lkml.org/lkml/2019/3/22/95)
 * [Counterargument to Deprecate Short Tags RFC V2 in PHP](https://wiki.php.net/rfc/counterargument/deprecate_php_short_tags)
+
+Just as note [Linus Torvalds was interviewed about how he managed the Linux project from home with mailing lists](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/). Basically be short but check few times before to send what you saying and be clear.
 
 #### Chat
 

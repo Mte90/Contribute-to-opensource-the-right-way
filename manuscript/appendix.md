@@ -1,5 +1,21 @@
 -# Appendix 1 for Community Managers
 
+## What is a community manager? A Project Maintainer?
+
+There are a lot of resources about this topic but is my book, so this is my version of that definition.  
+First of all a Community Manager is a leader, and as this role you need to delegate and find new areas of business ehm of activity.  
+A nice example of community management in a TV series is "Chuck", the BestBuy is a tech supermarket with a lot of different people, background and their various lives. The main character is the leader of the supermarket de facto so other follows him also if it isn't their boss. Listens the various people, knows them, knows how to moves and be the middle men with the authorities but keep also different lives.  
+In our case is not a spy but maybe a father, a worker, comics collector or a pirate.  
+Another TV series is "Scrubs" with different characters, various roles, different lives but common interests or workplace that have to coexist for a purpose. Everyone with their needs and different behaviors but despite that they move on.  
+
+Another point is a phrase by [Italo Vignoli](https://twitter.com/italovignoli), one of the founders of The Document Foundation and one of the OSI council members, that said to me about the role term Community Manager "A community cannot be managed because everyone to what they want". For me this is true, you aren't a community manager but more a community leader that create a path where others converge because they thrust you, not because someone placed you for that role.
+
+Basically a community manager is like a boss at you same level, that is more skilled on other areas like communication, relationship and has a more wide knowledge in areas that you don't know.  
+Often this role is confused with the Project Maintainer or Maintainer, very common in OSS (compared to community manager). A maintainer is a technical role, someone that works to keep a software to get fixes, new features, code reviews, define roadmap, that says no, but this doesn't involve at all that should care also the community.  
+About be a project maintainer there are a lot of resources (also in this books) but there are also other guids like [this][https://opensource.guide/best-practices/] or [this](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/).
+
+A community is a group of people interested in a specific topic that are pursuing this passion but needs some direction, some management and leading. There are tons of people that are community managers but they don't feel that this role is for them, and probably they are right. Honestly I don't think of myself as a community manager but someone that want the project living and taking this responsibility so others can do what they want (and me too).
+
 ## Divide your community members to various levels
 
 As we saw in this book a project can have different areas of involvements or activities and this based on the volunteers availability.  
