@@ -67,14 +67,14 @@ At the same time this avoid the gatekeeping that sometimes in OSS is a problem t
 
 ## Burnout
 
-About this topics a lot of people with better knowledge then me wrote a lot of books.  
-My experience is basically to understand what are the priorities and define time slot, where after that you don't care except very important things (it is a skills understand what are them).  
+About this topics a lot of people with better knowledge than me wrote a lot of books or [websites](https://selfcare.tech/).  
+My experience is basically to understand what are the priorities and define time slot, where after that you don't care except very important things (it is a skill to understand what are those).  
 
-Usually burnout has different symptoms: isolation, feeling undervalued, recognition, values conflict, lose motivation and lack of autonomy.  
-There are somethings that you can do quick easy: automatize tasks (I use the rule of 3), understand what others are doing and how, communicate better.
+Usually burnout has different symptoms: isolation, feeling undervalued, recognition, values conflict, loss motivation and lack of autonomy.  
+There are some things that you can do quick easy: automatize tasks (I use the rule of 3), understand what others are doing and how, communicate better.
 
 I># Rules of 3
-I> I don't remember where i found it but I have my own version: if it is a task that I do with the computer like 3 times a day or for week always in the same way you need to automatize it. Especially if this task is based on a lot of steps that can creates confusions. In case it is something where you cannot use a computer there are other ways to automatize things in this days with Zapier or IFTTT or if you are a developer you can find some ways.
+I> I don't remember where i found it but I have my own version: if it is a task that I do with the computer like 3 times a day or for week always in the same way you need to automate it. Especially if this task is based on a lot of steps that can creates confusions. In case it is something where you cannot use a computer there are other ways to automatize things in this days with Zapier or IFTTT or if you are a developer you can find some ways.
 
 # Conclusion
 

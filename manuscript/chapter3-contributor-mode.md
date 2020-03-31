@@ -158,10 +158,12 @@ An example of this is when one piles many questions/issues in one single message
 E-mails allow for recap, or a single notification for a group of mails, chat systems send a notification for every and each message that gets to be posted, this resulting in a dancing and ringing smartphone in less than a minute.  
 
 For this reasons a chat solution is fine for some stuff and not for everything. Also understand the kind of technology for chatting is important, is not just a flow of messages like IRC (that anyway is getting abandoned for various reasons), but include usability, multi-device usage and various levels of anonymity.  
-For a lot of people use IRC or Jabber is difficult because they have no idea of what means use a "client", that need to be configured but also what pick for that scope based on their system. Often these clients don't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc. Another problem is the anonymous level that today's with the various Code of Conducts is a problem because doesn't let to be enforced.  
-There is a nice talk about this topic of the [FOSDEM 2020](https://fosdem.org/2020/schedule/event/nextgencontributors/).
+For a lot of people use IRC or Jabber is difficult because they have no idea of what means use a "client", that need to be configured but also what pick for that scope based on their system. Often these clients don't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc.  
+Another problem is the anonymous level that today, with the various Code of Conducts, is a problem because doesn't let to enforce it (as they require to do actions to a person/user).  
 
-So a chat is not just a place to discuss but part of the ecosystem and need to follow some rules and expectations that are shared with everyone. Infact as example if you take specific kind of community for they is perfectly fine to be anonymous and they doesn't care of the client etc but for others instead the appearance is very important.
+There is a nice talk about the next generation of cintributors that don't use IRC (and we have to accept it) at [FOSDEM 2020](https://fosdem.org/2020/schedule/event/nextgencontributors/) .
+
+So a chat is not just a place to discuss but part of the ecosystem and need to follow some rules and expectations that are shared with everyone. In fact as example if you take specific kind of community for they is perfectly fine to be anonymous and they don't care of the client etc but for others instead the appearance is very important.
 
 #### Public Speaking
 
@@ -279,7 +281,7 @@ We saw that the first step is to teach to others but there also other steps or t
 * Read a lot of articles (every day or every few days): use Reddit, Dev.To, newsletters like Changelog/SoftwareleadWeekly
 * Study the evening before to sleep is very powerful because helps you to remember what you read more easily
 * Create a list of stuff to read or study when you have time
-* Read stuff from others that you admire
+* Read stuff from others whom you admire
 * Find a way to experiment what you are learning, check the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
 
 I want to quote a phrase from this article [Interview candidates with an Open Source background](https://toscalix.com/2019/12/10/interview-candidates-with-an-open-source-background/) that I liked a lot:
