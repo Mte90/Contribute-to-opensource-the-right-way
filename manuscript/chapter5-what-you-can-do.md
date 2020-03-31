@@ -29,7 +29,7 @@ PS: The joy of contributing happens when you see your change/improvement/localiz
 The biggest gratification of a volunteer is the activity he did is used by others!
 
 Imagine your contribution to the project and the effect of other people on what you are doing to get a boost of motivation!  
-This is also part of understand what the others are doing inside the project and how is moving on, where you can help and maybe new blockers.  
+This is also part of understand what the others are doing inside the project and how it is moving on, where you can help and maybe new blockers.  
 
 Just a little note, there aren't only common areas but also tasks that are often repeated or that happens periodically, those are areas where a new volunteer or a contributor can act to improve the amount of time used to dedicated on something more important.
 
@@ -120,13 +120,13 @@ Also, this is a very important role because usually it is a bridge between new v
 There will be a guide on how to motivate volunteers in the appendix, because also the most active one can have his/her moments of doubt or other things to do, and we need to re-engage them later, or we can easily lose their help.  
 A little suggestion, don't forget that the community likes to be involved in decisions, because the project is open, so defining ways to let them join in it's very important.
 
-### Development/Infra *D/I*
+### Development/Infrastructure *D/I*
 
 If the project has a software, well they are important!  
 Without skilled developers the project will be dead in short time, because it will be abandoned and you don't want that.  
 People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
 
-Also some projects has a different team called Infra or infrastructure or Meta and he role is to keep moving on the official websites and the various tools used by the project from the ticket system to the git instance. They can be developers that create a new theme or specific needs or sysadmin that keep the server safe and updated.
+Also some projects have a different team called Infra or infrastructure or Meta and this role is to keep moving on the official websites and the various tools used by the project from the ticket system to the git instance. They can be developers that create a new theme or specific needs or sysadmin that keep the server safe and updated.
 
 # Conclusion
 

@@ -8,11 +8,11 @@ Who is contributing to open source often is part of the last group, maybe is som
 All this kinds of people need to be always motivated to do more or better to move on the focus of the project.  
 Also, you sometimes need a break or to be engaged again, it’s a continuous work to stimulate them that someone should do in the right way.  
 People need to be gratified for what they do, in different ways and this is on you.  
-The coaching way of doing things is very helpful on motivating but also on optimizing a lot of common issues or tasks on project/people management. Coaching means that people around you succeed and it is something that you want in an OSS projects.
+The coaching way of doing things is very helpful on motivating but also on optimizing a lot of common issues or tasks on project/people management. Coaching means that people around you succeed and it is something that you want in an OSS project.
 
 ## What it means to be a mentor
 
-TThe mentor is a guy that follows you during your volunteers journey and needs to be ready for this task.  
+The mentor is a guy that follows you during your volunteers journey and needs to be ready for this task.  
 Also, his/her personal experience in the project or skills are very important. You are the first mentee of yourself because you approached probably the same issues, and you probably resolved them so you can give help quickly and easily.  
 It happens that people don’t want to be involved as mentors because is time consuming, requires a lot of patience and a good mindset in communication and skills too.  
 This doesn’t mean that you need all them but for sure being skilled in communication is important, because people will ask you a lot of things and on the way you reply, they will define how much they can trust in you and what they can ask you.  

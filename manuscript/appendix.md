@@ -35,7 +35,7 @@ One of the problem in a community that is easy to change the focus or the point 
 My experience taught me that in a chat if you sent 2 messages (not 2 questions in the same message) people will reply to just one, maybe the first one or the last one.  
 
 There are 2 kind of discussions productive or useless and as maintainer or community manager is important to get the maximum to save your time, because communication is a time-consuming task.  
-How you can recognize Useless discussions? Check this list:
+How you can recognize useless discussions? Check this list:
 
 * When are used a lot of hyperbole
 * There is a lot of repetition
@@ -47,7 +47,7 @@ How you can recognize Useless discussions? Check this list:
       * Can act as troll because you [just changed their workflow](https://xkcd.com/1172/)
    * Doers are usually silent and is important to reach them
 
-This are basic rules but you need to give a different weight to the your evaluation based also on the previous section. Every volunteer is important but some can have more relevance on the decisions just because they are alive and participating in what you are doing.  
+These are basic rules but you need to give a different weight to the your evaluation based also on the previous section. Every volunteer is important but some can have more relevance on the decisions just because they are alive and participating in what you are doing.  
 
 ## How to manage a meeting
 

@@ -45,7 +45,7 @@ Original GIMP project file (.xcf) available on [GitHub](https://github.com/Mte90
 This book is written in Markdown using [ReText](https://github.com/retext-project/retext), released on [GitHub](https://github.com/Mte90/Contribute-to-opensource-the-right-way) and published to [leanpub.com](https://leanpub.com/contributetoopensource-therightway/).  
 The language was reviewed using [LanguageTool.org](https://languagetool.org/), [Grammark](https://grammark.org/dist/) and [Sed](https://www.gnu.org/software/sed/manual/html_node/index.html).
 
-An example of what means contribute to open source is part of this tools. When I written the first edition I did it with just ReText that has a big problem, also if has a tab UI when you open a new file from the file manager start a new instance, so I did a [patch that now is part of ReText](https://github.com/retext-project/retext/pull/476) that enable to use an unique instance.
+An example of what means contribute to open source is part of this tools. When I written the first edition I did it with just ReText that has a big problem, also it has a tab UI when you open a new file from the file manager start a new instance, so I did a [patch that now is part of ReText](https://github.com/retext-project/retext/pull/476) that enable to use an unique instance.
 
 ## Legend
 
