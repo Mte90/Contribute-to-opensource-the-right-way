@@ -24,7 +24,7 @@ I> Good artists copy; great artists steal.
 I> From: [https://quoteinvestigator.com/2013/03/06/artists-steal/](https://quoteinvestigator.com/2013/03/06/artists-steal/)
 I> In the IT world there is another version: "Reinventing the wheel" but I prefer to add also "What is not understood is not possessed" of Johann Von Goethe to help you understand the philosophy.
 
-The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenSource](https://coiled.io/blog/stages-of-openness.html) that can saw as a way to understand how the Open Source process can change your view on doing and understand Open Source (before to read this chapter if you don't want to see my view on this topic).
+The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can saw as a way to understand how the Open Source process can change your view on doing and understand Open Source (read this link before this chapter if you want to see other opinions).
 
 ## Do ut des
 
@@ -126,7 +126,7 @@ The main points:
 * Integration with others platform they use
 * Ability to customize the software
 
-Those are just few hints from this reports that show how can be powerful embrace this philosophy and solutions. For IT companies also open new doors for business like this [Tidelift's report explains to getting more developers](https://tidelift.com/subscription/managed-open-source-survey?hsCtaTracking=230a6d8b-3c6c-4c5e-9583-efba427f66e8%7Cd15d90a8-d5c2-47b4-83fe-81602f6f126c).
+Those are just few hints from this reports that show how can be powerful embrace this philosophy and solutions. For IT companies also open new doors for business like this [Tidelift's report explains to getting more developers](https://tidelift.com/subscription/managed-open-source-survey).
 
 Let’s consider that a way to start a relationship in the way others expect this to happen, like the fish, when we move it from his tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.  
 The next chapter approach a bit how to improve the quality of your learnings with this new philosophy.
