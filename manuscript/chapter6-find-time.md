@@ -59,11 +59,16 @@ Leadership without involvement is impossible, for this reason usually when there
 
 ## Delegating
 
-Another option is clearly assign tasks to someone else or delegating. This can be a workaround but in the reality is a way to empower others and grow the project itself.  
-At the same time help you to avoid burnout, understand what is the amount of tasks that require you and others that can be done from others.  
-As contributor or leader is important to empower others to create better relationships but just do a better team job for the purpose of the project itself.  
+Delegate is not an easy tasks especially for founders or people that are involved a lot in any situation. Anyway this is the first skill that any leader need to know to achieve any goals of the project.  
+Delegate doesn't means lost control but instead a way to empower others (and grow the project itself).
+As contributor or leader is important to empower others to create better relationships but most important to do a better team job and create a better team.  
 The benefits of the delegating can be very surprising because with empowering others there will be probably new opportunities to grow or change something that you never think of.  
-At the same time this avoid the gatekeeping that sometimes in OSS is a problem that block the project itself also for long time and creating a difficult feeling around the work that you are doing.  
+The real benefits to you are first of all for your health (avoid burnout), understand what are the things that only you can do and what are the area where you are acting as first person.  
+Understanding this role, tasks and area is important to have some numbers, see bottleneck, open new opportunity to grow and so on. An example is: you have the password for the various social accounts but they are dead because you are busy on fixing bugs or localizing, instead you can create a team or delegate to someone that you thrust to follow it for you. Another one: your project doesn't have any documentation because you want that everything is perfect and the project is not yet ready for your standards but someone that has better writing skills can do a documentation also for the actual status of your project.
+
+Another important facts about delegating is avoid gatekeeping. Gatekeeping is one (for me) of the most bigger issues in the Open Source world.  
+Basically block the access to important roles or onboarding of new volunteers in the project or in specific areas. This create a bad mood inside the community, bottleneck, feelings for a fork, bad reputation of the project, evolution or refactoring and many others. Basically block innovation inside the community and your work because there is no new people that can replace the other ones that maybe are busy or left the project. 
+In other words a community with gatekeeping is a community/project that is going to a an awful ending.
 
 ## Burnout
 
