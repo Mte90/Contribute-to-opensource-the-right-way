@@ -103,6 +103,7 @@ My experience level couldn't be as it is now without the help of a lot of people
 * "How to Win Friends and Influence People" by Dale Carniege and the new edition for the digital era - It is the basic about human relationships, talking and engage better with people.
 * "Rebel Code: Linux and the Open Source Revolution" by Glyn Moody - The story about Linux and open source with interviews.
 * "Hyperfocus" by Chris Bailey - How to be productive, avoid distraction and use better your time every day.
+* "Thank you for arguing" by Jay Heinrichs - A manual about rhetoric and communications tricks to empower your thoughts and proposal.
 
 ## Other resources
 

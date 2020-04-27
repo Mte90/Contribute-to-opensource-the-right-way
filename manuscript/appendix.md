@@ -115,22 +115,22 @@ With this approach you will improve the relation with people and also the organi
 
 ## How to communicate
 
-Communication is the core business of a community where the feedback is the fundamental rule.  
+Communication is the core business of a community where the feedback is the fundamental rule (check also the next appendix about this topic).  
 Also, don’t forget to avoid Jargon or explain it when you use it.  
 In every communication it’s better to follow the rule of 7 communications.  
 
 * **Completeness**
-    * Be complete in everything in your communication to avoid losing time and allowing you to be more productive
+    * Be complete in everything in your communication to avoid losing time and allowing you to be more productive, as example define goals.
 * **Conciseness**
-    * Complete of course but also concise to simplify the reading. More text means more mistakes. As for developers, more code means more bugs somewhere.
+    * Complete of course but also concise to simplify the reading. More text means more mistakes. As for developers, more code means more bugs somewhere. TED talks seems to have the rules to expose the plan in 12 seconds.
 * **Consideration**
     * Don’t forget that your audience needs to follow you so it’s important text is understandable from everyone of your audience.
 * **Concreteness**
-    * The object of the communication needs to be complete and clear to everyone. Dividing the communications into different points is very helpful.
+    * The object of the communication needs to be complete and clear to everyone (maybe evaluate the use of future tense). Dividing the communications into different points is very helpful.
 * **Courtesy**
-    * No negativity and be open. It can help with all of your messages.
+    * No negativity, not be the victim and be open. It can help with all of your messages.
 * **Clearness**
-    * The message need to be understood not for the amount of words or the quality of the language but for the context.
+    * The message need to be understood not for the amount of words or the quality of the language but for the context. Putting the proof before the conclusion is the TED way or inductive reasoning.
 * **Correctness**
     * Be sure of everything that you are saying to avoid conflicts or misunderstanding.
 
