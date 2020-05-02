@@ -168,6 +168,11 @@ The real question could be *Why you should join a OSS project?*, let's see some 
 * Find people similar to you
 * Find mentors
 
-Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.
+Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.  
+I am leaving to you some examples from the internet about how other people explained their first contribution:
+
+* [First commit to KDE](https://christianchristiansen.net/log/kde-first-commit.html)
+* [My contributions to GNOME as a non-coder and how you can too!](https://jatan.blog/2020/04/11/my-contributions-to-gnome-and-how-you-can-too/)
+* [Why I help people with PHP RFCs](http://blog.basereality.com/blog/25/Why_I_help_people_with_PHP_RFCs)
 
 **Don't be just a OSS promoter but a OSS contributor!**

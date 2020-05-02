@@ -30,6 +30,8 @@ We can define as example in this ways:
 This groups of people can have as example different communications or different knowledge of what is the project is doing. Keeping an eye on those will help you to find people "to promote" on different tasks that can require more accountability as example.  
 It is important also to understand the kind of users you have in the community and their interests, in the Conclusion chapter in the Other Resources section there are some interesting reading about the various type of people that can exists in a community. This study can help you on decide what is better to do it and engage more the people that you have and new ones.
 
+To know better about the various jargon or meanings from the various kind of users, I suggest to you to check this talk by [Italo at Fosdsem 2020](https://fosdem.org/2020/schedule/event/user_standing/).
+
 ## How to do productive discussions
 
 One of the problem in a community that is easy to change the focus or the point of the discussion, in other words to go off-topic. This isn't a specific problem of the meetings but with any discussion from emails to chat.  
