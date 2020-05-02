@@ -26,6 +26,8 @@ I> In the IT world there is another version: "Reinventing the wheel" but I prefe
 
 The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can saw as a way to understand how the Open Source process can change your view on doing and understand Open Source (read this link before this chapter if you want to see other opinions).
 
+So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen for the *free* word because as we said open source means that the code is available but what you can do with that depends on the license that can be Free Software, or that you need to pay to access it as example. 
+
 ## Do ut des
 
 *Do ut des* is a Latin expression that means *give and take* but we can openly localize as "something is given so that something may be received in return".  
@@ -46,6 +48,8 @@ This report is the first step to contribute to the project, because behind there
 The society doesn't understand all of this things, maybe the 4 freedoms are more easy to accept but the commitment on something that is from the IT world is very strange. We need to help the society to understand why this commitment is important, like the civic hacking or other reality that in the IT world act to improve the quality of life using the technology.
 
 ![The real story](images/2/open-source-developers.jpg)
+
+The first interaction of an user is an opportunity to get a new contributor, so as community manager, maintainers, contributors etc is important that we offer the best experience, the best gratification we can give but also the best value both the parties can get from this action. In this book we will see a lot of suggestions, ideas and process to achieve it starting from the... reporting!
 
 ## Reporting
 

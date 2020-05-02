@@ -27,7 +27,8 @@ We can define as example in this ways:
 * Contributors - People that can work based on their time on specific activities
 * Community members - the whole group of people that is moving on the project
 
-This groups of people can have as example different communications or different knowledge of what is the project is doing. Keeping an eye on those will help you to find people "to promote" on different tasks that can require more accountability as example.
+This groups of people can have as example different communications or different knowledge of what is the project is doing. Keeping an eye on those will help you to find people "to promote" on different tasks that can require more accountability as example.  
+It is important also to understand the kind of users you have in the community and their interests, in the Conclusion chapter in the Other Resources section there are some interesting reading about the various type of people that can exists in a community. This study can help you on decide what is better to do it and engage more the people that you have and new ones.
 
 ## How to do productive discussions
 

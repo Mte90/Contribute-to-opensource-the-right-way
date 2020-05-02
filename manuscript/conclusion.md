@@ -44,10 +44,13 @@ Open source is for me when:
 
 * The code is open source
 * There is a community leading the project (behind a company too, like in Docker, Kubernetes, or Arduino)
-* There is no Dictator (like in Python, PHP)
+* There is no Dictator (I don't mean the Benevolent Dictator for Life)
 * All the files to use it are provided (like Machine learning models as Mozilla’s DeepSpeech with Common Voice)
 * Everything is documented and following a standard
 * Release management is not happening at the time of major releases only with a cadence of 3-4 months (or less) (people need to be aware of the changes and to be able to deploy without any hurry)
+
+I># Benevolent Dictator for Life
+i>Or the BDFL is a one person that lead the project future, usually is the founder/creator of the project. Also this role has the last voice on every discussion and in some projects this is important because helps on closing discussions or getting a decisions and avoid too much flame wars. In Linux as example is Linus Torvalds, in Python was Guido Van Rossum, Larry Wall for Perl and so on (they created the project). The point to say Benevolent is because as it is open source it is always possible to do a fork with new leaders if there big issues, for this reasons is a Good Dictator that act only when needed.
 
 ### User friendly because not all the people love the command line
 
