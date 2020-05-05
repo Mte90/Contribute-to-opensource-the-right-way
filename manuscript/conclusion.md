@@ -20,10 +20,11 @@ Basically we need to move on those points (explained in the next sub chapters):
 * Evolve the concept of the license
 * Be more user-friendly
 * Get better promotion
+* Open source doesn't mean release the code
 
 ### Use Open Source software because is better not because is free
 
-Just this title has some issues because Open Source != free, take as example  WordPress ecosystem or other CMSs where additional software is sold but the code is public (and not obfuscated/minified). A software can be open source but this doesn’t mean that it’s free, it needs to follow the 4 freedoms that don’t mention the money factor.
+Just this title has some issues because Open Source != free, take as example WordPress ecosystem or other CMSs where additional software is sold but the code is public (and not obfuscated/minified). A software can be open source but this doesn’t mean that it’s free, it needs to follow the 4 freedoms that don’t mention the money factor.
 
 We as community and users need to move on the open to this new level, it isn’t anymore a matter of money as before. Taking as example LibreOffice having to compete with Office 365 that is a cloud service sold to public governments and is cheaper than Office suite to install in the computers.  
 So IT departments prefer Office 365 because they don’t need to take care of supporting it, installing it and so on (welcome to the cloud baby) but this opens the door to other questions. Where are the files hosted? In what country? There are secret/privacy information on them? If I cancel the subscription what it’s going to happen?  
@@ -71,6 +72,20 @@ In this case not graphics assets or gadgets but data to share. The scandals of t
 Not only the machine wants data but also people because we are in the world where facts don’t matter and only real data, a lot of it, can change this bias.  
 
 Open source needs more marketers, a sector that often isn’t involved in open source because they don’t care (maybe) but it’s a fact that we need them.
+
+### The code is not enough anymore
+
+As today if you ask, to someone that develop or is involved in IT, "What you will do with your project if you have to release it open?" the answer will be "just a zip of the files put online".  
+As we saw in this book Open Source doesn't mean just release the code but let people to use it and also discover it.  
+
+A real example of this is the release of the source code of an indie game, VVVVV that was announced as "VVVVV goes Open Source" but the project didn't had a good license so it was forced to change the announcement with "source code release". There is the [original blog post announcement](https://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) with al the comments but with a research is possible to find also various tweets and discussions about this misunderstanding.  
+So the code or the core of the project publicly available is not enough because you can only read it, as the legal definition of that is a proprietary project. Without a license that explain how you are allowed to use it is not possible to do anything. Think about of Doom or Duke Nukem open source releases and how they changed the world, also other games that released piece of that letting creating of new games or create new technologies.  
+
+The other point is the promotion, with GitHub a new issues awaken, someone start a project, release the project with a license and so on. At a certain time the owner is no online anymore or interested on working with that and the project became an abandonware. So a new developer take it with the creation of a fork, the problem is that for the rest of the world maybe this new hope is unknown. All the links and information refer to the original that is abandoned so no one will find the fork. Like a jedi need to master the force and knows al the aspects of that, also with a release public you need to be ready about what means.
+
+Personally when I find abandoned project I ask for updates or find a new maintainer but often is very difficult to get an answers. Pinging on Twitter or other social media (not everyone public their private email) so the joy of contributing or access to nice things crash against a Death Star, that is the oblivion of the abandon.
+
+So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.
 
 ## Thanks
 
