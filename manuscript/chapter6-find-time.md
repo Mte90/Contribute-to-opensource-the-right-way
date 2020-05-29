@@ -44,7 +44,8 @@ Anyway, this can be stupid, any second you save is a way to do something else an
 ## Use your boredom/break times
 
 In my workday in front of a computer I do a lot of things because between tasks I take short breaks, during them I check my todo list and the one that I want to do (based also of the time that I want to invest).  
-As example, I do an important task, I deserve a long break maybe 30 minutes or more, so I can perform a task about something I like. This kind of trophy seems like a dog's treat <that was a good boy>, a lot of coaching books suggest this technique because it improves your attitude on the job but also your mood.
+As example, I do an important task, I deserve a long break maybe 30 minutes or more, so I can perform a task about something I like. This kind of trophy seems like a dog's treat <that was a good boy>, a lot of coaching books suggest this technique because it improves your attitude on the job but also your mood.  
+Get a break is helpful because reset your brain so you can start fresh (also with just 30 minutes) and working back on the same task, also the one that you hate or you didn't find a solution.
 
 They suggest a piece of chocolate, I do something else. Also, doing such breaks during the work is a way to not get distracted or tired working at the computer, we easily switch to different things keeping the attention span working. Of course, I sometimes dedicate the afternoon to something specific,it may be work or an open source task but it's on me to decide based on the priorities what to do.  
 This should happen to you also, in this way you can better value your time, your work and get more satisfaction from it.

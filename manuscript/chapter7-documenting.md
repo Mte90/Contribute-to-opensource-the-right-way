@@ -1,6 +1,6 @@
 -# Documentation! Documentation! Documentation!
 
-Maybe it's not clear, documenting is very important even if it is boring.  
+Maybe it's not clear, [documenting is very important](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) even if it is boring.  
 You have no idea how much it may be powerful to document and allow for these resources to be used from everyone.  
 You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI or the logo changes (I am talking to you Mozilla) and because of your story you need to be the Master.  
 You have to stop making the things worse, before the new logo change or the new motto to be ready, moving on your hobbits to the next fatigue and making everything better.

@@ -6,7 +6,8 @@ There are a lot of resources about this topic but this is my book, so this is my
 First of all a Community Manager is a leader, and this role require you need to delegate and find new areas of business uhmm of activity.  
 A nice example of community management in a TV series is "Chuck", the BestBuy is a tech supermarket with a lot of different people, background and their various lives. The main character is the de facto leader of the supermarket so others follow him even if he isn't their boss. Listens to the various people, knows them, knows how to moves and be the middle men with the authorities but keep also different lives.  
 In our case is not a spy but maybe a father, a worker, comics collector or a pirate.  
-Another TV series is "Scrubs" with different characters, various roles, different lives but common interests or workplace that have to coexist for a purpose. Everyone with their needs and different behaviors but despite that they move on.  
+Another TV series is "Scrubs" with different characters, various roles, different lives but common interests or workplace that have to coexist for a purpose. Everyone with their needs and different behaviors but despite that they move on.   
+I like the pop culture and the reference to cinema/books/comics world because it easy to use the learning transfer (we saw already it in the book) to them and [learn how to do not do things](https://blog.tdwright.co.uk/2020/05/07/9-things-westworld-can-teach-us-about-software-engineering/) or how to manage a company (check Silicon Valley TV series as example).  
 
 Another point is a phrase by [Italo Vignoli](https://twitter.com/italovignoli), one of the founders of The Document Foundation and one of the OSI council members, that said to me about the role term Community Manager "A community cannot be managed because everyone do what they want". For me this is true, you aren't a community manager but more a community leader that create a path where others converge because they trust you, not because someone placed you for that role.
 
@@ -14,7 +15,7 @@ Basically a community manager is like a boss at you same level, that is more ski
 Often this role is confused with the Project Maintainer or Maintainer, very common in OSS (compared to community manager). A maintainer is a technical role, someone that works to keep a software to get fixes, new features, code reviews, define roadmap, that says no, but this doesn't involve at all that should care also the community.  
 About be a project maintainer there are a lot of resources (also in this book) but there are also other guides like [this][https://opensource.guide/best-practices/] or [this](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/).
 
-A community is a group of people interested in a specific topic that they are pursuing with passion but needs some direction, some management and leading. There are tons of people that are community managers but they don't feel that this role is for them, and probably they are right. Honestly I don't think of myself as a community manager but someone that want the project living and taking this responsibility so others can do what they want (and me too).
+A community is a group of people interested in a specific topic that they are pursuing with passion but needs some direction, some management and leading. There are tons of people that are community managers but they don't feel that this role is for them, and probably they are right. Honestly I don't think of myself as a community manager but someone that want the project living and taking this responsibility so others can do what they want (and me too). A good manager is someone that is honest because isn't afraid of discuss about everything with the others.
 
 ## Divide your community members to various levels
 
@@ -37,7 +38,7 @@ To know better about the various jargon or meanings from the various kind of use
 One of the problem in a community that is easy to change the focus or the point of the discussion, in other words to go off-topic. This isn't a specific problem of the meetings but with any discussion from emails to chat.  
 My experience taught me that in a chat if you sent 2 messages (not 2 questions in the same message) people will reply to just one, maybe the first one or the last one.  
 
-There are 2 kind of discussions productive or useless and as maintainer or community manager is important to get the maximum to save your time, because communication is a time-consuming task.  
+There are 2 kind of discussions productive or useless, as maintainer or community manager is important to get the maximum to save your time, because communication is a time-consuming task.  
 How you can recognize useless discussions? Check this list:
 
 * When are used a lot of hyperbole
@@ -81,12 +82,12 @@ Because they show you are very well organized and motivate him to join in the ne
 In every team there are discussions about new ideas or problems/blockers that need to be solved and there are different tricks to speed up and define a roadmap.
 
 * Try explaining only with words what are the goal of that, Ex:
-    * Get fun
-    * Accountability
-    * Involve
-    * Recruiting
+ * Get fun
+ * Accountability
+ * Involve
+ * Recruiting
 
-This points will be your compass on the discussion, also a reference or the reason of the plan itself!  
+This points will be your compass on the discussion (also will invite others on helping you because the goal is the same), also a reference or the reason of the plan itself!  
 Gather ideas with these words to speed up the process (is the first step) and you can do it in one of the many ways already explained.  
 Also, you need a person who will be the lead of every step, not multiple but one or two.
 
@@ -158,6 +159,7 @@ There are different tasks about communication and for a community managers is im
     * Respect the others ideas/thoughts
     * If you are wrong admit that as fast as you can before the situation goes worse
         * Start a discussion about a comparison with your experience that was worst and see if the audience is doing better. In that way are you more friendly and human.
+        * At same time in a discussion is helpful to start from a point where both the parties agree, so it is possible to prepare a ground to move further the discussion
     * Be always friendly
     * Make questions because only the people humbling in front of others are human and friendly because even if you are the boss they need help from you. No orders to you people!
     * The reputation even if people are wrong is important so let them “save” themselves so they will perceive you as a good leader
@@ -211,9 +213,9 @@ Every culture has differences but there are few rules that apply for everyone.
 * Facebook groups: they can be a mess because there is no moderation of the texts and can become very spammy
 * Facebook Messenger: it’s a chat and requires you to add every new person on your Facebook, that usually it’s private so not everyone wants to add everyone on it
 * Telegram: is the best choice because has bots, link previews, moderation tools, links/media recap, client desktop/mobile and is open source (there are open source addicts that don’t want to use proprietary software)
-* Hangouts/Hangouts Meet: it’s useful online for video meetings but remember it allows a maximum of 10 people on the free plan
+* Hangouts/Hangouts Meet/Zoom/Jitsi: it’s useful online for video meetings but remember it allows a maximum of 10 people on the free plan
 * IRC: it’s the classic solution on open source to chat but for the new generation and for the mobile world it’s too difficult to configure and understand
-* Matrix/Slack-like: it is a IRC 2.0 that may improve the organization in groups of people and usually a bridge between IRC and Telegram can improve the migration. Slack have problems on onboarding new people because the free plan is very limited to 10000 messages (also on private groups and is very easy to reach that). It is not open source and there are many alternatives without that problem. This tools, like telegram have integrations such as bots.
+* Matrix/Slack-like: it is a IRC 2.0 that may improve the organization in groups of people and usually a bridge between IRC and Telegram can improve the migration. Slack have problems on onboarding new people because the free plan is very limited to 10000 messages (also on private groups and is very easy to reach that). It is not open source and there are many alternatives without that problem. This tools, like Telegram or Matrix have integrations such as bots.
 * Mailing list: like irc they can be annoying but used for the marketing part they work very well
 * Discourse or forum: with a modern interface they work very well with notification and other stuff
 * Collaborative Documents: they are important to work together on a plan. Etherpad in the open source world are the best, but they are very poor in features like: comments or suggest changes, notification and classic features of a text editor. Usually Google Docs are used, covering all those features but the urls are very complicated and some people don’t like that because they are not open source.

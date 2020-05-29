@@ -15,9 +15,9 @@ This 4 freedoms created the philosophy and the open source model.
 
 ![Little recap about open philosophy](images/2/open-philosophy.png)  
 
-I> Open source model examples: Open Hardware (Arduino or RepRap), Open Content (Creative Commons license), Open Knowledge (WikiPedia or Project Gutenberg), Open Data (OpenStreetMaps), Open Access (Open Document File formats)
+I> Open source model examples: Open Hardware (Arduino or RepRap), Open Content (Creative Commons license), Open Knowledge (Wikipedia or Project Gutenberg), Open Data (OpenStreetMap), Open Access (Open Document File formats)
 
-We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that it is free of charge. This point is very difficult to understand for newcomers and if you have troubles, well check it out reading the rest of this chapter.  
+We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that it is free of charge (also if everyone use OSS, including enterprise). This point is very difficult to understand for newcomers and if you have troubles, well check it out reading the rest of this chapter.  
 Another important benefit of Open Source is that you are getting in addition to the product a bonus, the access to the various pieces that build it. It is like getting a pizza but also the recipe with the various information for any ingredient and so on. For a non-technical person this can be useless but when you need to study how works or implement based on the requirements of your customer is very important because let you to do a full analysis.
 
 I> Good artists copy; great artists steal.
@@ -26,7 +26,8 @@ I> In the IT world there is another version: "Reinventing the wheel" but I prefe
 
 The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can saw as a way to understand how the Open Source process can change your view on doing and understand Open Source (read this link before this chapter if you want to see other opinions).
 
-So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen for the *free* word because as we said open source means that the code is available but what you can do with that depends on the license that can be Free Software, or that you need to pay to access it as example. 
+So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen for the *free* word because as we said open source means that the code is available but what you can do with that depends on the license that can be Free Software, or that you need to pay to access it as example. There are tons of pages that explain the difference between the various license and why but often they are very complicated, so [get ready on studying them](https://blog.graphqleditor.com/software-licensing-cheat-sheet/).  
+Yes you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).
 
 ## Do ut des
 
@@ -48,6 +49,8 @@ This report is the first step to contribute to the project, because behind there
 The society doesn't understand all of this things, maybe the 4 freedoms are more easy to accept but the commitment on something that is from the IT world is very strange. We need to help the society to understand why this commitment is important, like the civic hacking or other reality that in the IT world act to improve the quality of life using the technology.
 
 ![The real story](images/2/open-source-developers.jpg)
+
+Another way to see this topic is leave everything better as you found it originally.
 
 The first interaction of an user is an opportunity to get a new contributor, so as community manager, maintainers, contributors etc is important that we offer the best experience, the best gratification we can give but also the best value both the parties can get from this action. In this book we will see a lot of suggestions, ideas and process to achieve it starting from the... reporting!
 
@@ -141,7 +144,7 @@ I call it so because I am a nerd, and probably because eating so much candies, c
 
 ## How to manage a new project or a legacy one
 
-This is an hot topic today with a lot of technical debts around, old projects released [open source or to the public (two different things)](http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) or a project started in the company internally now is ready to be published to the OSS world.  
+This is an hot topic today with a lot of technical debts around, old projects released [open source or to the public (two different things)](http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) or a project started in the company internally now is ready to be published to the OSS world. There is also the case of an [old project release with an OSI license with some changes](https://forum.defold.com/t/we-are-finally-sharing-the-defold-source-code/65177) with discussions about the declaration of opensourceness.
 There are tons of article about how to manage a legacy project/codebase but I don't want to talk about those.  
 
 The real point is that if you are starting a project is important that the code is ready from the start to be released as public just because the project rules, tickets, commits, and so on will be free of badwords (I know what happens), non-english stuff, documentation etc are ready to be released. Take as example if you are hardcoding token and other things that is better to avoid in your commit history, if there issues in non-englush languages mentioned in the code that the people doesn't have access to.  

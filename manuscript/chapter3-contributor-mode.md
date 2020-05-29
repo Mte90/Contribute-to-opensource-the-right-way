@@ -15,7 +15,7 @@ Question is how you can move in the Open Source world in a comfortable way, star
 
 Simple! You have to learn to live inside it.
 
-How can you live in an open project without any previous experience in contributing to one?  
+How can you live in an open project without any previous experience in contributing to one? Consider that today open source is not anymore just for hobbyist/hobbits but for professionals, check job offers in the IT if you don't believe me!
 
 Good question, if the answer was simple you probably would be doing something else now, instead of reading this book.  Also don't forget that more is small the project more is easy to contribute to but you should not be afraid to discover how big project works.  
 Take a moment, relax, get ready to discover a new approach to community projects that may help you in your work as well as your daily life.  
@@ -75,7 +75,12 @@ Few example of this points on public discussion I started:
 * [About the Volunteer role in the Mozilla workflow decision chain](https://discourse.mozilla.org/t/about-the-volunteer-role-in-the-mozilla-workflow-decision-chain/38451)
 
 The lesson of this section is: don't be afraid to ask (in the right place) questions.  
-Open source contributors also have a big problem about communications because you need to be also a good communicator. **We are exposed on the internet**, what we say as comment about a project or a issue can be the first step of the [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect). We prefer async communication, especially if we are not native English speakers because we can improve the quality of what we have to say and be more comfortable.
+Open source contributors also have a big problem about communications because you need to be also a good communicator. **We are exposed on the internet**, what we say as comment about a project or a issue can be the first step of the [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect). We prefer async communication, especially if we are not native English speakers because we can improve the quality of what we have to say and be more comfortable.  
+
+An example of don't be afraid is [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), one of the author of videogames like Wolfenstein and Doom and pioneers of releasing as open source famous video games. As today is the Consulting CTO Oculus VR and a famous developer from all the innovation in the 3D world and the promoter of Open Source.  
+Anyway as every single person in front of something is not clear, he started a discussion that [got popularity on HackerNews](https://news.ycombinator.com/item?id=23224584) discussing how also a person like him doesn't understand a C++ code and just like everyone wrote an email to the mailing list of OpenBSD.  
+
+**It's perfectly fine to admit ignorance in something**, especially when you are starting.
 
 #### Ticket/Bug/Issue
 
@@ -210,6 +215,9 @@ What are the benefits of applying the art of documenting then?:
  * You feel confident for you know the topic or you have a real experience with it
  * You will getting a growth mindset
 
+I> Growth mindset is the opposite of the Fixed mindset that is based on the assumption that skills and knowledge are predetermined.
+I> THis mindset enables you to love to learn, challenge yourself and experiment, so the performance and personal skills improve.
+
 Also to keep you active and aligned with your world is important to not stop from learning every year something new, and maybe learn how to document can be your next goal to move on your knowledge! Don't forget that if you stop to learning you can become easily obsolete but the goal of this book is to not be so pessimist.
 
 Those are the good reasons to start documenting the right way, let's see them in detail! 
@@ -295,6 +303,13 @@ It is easy to spot the real skilled people with knowledge about it, I saw this a
 Of course you can create a repo for learning but just doing it in that period of the year doesn't mean that you are a contributor.
 
 Open source skilled people doesn't have a CV (after all I don't have any) but our career speak for us and is more powerful of a course bought on Udemy. Probably we need to improve our communication skills (one of the reason of this book) but this is another topic.
+
+Some examples of simple tasks that a lot of communities have to help newcomers (also on something that can be difficult, like Git or development with 0 knowledge):
+
+* [Contributing to KDE is easier than you think – Phabricator patches using the web interface](https://rabbitictranslator.com/wordpress/index.php/2020/05/03/contributing-to-kde-phabricator-web-interface/)
+* [Create a patch for LibreOffice directly in gerrit](https://libreoffice-dev.blogspot.com/2020/05/create-patch-for-libreoffice-directly.html)
+* [ScummVM is a Magic Box That Runs Classic Adventures](https://levvvel.com/scummvm/)
+* [How I started contributing to the Mozilla Developer Network](https://eduardoboucas.com/blog/2016/08/17/mdn.html)
 
 # Conclusion
 
