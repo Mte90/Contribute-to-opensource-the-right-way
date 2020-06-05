@@ -53,6 +53,8 @@ With the *open source* term usually we refer to a lot of things, from software p
 
 ## Contacts
 
+I am looking for feedback about this book to improve it, so reach me to share your thoughts and ideas.
+
 * [https://twitter.com/Mte90Net](https://twitter.com/Mte90Net)
 * [https://www.linkedin.com/in/danielescasciafratte/](https://www.linkedin.com/in/danielescasciafratte/)
 * [https://www.reddit.com/user/Mte90/](https://www.reddit.com/user/Mte90/)

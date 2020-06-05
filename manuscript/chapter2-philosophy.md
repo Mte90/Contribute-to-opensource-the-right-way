@@ -24,14 +24,14 @@ I> Good artists copy; great artists steal.
 I> From: [https://quoteinvestigator.com/2013/03/06/artists-steal/](https://quoteinvestigator.com/2013/03/06/artists-steal/)
 I> In the IT world there is another version: "Reinventing the wheel" but I prefer to add also "What is not understood is not possessed" of Johann Von Goethe to help you understand the philosophy.
 
-The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can saw as a way to understand how the Open Source process can change your view on doing and understand Open Source (read this link before this chapter if you want to see other opinions).
+The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can saw as a way to understand how the Open Source process can change your view on doing and understand FOSS (read this link before this chapter if you want to see other opinions).
 
 So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen for the *free* word because as we said open source means that the code is available but what you can do with that depends on the license that can be Free Software, or that you need to pay to access it as example. There are tons of pages that explain the difference between the various license and why but often they are very complicated, so [get ready on studying them](https://blog.graphqleditor.com/software-licensing-cheat-sheet/).  
-Yes you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).
+Yes, you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).
 
 ## Do ut des
 
-*Do ut des* is a Latin expression that means *give and take* but we can openly localize as "something is given so that something may be received in return".  
+*Do ut des* is a Latin expression that means *give and take* but we can openly localize as "something is given so that something may be received in return". In English often this can be understood as *giving back*, for me this is not enough to explain it the idea behind. 
 When we need a software or a service the first step we do is to look it up on the net. Then we download/register, use/consume and then move on with our day.  
 We are just consumers, and often we don't know the costs involved in developing such software/service.  
 When using free web services or apps, many people don't ask "how can this service continue to move on if it's free?", but it's a question we should ask ourselves.  
@@ -47,6 +47,8 @@ Basically the contribution starts when something doesn't sound so good and the i
 When the problem is noticed instead of doing a useless comment online or a ranting at the pub/bar, there is an action with a report and the problem is/will be gone. This is the contributor, that enforces the contributor mode (next chapter) without noticing it just because OSS require commitment.  
 This report is the first step to contribute to the project, because behind there are people that are not perfect and that can miss something.  
 The society doesn't understand all of this things, maybe the 4 freedoms are more easy to accept but the commitment on something that is from the IT world is very strange. We need to help the society to understand why this commitment is important, like the civic hacking or other reality that in the IT world act to improve the quality of life using the technology.
+
+i> Civic hacking, "enhances the relationship between the people and government with software for communications, decision-making, service delivery, and political process." [Wikipedia](https://en.wikipedia.org/wiki/Civic_technology)
 
 ![The real story](images/2/open-source-developers.jpg)
 
@@ -124,7 +126,7 @@ Another point if in a OSS project is not possible to do questions it isn't a rea
 ## How to evolve it to the next Pokemon
 
 To open some tickets (or participate into existing ones) is very important, it allows you to get involved at a very low level and to join the party.  
-For a lot of people the real question is: how I can live with that? The famous "pagnotta" already mentioned. Well, RedHat is the most profit company about Open Source now part of the IBM released a [report of 2019-4](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/) about the enterprise world with OSS.  
+For a lot of people the real question is: how I can live with that? The famous "pagnotta" already mentioned. Well, RedHat is the most profit company about Open Source (now part of IBM) released a [report of 2019-4](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/) about the enterprise world revolution with FOSS.  
 The main points:
 
 * Modernized the companies
@@ -147,10 +149,13 @@ I call it so because I am a nerd, and probably because eating so much candies, c
 This is an hot topic today with a lot of technical debts around, old projects released [open source or to the public (two different things)](http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) or a project started in the company internally now is ready to be published to the OSS world. There is also the case of an [old project release with an OSI license with some changes](https://forum.defold.com/t/we-are-finally-sharing-the-defold-source-code/65177) with discussions about the declaration of opensourceness.
 There are tons of article about how to manage a legacy project/codebase but I don't want to talk about those.  
 
-The real point is that if you are starting a project is important that the code is ready from the start to be released as public just because the project rules, tickets, commits, and so on will be free of badwords (I know what happens), non-english stuff, documentation etc are ready to be released. Take as example if you are hardcoding token and other things that is better to avoid in your commit history, if there issues in non-englush languages mentioned in the code that the people doesn't have access to.  
+The real point is that if you are starting a project is important that the code is ready from the start to be released as public just because the project rules, tickets, commits, and so on will be free of badwords (I know what happens), non-english stuff and documentation etc is ready to be released. Take as example if you are hardcoding tokens and other things that is better to avoid in your commit history, if there are issues in non-englush languages mentioned in the code that the people doesn't have access to (originally LibreOffice code had code comments in German as example from the StarOffice origins).  
+
+I> "A security token is a peripheral device used to gain access to an electronically restricted resource." [Wikipedia](https://en.wikipedia.org/wiki/Security_token). In IT there are also token generated by apps or websites used for authentication.
+
 The transparency of the OSS management can benefit the quality of the project itself also if internal and to new people that will work on that.  
 
-For legacy project instead it is important to define the license, how to setup a dev environment (if it is possible) and give all the information that are available and that can be helpful to run your tool. DOn't be like [this (source code of XIII game that I like so much, also the comic)](https://github.com/Ch0wW/xiii_unrealscript) that doesn't include any readme or documentation.
+For legacy project instead it is important to define the license, how to setup a dev environment (if it is possible), give all the information that are available and that can be helpful to run your tool. Don't be like [this (source code of XIII game that I like so much, also the comic)](https://github.com/Ch0wW/xiii_unrealscript) that doesn't include any readme or documentation.
 
 # Conclusion
 
