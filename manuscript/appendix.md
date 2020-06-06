@@ -15,7 +15,7 @@ Basically a community manager is like a boss at you same level, that is more ski
 Often this role is confused with the Project Maintainer or Maintainer, very common in OSS (compared to community manager). A maintainer is a technical role, someone that works to keep a software to get fixes, new features, code reviews, define roadmap, that says no, but this doesn't involve at all that should care also the community.  
 About be a project maintainer there are a lot of resources (also in this book) but there are also other guides like [this][https://opensource.guide/best-practices/] or [this](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/).
 
-A community is a group of people interested in a specific topic that they are pursuing with passion but needs some direction, some management and leading. There are tons of people that are community managers but they don't feel that this role is for them, and probably they are right. Honestly I don't think of myself as a community manager but someone that want the project living and taking this responsibility so others can do what they want (and me too). A good manager is someone that is honest because isn't afraid of discuss about everything with the others.
+A community is a group of people interested in a specific topic that they are pursuing with passion but needs some direction, some management and leading. There are tons of people that are community managers but they don't feel that this role is for them, and probably they are right. Honestly I don't think of myself as a community manager but someone that want the project living and taking this responsibility so others can do what they want (and me too). A good manager is someone that is honest because isn't afraid of discuss about everything with the others, also their ignorance.
 
 ## Divide your community members to various levels
 
@@ -126,7 +126,7 @@ In every communication it’s better to follow the rule of 7 communications.
 * **Completeness**
     * Be complete in everything in your communication to avoid losing time and allowing you to be more productive, as example define goals.
 * **Conciseness**
-    * Complete of course but also concise to simplify the reading. More text means more mistakes. As for developers, more code means more bugs somewhere. TED talks seems to have the rules to expose the plan in 12 seconds.
+    * Complete of course but also concise to simplify the reading. More text means more mistakes. As for developers, more code means more bugs somewhere. TED talks seems to have the rule to expose the plan in 12 seconds.
 * **Consideration**
     * Don’t forget that your audience needs to follow you so it’s important text is understandable from everyone of your audience.
 * **Concreteness**
@@ -137,6 +137,8 @@ In every communication it’s better to follow the rule of 7 communications.
     * The message need to be understood not for the amount of words or the quality of the language but for the context. Putting the proof before the conclusion is the TED way or inductive reasoning.
 * **Correctness**
     * Be sure of everything that you are saying to avoid conflicts or misunderstanding.
+
+I> "Inductive reasoning is distinct from deductive reasoning. While the conclusion of a deductive argument is certain, the truth of the conclusion of an inductive argument may be probable, based upon the evidence given." [Wikipedia](https://en.wikipedia.org/wiki/Inductive_reasoning)
 
 When you have no idea where to start with a communication the simple way is writing a list with every point, prioritize and only then writing your message.  
 Because you are part of an open project, you need to do open questions to the people too. These open questions are not for better clarification but let the others explain what they mean, because a lot of things are not specifically communicated with words for example.
