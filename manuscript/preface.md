@@ -22,7 +22,7 @@ Information, suggestions, procedure, workflow, best practices.
 It begins from the basic stuff to my (new) way of doing things and intro to do the first steps.  
 The technical terms will be explained (the first time) to help Newbies and non-tech people at their first approach to the matter.  
 The open world is *open* to everybody so this book will serve to explaining things.  
-IT includes also a lot of links to external resources so you can give sources but also learn more about specific topic without going off-topic with the book.
+It includes also a lot of links to external resources so you can give sources but also learn more about specific topic without going off-topic with the book.
 See you at the index!
 
 ## License
