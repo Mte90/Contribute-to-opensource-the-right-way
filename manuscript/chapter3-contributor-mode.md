@@ -17,7 +17,7 @@ Simple! You have to learn to live inside it.
 
 How can you live in an open project without any previous experience in contributing to one? Consider that today open source is not anymore just for hobbyist/hobbits but for professionals, check job offers in the IT if you don't believe me!
 
-Good question, if the answer was simple you probably would be doing something else now, instead of reading this book.  Also don't forget that more is small the project more is easy to contribute to but you should not be afraid to discover how big project works.  
+Anyway it is a good question, if the answer was simple you probably would be doing something else now, instead of reading this book.  Also don't forget that more is small the project more is easy to contribute to but you should not be afraid to discover how big project works.  
 Take a moment, relax, get ready to discover a new approach to community projects that may help you in your work as well as your daily life.  
 
 ## How to live inside the Open Source
@@ -46,13 +46,17 @@ Basically Open Source is a group work with different people so is important to h
 One of the common issues in Open source is to understand if a project is alive, abandoned or dead.
 
 When is alive is easy to see, the tickets are getting replies in reasonable time (like 1 month at maximum), the pull requests are getting reviews, the social channels keep pushing updates when there are (and not forgetting to do so) and so on.  
+
 Abandoned is more complicated because maybe the owner or maintainer is not replying on the tickets or pull requests but is active on social networks. So basically seems that is not caring at all of the project but he wrote anything about it in the project page itself. Usually this means that a fork is possible without so many troubles but probably will be difficult to get the ownerships of the website domain, social accounts etc from the original creator.  
-Instead dead is like abandoned but there are no forks or any communication but just people asking if the project is still alive and no one is interested to move on the project.  
 
-Based on your skills you can decide what kind of effort you can put in a project and define a goal. As example can be: create a new fork that handle some bugs that are very annoying to still use the project without do any brand changes or  define a big plan maybe with the help of someone else.  
+I> "In software engineering, a project fork happens when developers take a copy of source code from one software package and start independent development on it, creating a distinct and separate piece of software. The term often implies not merely a development branch, but also a split in the developer community, a form of schism." [Wikipedia](https://en.wikipedia.org/wiki/Fork_(software_development)
 
-As newcomer to open source of course probably is better to start with a project alive but if you have skills and you think that you know how to lead a project you can do a fork, keeping the quality standards and so on with a fork.  
-The kind of fork is based on the goals that you want to achieve and the time that you want to put on that. Can be strange this reference to time but when you take ownership of a OSS project you will see a lot of problems with time management for various reasons but this book has a full chapter about that.
+Instead dead is like abandoned but there are no forks or any communication from the authors but just people asking if the project is still alive and no one is interested to move on the project.  
+
+Based on your skills you can decide what kind of effort you can put in a project and define a goal. As example can be: create a new fork that handle some bugs that are very annoying (to still use the project without do any brand changes) or define a big plan maybe with the help of someone else.  
+
+As newcomer to open source of course probably is better to start with a project alive but if you have skills and you think that you know how to lead a project, keeping the quality standards and so on with a fork.  
+The kind of fork is based on the goals that you want to achieve and the time that you want to put on that. Can be strange this reference to time but when you take ownership of a FOSS project you will see a lot of problems with time management for various reasons but this book has a full chapter about that.
 
 ### Communicate on the internet
 
@@ -77,7 +81,7 @@ Few example of this points on public discussion I started:
 The lesson of this section is: don't be afraid to ask (in the right place) questions.  
 Open source contributors also have a big problem about communications because you need to be also a good communicator. **We are exposed on the internet**, what we say as comment about a project or a issue can be the first step of the [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect). We prefer async communication, especially if we are not native English speakers because we can improve the quality of what we have to say and be more comfortable.  
 
-An example of don't be afraid is [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), one of the author of videogames like Wolfenstein and Doom and pioneers of releasing as open source famous video games. As today is the Consulting CTO Oculus VR and a famous developer from all the innovation in the 3D world and the promoter of Open Source.  
+An example of don't be afraid is [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), one of the authors of videogames like Wolfenstein and Doom and pioneers of releasing as open source famous video games. As today is the Consulting CTO Oculus VR and a famous developer from all the innovation in the 3D world and the promoter of Open Source.  
 Anyway as every single person in front of something is not clear, he started a discussion that [got popularity on HackerNews](https://news.ycombinator.com/item?id=23224584) discussing how also a person like him doesn't understand a C++ code and just like everyone wrote an email to the mailing list of OpenBSD.  
 
 **It's perfectly fine to admit ignorance in something**, especially when you are starting.
@@ -110,10 +114,10 @@ I was thinking along the lines of: "it's a stupid error", "maybe it's my fault b
 Basically I was joining the public circle of technicians that contribute to one of the most famous project in Linux, it was public and open but at the same time it was for a small elite. I took a breath, provided more information I could, verified it few times and sent it (without asking for help, all by myself).  
 Cannot recall what the ticket was about now, this isn't the point however; after that situation I had no more fear or anxiety. If I, an expert and skilled person, was to have them, it was easy to understand what newcomers feel in front of a form whatsoever (even when posing the simplest questions).
 
-Another point is finally find a ticket about your issues/feature request and reply asking f of updates because maybe is very old, as we will see later in the book with a dedicate chapter, usually maintainers or other people doesn't have time to check everything.
+Another point is finally find a ticket about your issues/feature request and reply asking of updates (maybe is very old), as we will see later in the book with a dedicate chapter, usually maintainers or other people doesn't have time to keep up everything.
 
-On the other hand who will read the ticket need to be a bit of a community manager not just a project maintainer. Close a ticket because there is no time to do it is wrong, is evil for your users and a misuse of the tool itself.  
-Who opened a ticket as we saw require for newcomers a lot of trust on their skills, so you reply is the first touch with someone more skilled then them and what you will do will impose the brand of your project to them. They can enthusiastic people that want to help or someone that cannot use the software maybe for configuration issues or a bug (they think is a bug).  
+On the other hand who will read the ticket need to be a bit of a community manager not just a project maintainer. Closing a ticket because there is no time to do it is wrong, is evil for your users and a misuse of the tool itself.  
+Who opened a ticket, as we saw, require for newcomers a lot of trust on their skills, so your reply is the first touch with someone more skilled then them and what you will do will impose the "behavior brand" of your project to them. They can enthusiastic people that want to help or someone that cannot use the software maybe for configuration issues or a bug (they think always is a bug).  
 One of the common comments that I receive on tickets in my project as example is a thank you because I replied (this is not so common in OSS) and also that I replied very fast (in the same day at least if now few minutes). People approached in this way feels more appreciated and can be very helpful and motivated to do more, is a win-win for both the parties.
 
 A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will be not abandoned for months because it's not clear the status. And again there will be a documentation of what is required to do.  
@@ -148,7 +152,7 @@ Visit these links to find examples:
 * [WireGuard: Secure Network Tunnel integration on Linux Kernel (advanced)](https://lkml.org/lkml/2019/3/22/95)
 * [Counterargument to Deprecate Short Tags RFC V2 in PHP](https://wiki.php.net/rfc/counterargument/deprecate_php_short_tags)
 
-Just as note [Linus Torvalds was interviewed about how he managed the Linux project from home with mailing lists](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/). Basically be short but check few times before to send what you saying and be clear.
+Just as note [Linus Torvalds was interviewed about how he managed the Linux project from home with mailing lists](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/). Basically be short but check few times (before to send it) what you saying and be clear.
 
 #### Chat
 
@@ -166,9 +170,9 @@ E-mails allow for recap, or a single notification for a group of mails, chat sys
 
 For this reasons a chat solution is fine for some stuff and not for everything. Also understand the kind of technology for chatting is important, is not just a flow of messages like IRC (that anyway is getting abandoned for various reasons), but include usability, multi-device usage and various levels of anonymity.  
 For a lot of people use IRC or Jabber is difficult because they have no idea of what means use a "client", that need to be configured but also what pick for that scope based on their system. Often these clients don't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc.  
-Another problem is the anonymous level that today, with the various Code of Conducts, is a problem because doesn't let to enforce it (as they require to do actions to a person/user).  
+Another problem is the anonymous level that today, with the various Code of Conducts, because doesn't let to enforce it (as they require to do actions to a person/user).  
 
-There is a nice talk about the next generation of cintributors that don't use IRC (and we have to accept it) at [FOSDEM 2020](https://fosdem.org/2020/schedule/event/nextgencontributors/) .
+There was a nice talk about the next generation of contributors that don't use IRC (and we have to accept it) at [FOSDEM 2020](https://fosdem.org/2020/schedule/event/nextgencontributors/) .
 
 So a chat is not just a place to discuss but part of the ecosystem and need to follow some rules and expectations that are shared with everyone. In fact as example if you take specific kind of community for they is perfectly fine to be anonymous and they don't care of the client etc but for others instead the appearance is very important.
 
@@ -216,7 +220,7 @@ What are the benefits of applying the art of documenting then?:
  * You will getting a growth mindset
 
 I> Growth mindset is the opposite of the Fixed mindset that is based on the assumption that skills and knowledge are predetermined.
-I> THis mindset enables you to love to learn, challenge yourself and experiment, so the performance and personal skills improve.
+I> This mindset enables you to love to learn, challenge yourself and experiment, so the performance and personal skills improve.
 
 Also to keep you active and aligned with your world is important to not stop from learning every year something new, and maybe learn how to document can be your next goal to move on your knowledge! Don't forget that if you stop to learning you can become easily obsolete but the goal of this book is to not be so pessimist.
 
@@ -299,7 +303,7 @@ I want to quote a phrase from this article [Interview candidates with an Open So
     Professionals with a solid Open Source background do not depend on certifications paid by their companies to learn how to use their tools, or having to change their base tool-set regularly, limited by commercial decisions. 
     In other words, Open Source professionals have made their career supported in specific tooling and associated practices they have chosen and mastered.
 
-It is easy to spot the real skilled people with knowledge about it, I saw this also on my job. People thrust me about specific topi because I know how they works not because I read a tutorial but because I studied the internal stuff and experienced in a lot of different ways. Just create a repo for [hacktoberfest](https://hacktoberfest.digitalocean.com/) to do 4 pull requests and get a t-shirt cannot compare to with people that does real effective contribution and improve their skills on high level.  
+It is easy to spot the real skilled people with knowledge about it, I saw this also on my job. People thrust me about specific topics because I know how they works not because I read a tutorial but because I studied the internal stuff and experienced in a lot of different ways. Just create a repo for [hacktoberfest](https://hacktoberfest.digitalocean.com/) to do 4 pull requests and get a t-shirt cannot compare to with people that does real effective contribution and improve their skills on high level.  
 Of course you can create a repo for learning but just doing it in that period of the year doesn't mean that you are a contributor.
 
 Open source skilled people doesn't have a CV (after all I don't have any) but our career speak for us and is more powerful of a course bought on Udemy. Probably we need to improve our communication skills (one of the reason of this book) but this is another topic.
