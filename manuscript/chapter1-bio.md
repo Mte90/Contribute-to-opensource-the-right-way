@@ -19,7 +19,7 @@ My passion about Open Source (or activism) is not clear to my friends because it
 
 This is probably the first reason why I am so easy to get involved, because what I do in Open Source has a real effect on the world and people, compared to this kind of interest that for me is not productive.  
 
-I attended the “Liceo Scientifico Tecnologico” (in Italy the school differs from the others, we have different schools based on the topics), completed in 2009 at "ITI Celestino Rosatelli" in Rieti with 68/100 as a final score of 5 years (thanks to the math that lowered my score), I did a little thesis (it's quite common in Italy for the final exam in high school) and I was only one in a class of 27 people, I even took the laptop (purchased in 2006) for a demo on Lissajouss graphs on Windows XP virtualized on Sidux (the Linux distribution based on Debian Sid, that it’s now dead).  
+I attended the “Liceo Scientifico Tecnologico” (in Italy the school differs from the others, we have different schools based on the topics), completed in 2009 at "ITI Celestino Rosatelli" in Rieti with 68/100 as a final score of 5 years (thanks to the math that lowered my score), I did a little thesis (it's quite common in Italy for the final exam in high school) and I was only one in a class of 27 people, I even took the laptop (purchased in 2006) for a demo on Lissajouss graphs on Windows XP virtualized on Sidux (the Linux distribution based on Debian Sid, that is now dead).  
 I started to use Linux on my personal laptop just before the end of the school but I was distributing my dev projects online (with sources already).  
 I started to develop in 2006, just before starting the third year of high school, where we finally should start to develop with Visual Basic 6. The school switched to more new technologies like Windows XP (we were using Windows 98) and .NET framework (was using that already).
 I was very thrilled from starting to develop that in the year 2006, I was already doing my first internet websites with HTML4. At the time my data source was the local public library and the IT magazines.  
@@ -40,7 +40,7 @@ So to explain what I am doing or what I am learning to others, because what's us
 
 For me internet was the first way to meet people like me (I still love forums) to work on my projects or discuss.  
 In 2009 after the school I had to choose what to do with my life. A question that all the young people often face, my choice was very simple: work with computers (without math).   
-Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math on remembering formulas or calculating algorithms.  
+Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math i.e. on remembering formulas or calculating algorithms.  
 
 I chose to go to L'Aquila and take a university course at the Academy of Fine Arts on Web Design. After all I liked to work with websites, so I was easily getting the piece of paper (my parents were longing for).  
 For non-italians, 2009 was the year of the big earthquake with 309 dead and that course never started, so I took a sabbatical year working at the family's shop in the morning and doing a work stage in an IT company in the afternoon for 6 months.  
@@ -130,13 +130,13 @@ I> From [https://en.wikipedia.org/wiki/Web_literacy](https://en.wikipedia.org/wi
 
 This program had a very important mission, fight the digital illiteracy. For a country like Italy with a lot of it, with people who don't know how to use a computer while the smartphones was spreading it was very important.   
 Mozilla for many things works like a startup (I work/ed with them and I am still not liking that way of doing things), starts a lot of prototypes by needs or interests, that can be privacy (like the Encrypt campaign, when FBI wanted Apple to share the encryption keys And Codemoji), Mozilla Pulse, Maker Party, Mozilla WebMaker, Firefox Test Pilot, Firefox Hello and many others that I probably forgot.  
-Also the fact that Mozilla uses a lot of metrics that often are not realistic: like remove features but not understanding that are important for a lot of users. Removing them maybe is a wrong solution, maybe you didn't promoted very well or that features is used by everyone just once every month. The cool part is when a feature is reimplemented after years in a similar way, not just because the code was ugly was needing a refactoring but because is useful and others are doing the same. I wrote an article about how [Firefox lost the browser war](https://daniele.tech/2020/03/firefox-lost-the-browser-war-and-what-we-can-do/).
+Also the fact that Mozilla uses a lot of metrics that often are not realistic: like remove features but not understanding that they are important for a lot of users. Removing them maybe is a wrong solution, maybe you didn't promoted very well or that features is used by everyone just once every month. The cool part is when a feature is reimplemented after years in a similar way, not just because the code was ugly and was needing a refactoring but also because the feature is useful and others are doing the same. I wrote an article about how [Firefox lost the browser war](https://daniele.tech/2020/03/firefox-lost-the-browser-war-and-what-we-can-do/).
 
 With employees that not always stay in the company more than 2-3 years, it is difficult to create a connection or partnership since if you have to start from scratch every time, find new references and talk with people that don't know the Mozilla experience/background and the open source philosophy.  
 In any (ranting) case today is always a source of discoveries and as volunteer you learn how to manage these issues, basically like how the employees themselves do. How?  
 Ignoring them, moving on new stuff with a bit of nostalgia. That way often volunteers hold the only memory of what Mozilla did because they are participating more than the people that worked there.  
 
-An important lesson is in the working environment and human, there are reasons besides the personal human/logical/financial area, things doesn't last forever except Colosseum, Pantheon, Stonehenge, Great Wall of China and Internet Explorer.  
+An important lesson is in the working environment and human, there are reasons besides the personal human/logical/financial area, things doesn't last forever except Colosseum, Pantheon, Stonehenge, Great Wall of China and Internet Explorer, Python 2 or Perl 5.  
 Yes, it is still around there, people are still using it and developers need to support it.  
 
 I want to close this section with links from my blog about a lot of experiences in Mozilla, I had always the habit to write a report after events or topics, and know they are a very valuable resource to understand the period and what was happening years after:
@@ -176,7 +176,7 @@ So I did a browser extension for [for Firefox/Chrome for localizers](https://dan
 ![Me talking at WordCamp Europe 2017](images/1/wceu.jpg)  
 
 We cannot mention the many WordCamp in Italy, so I started traveling up and down the country and up to join 3 different meetups in 3 different regions in the same week (and in 2 as a speaker).  
-Up to 2018/2019 where I was part of the founder committee of the first WordPress fork, ClassicPress, where I leaded the localization team and part of the core development.  
+Up to 2018/2019 when I was part of the founder committee of the first WordPress fork, ClassicPress, where I leaded the localization team and part of the core development.  
 Compared to Mozilla, in WordPress it is easier to receive rewards for what volunteers do, mainly because you can see your action effective instead of merely promoting other things in which you have no chance of being influential.  
 
 Also the WordPress project has issues on management, like Mozilla, and is something not easy to solve by the volunteers (again like Mozilla). WordPress as project is managed by the big company Automattic, because in the WordPress Foundation has many of their employees in the various teams as leaders, so it's easy to follow the roadmap they want: once again this is my opinion, but the fact is simple enough to confirm, look the keynote of the last WordCamp Europe/US with a roadmap that is not focused on the needs of users or communities but on their business needs.  
