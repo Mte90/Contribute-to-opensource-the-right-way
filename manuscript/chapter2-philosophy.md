@@ -46,7 +46,7 @@ Why everything starts in the open source ecosystem? Because a user sees a proble
 Basically the contribution starts when something doesn't sound so good and the issue is quite clear.   
 When the problem is noticed instead of doing a useless comment online or a ranting at the pub/bar, there is an action with a report and the problem is/will be gone. This is the contributor, that enforces the contributor mode (next chapter) without noticing it just because OSS require commitment.  
 This report is the first step to contribute to the project, because behind there are people that are not perfect and that can miss something.  
-The society doesn't understand all of this things, maybe the 4 freedoms are more easy to accept but the commitment on something that is from the IT world is very strange. We need to help the society to understand why this commitment is important, like the civic hacking or other reality that in the IT world act to improve the quality of life using the technology.
+The society doesn't understand all of these things, maybe the 4 freedoms are more easy to accept but the commitment on something that is from the IT world is very strange. We need to help the society to understand why this commitment is important, like the civic hacking or other reality that in the IT world act to improve the quality of life using the technology.
 
 i> Civic hacking, "enhances the relationship between the people and government with software for communications, decision-making, service delivery, and political process." [Wikipedia](https://en.wikipedia.org/wiki/Civic_technology)
 
@@ -69,7 +69,7 @@ Enterprises apply that way of thinking, but an open philosophy project cannot ha
 You can do your part to change the world, and after some time see the problem solved thanks to your intervention! At the same time all other users will have same benefit.  
 Little step for a man, huge step for humanity as a whole.  
 
-When working with public domain resources, there shouldn't be any *omerta*,for it's against the philosophy of the open source projects itself. Everybody can do his own part, even with little time available or doing just little things. A puzzle is made by thousands of little pieces, and  everyone can contribute competing it.  
+When working with public domain resources, there shouldn't be any *omerta*, for it's against the philosophy of the open source projects itself. Everybody can do her/his own part, even with little time available or doing just little things. A puzzle is made by thousands of little pieces, and everyone can contribute competing it.  
 Nothing is more distant from civics (that in Italy is very poorly understood, even if now it's mandatory to teach it in public schools).  
 
 ![Open Source is adorable](images/2/adorable.jpg)
@@ -112,7 +112,7 @@ Concluding, don't forget to take responsibility in case you are the culprit (by 
 
 Let’s think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**. 
 
-![](images/2/feedback.jpg)
+![There are 2 kind of people: who want a feedback and who is lying](images/2/feedback.jpg)
 
 Gorgeous, isn’t it? Let’s take the first difficult step ourselves, let’s be ready to take it because we know how a ticket is powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.  
 

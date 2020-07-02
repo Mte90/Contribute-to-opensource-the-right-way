@@ -12,7 +12,7 @@ The coaching way of doing things is very helpful on motivating but also on optim
 
 ## What it means to be a mentor
 
-The mentor is a guy that follows you during your volunteers journey and needs to be ready for this task.  
+The mentor is a person that follows you during your volunteers journey and needs to be ready for this task.  
 Also, his/her personal experience in the project or skills are very important. You are the first mentee of yourself because you approached probably the same issues, and you probably resolved them so you can give help quickly and easily.  
 It happens that people don’t want to be involved as mentors because is time consuming, requires a lot of patience and a good mindset in communication and skills too.  
 This doesn’t mean that you need all them but for sure being skilled in communication is important, because people will ask you a lot of things and on the way you reply, they will define how much they can trust in you and what they can ask you.  
