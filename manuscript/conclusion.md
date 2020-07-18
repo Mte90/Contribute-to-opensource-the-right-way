@@ -75,7 +75,7 @@ Open source needs more marketers, a sector that often isn’t involved in open s
 
 ### The code is not enough anymore
 
-As today if you ask, to someone that develop or is involved in IT, "What you will do with your project if you have to release it open?" the answer will be "just a zip of the files put online".  
+Today if you ask, to someone that develop or is involved in IT, "What you will do with your project if you have to release it open?" the answer will be "just a zip of the files put online".  
 As we saw in this book Open Source doesn't mean just release the code but let people to use it and also discover it.  
 
 A real example of this is the release of the source code of an indie game, VVVVV that was announced as "VVVVV goes Open Source" but the project didn't had a good license so it was forced to change the announcement with "source code release". There is the [original blog post announcement](https://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) with all the blog post comments but with a research is possible to find also various tweets and discussions about this misunderstanding.  

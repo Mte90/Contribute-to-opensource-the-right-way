@@ -46,12 +46,12 @@ Anyway, this can be stupid, any second you save is a way to do something else an
 
 In my workday in front of a computer I do a lot of things because between tasks I take short breaks, during them I check my todo list and the one that I want to do (based also of the time that I want to invest).  
 As example, I do an important task, I deserve a long break maybe 30 minutes or more, so I can perform a task about something I like. This kind of trophy seems like a dog's treat <that was a good boy>, a lot of coaching books suggest this technique because it improves your attitude on the job but also your mood.  
-Get a break is helpful because reset your brain so you can start fresh (also with just 30 minutes) and working back on the same task, also the one that you hate or you didn't find a solution.
+Getting a break is helpful because it resets your brain so you can start fresh (even for 30 minutes) and work again on the same task. That's also true if you hate it or didn't find a solution before.
 
 They suggest a piece of chocolate, I do something else. Also, doing such breaks during the work is a way to not get distracted or tired working at the computer, we easily switch to different things keeping the attention span working. Of course, I sometimes dedicate the afternoon to something specific,it may be work or an open source task but it's on me to decide based on the priorities what to do.  
 This should happen to you also, in this way you can better value your time, your work and get more satisfaction from it.
 
-Another way can be define an hobby that you want to invest your time, as example for myself for an year I worked to improve my knowledge in other spoken languages. In this way you can appreciate more how you are using your time and define what kind of break you need based on your time availability.
+Another way can be defined as a hobby that you want to invest your time, as example for myself for an year I worked to improve my knowledge in other spoken languages. In this way you can appreciate more how you are using your time and define what kind of break you need based on your time availability.
 
 ## Leadership
 
@@ -61,16 +61,16 @@ Leadership without involvement is impossible, for this reason usually when there
 
 ## Delegating
 
-Delegate is not an easy tasks especially for founders or people that are involved a lot in any situation. Anyway this is the first skill that any leader need to know to achieve any goals of the project.  
-Delegate doesn't means lost control but instead a way to empower others (and grow the project itself) as we say above i this chapter.
-As contributor or leader is important to empower others to create better relationships but most important to do a better team job and create a better team.  
+Delegating is not an easy task, especially for founders or people that are involved a lot in any situation. Anyway this is the first skill that any leader need to know to achieve any goals of the project.  
+To delegate doesn't mean loosing control but instead a way to empower others (and grow the project itself) as we say above i this chapter.
+As contributor or leader it is important to empower others to create better relationships but most important to do a better team job and create a better team.  
 
 The benefits of the delegating can be very surprising because with empowering others there will be probably new opportunities to grow or change something that you never think of.  
 The real benefits to you are first of all for your health (avoid burnout), understand what are the things that only you can do and what are the area where you are acting as first person.  
-Understanding this role, tasks and area is important to have some numbers, see bottleneck, open new opportunity to grow and so on. An example is: you have the password for the various social accounts but they are dead because you are busy on fixing bugs or localizing, instead you can create a team or delegate to someone that you thrust to follow it for you.  
+Understanding this role, tasks and area is important to have some numbers, see bottleneck, open new opportunity to grow and so on. An example is: you have the password for the various social accounts but they are dead because you are busy on fixing bugs or localizing, instead you can create a team or delegate to someone that you trust to follow it for you.  
 Another one: your project doesn't have any documentation because you want that everything is perfect and the project is not yet ready for your standards, but someone that has better writing skills can do a documentation also for the actual status of your project.
 
-Another important facts about delegating is avoid gatekeeping. Gatekeeping is one (for me) of the most bigger issues in the Open Source world.  
+Another important fact about delegating is to avoid gatekeeping. Gatekeeping is one of the bigger issues (for me) in the OS world.  
 Basically block the access to important roles or onboarding of new volunteers in the project or in specific areas. This create a bad mood inside the community, bottleneck, feelings for a fork, bad reputation of the project, revolution or refactoring and many others. Basically block innovation inside the community and your work because there is no new people that can replace the other ones that maybe are busy or left the project.  
 In other words a community with gatekeeping is a community/project that is going to an awful ending.
 
