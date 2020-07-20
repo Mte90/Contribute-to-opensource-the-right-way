@@ -18,8 +18,8 @@ In my personal life I like to collect comics Italian, European and American, I h
 My passion about Open Source (or activism) is not clear to my friends because it doesn't revolve around sport (especially soccer that I hate a lot) and in Italy it seems that if you aren't interested in following sports (or practicing them) you are like a loser. Anyway this create issues with my friends that doesn't know what I do for living or why I travel a lot.
 
 This is probably the first reason why I am so easy to get involved, because what I do in Open Source has a real effect on the world and people, compared to this kind of interest that for me is not productive.  
- 
-I attended the “Liceo Scientifico Tecnologico” (in Italy the school differs from the others, we have different schools based on the territory), completed in 2009 at "ITI Celestino Rosatelli" in Rieti with 68/100 as a final score of 5 years (thanks to the math that lowered my score), I did a little thesis (it's quite common in Italy for the final exam in high school) and I was only one in a class of 27 people, I even took the laptop (purchased in 2006) for a demo on Lissajouss graphs on Windows XP virtualized on Sidux (the Linux distribution based on Debian Sid, that it’s now dead).  
+
+I attended the “Liceo Scientifico Tecnologico” (in Italy the school differs from the others, we have different schools based on the topics), completed in 2009 at "ITI Celestino Rosatelli" in Rieti with 68/100 as a final score of 5 years (thanks to the math that lowered my score), I did a little thesis (it's quite common in Italy for the final exam in high school) and I was only one in a class of 27 people, I even took the laptop (purchased in 2006) for a demo on Lissajouss graphs on Windows XP virtualized on Sidux (the Linux distribution based on Debian Sid, that is now dead).  
 I started to use Linux on my personal laptop just before the end of the school but I was distributing my dev projects online (with sources already).  
 I started to develop in 2006, just before starting the third year of high school, where we finally should start to develop with Visual Basic 6. The school switched to more new technologies like Windows XP (we were using Windows 98) and .NET framework (was using that already).
 I was very thrilled from starting to develop that in the year 2006, I was already doing my first internet websites with HTML4. At the time my data source was the local public library and the IT magazines.  
@@ -40,7 +40,7 @@ So to explain what I am doing or what I am learning to others, because what's us
 
 For me internet was the first way to meet people like me (I still love forums) to work on my projects or discuss.  
 In 2009 after the school I had to choose what to do with my life. A question that all the young people often face, my choice was very simple: work with computers (without math).   
-Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math remembering formulas or calculating glogarithms.  
+Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math i.e. on remembering formulas or calculating algorithms.  
 
 I chose to go to L'Aquila and take a university course at the Academy of Fine Arts on Web Design. After all I liked to work with websites, so I was easily getting the piece of paper (my parents were longing for).  
 For non-italians, 2009 was the year of the big earthquake with 309 dead and that course never started, so I took a sabbatical year working at the family's shop in the morning and doing a work stage in an IT company in the afternoon for 6 months.  
@@ -62,7 +62,7 @@ After 4 years we are still doing stuff but we are only two people now. With a lo
 I was developing in PHP because when I moved to Linux this was my home, with the discovery of Python and I made my first UI projects with the Qt framework. I was experimenting with doing the same things on Linux as I was doing with Windows, even with custom software.  
 It's basically what people do when migrating from the first to the latter, in my case I felt like Indiana Jones, without boundaries, and it was intriguing.  
 
-At 18 years (2008) I bought my domain `mte90.net`, after some time I opted for using a CMS, and since data bases were overrated I decided to build  my site with a flat CMS.  
+At 18 years (2008) I bought my domain `mte90.net`, after some time I opted for using a CMS, and since databases were overrated I decided to build my site with a flat CMS.  
 So I started using an Italian Open Source CMS and extending it creating plugins and also doing a fork to the project to add more stuff.  
 I built a tiny community around it, a mini build system and at the time I didn't know about git or other version control systems.  
 In 2012 I opted to use a real CMS that was following real coding standards (compared to the spaghetti code) to do more and better without starting from scratch.  
@@ -75,7 +75,7 @@ I also coded my first software for someone else (my father), today we call it a 
 
 T> Bash is a scripting language on Unix systems (OSX and Linux) that lets you automate software interaction.
 
-At the time I migrated all the computers in the family store to Linux and had a simple request to speed up the flow. Put some sheets on the scanner and automatically prepare Thunderbird and the image is scanned on a new e-mail, so in 2012 I [coded](https://daniele.tech/2012/08/kde-scantoemail/) a solution for this need, and it's still in use today in the shop.  
+At the time I migrated all the computers in the family store to Linux and had a simple request to speed up the flow. Put some sheets on the scanner and automatically prepare Thunderbird and the image scanned on a new e-mail, so in 2012 I [coded](https://daniele.tech/2012/08/kde-scantoemail/) a solution for this need, and it's still in use today in the shop.  
 I discovered that my English was a huge mess (today I speak only "Italish") so I resolved to improve it by studying it again, to be able to cooperate with the international side of open source projects. Submitting code, ticket reporting, discussion and proposals for let's say Mozilla or WordPress, this learning step was needed.
 Other communities I was contributing to at the time were KDE, Sidux/Aptosid/Siduction (my Linux distro) and many others.
 
@@ -96,6 +96,7 @@ And, why not, have fun and network with people, that nowadays are the 2 most imp
 For people appointed to organize community activities and events it's very important to have very good networking skills to be able to involve more people and engage them through better promotion and communication.
 
 ## Mozilla, my house
+
 Since 2013 Mozilla allowed me to participate in many higher level projects.  
 I met people and they supported me (even financially), so I had the chance to understand how large IT companies operate. I learned to host meetings, to manage tasks and proposals and in general many new ways of cooperating in Open Source among many.  
 I had an idea of how the browser and software work, their development cycle and localization problems; I learned to work in groups, to assign tasks and to research and deal with technical issues.  
@@ -112,10 +113,10 @@ With the [death of Firefox OS](https://daniele.tech/2015/05/the-firefox-os-1-x2-
 I was giving speeches about other technologies, like addons development, Firefox web tools for developers, how to join the community, privacy and why Mozilla was important.  
 
 These travels created an "aura" around me, I was (and still I am) called many nicknames like Mozilla-Man, Mr. Firefox, Mozilla and so on. People aren't creative with nicknames after all...  
-At the same time I started improving my English,and in 2015 I joined Mozilla Reps program, participating in activities and discussions online at international level.  
+At the same time I started improving my English, and in 2015 I joined Mozilla Reps program, participating in activities and discussions online at international level.  
 
-I> Mozilla Reps program is an international program free for everyone meant to empower ones local Mozilla community (not only about Firefox but Mozilla per se or other projects like A-Frame as example).  
-I> It is a program with 280~ people from a lot of countries now (when I joined it was double that number), empowering volunteers to become better community managers, better project managers, join Mozilla discussions as NDA group, get funding for events and swag.
+I> Mozilla Reps program is an international program free for everyone meant to empower local Mozilla communities (not only about Firefox but Mozilla per se or other projects like A-Frame as example).  
+I> It is a program with ~250 people from a lot of countries now (when I joined it was double that number), empowering volunteers to become better community managers, better project managers, join Mozilla discussions as NDA (Non-Disclosure Agreement) group, get funding for events and swag.
 
 In the same period I attended my first international event the [FOSDEM 2015](https://daniele.tech/2015/02/fosdem-2015-the-report/), even with my messy English I was able to organize it with the help of 3 Italian friends.  
 Participating allowed me to meet new volunteers in person (also from Mozilla) and this helped me to meet new people (or recognize them from the nickname), slowly I understood that the Reps program was a way to help the community to do more and better.  
@@ -129,28 +130,32 @@ I> From [https://en.wikipedia.org/wiki/Web_literacy](https://en.wikipedia.org/wi
 
 This program had a very important mission, fight the digital illiteracy. For a country like Italy with a lot of it, with people who don't know how to use a computer while the smartphones was spreading it was very important.   
 Mozilla for many things works like a startup (I work/ed with them and I am still not liking that way of doing things), starts a lot of prototypes by needs or interests, that can be privacy (like the Encrypt campaign, when FBI wanted Apple to share the encryption keys And Codemoji), Mozilla Pulse, Maker Party, Mozilla WebMaker, Firefox Test Pilot, Firefox Hello and many others that I probably forgot.  
+Also the fact that Mozilla uses a lot of metrics that often are not realistic: like remove features but not understanding that they are important for a lot of users. Removing them maybe is a wrong solution, maybe you didn't promoted very well or that features is used by everyone just once every month. The cool part is when a feature is reimplemented after years in a similar way, not just because the code was ugly and was needing a refactoring but also because the feature is useful and others are doing the same. I wrote an article about how [Firefox lost the browser war](https://daniele.tech/2020/03/firefox-lost-the-browser-war-and-what-we-can-do/).
 
 With employees that not always stay in the company more than 2-3 years, it is difficult to create a connection or partnership since if you have to start from scratch every time, find new references and talk with people that don't know the Mozilla experience/background and the open source philosophy.  
 In any (ranting) case today is always a source of discoveries and as volunteer you learn how to manage these issues, basically like how the employees themselves do. How?  
 Ignoring them, moving on new stuff with a bit of nostalgia. That way often volunteers hold the only memory of what Mozilla did because they are participating more than the people that worked there.  
 
-An important lesson is in the working environment and human, there are reasons besides the personal human/logical/financial area, things doesn't last forever except Colosseum, Pantheon, Stonehenge, Great Wall of China and Internet Explorer.  Yes, it is still around there, people are still using it and developers need to support it.  
+An important lesson is in the working environment and human, there are reasons besides the personal human/logical/financial area, things doesn't last forever except Colosseum, Pantheon, Stonehenge, Great Wall of China and Internet Explorer, Python 2 or Perl 5.  
+Yes, it is still around there, people are still using it and developers need to support it.  
 
 I want to close this section with links from my blog about a lot of experiences in Mozilla, I had always the habit to write a report after events or topics, and know they are a very valuable resource to understand the period and what was happening years after:
 
-* [https://daniele.tech/2014/10/september-mozilla-marketplace-contributor-of-the-month-daniele-scasciafratte/](https://daniele.tech/2014/10/september-mozilla-marketplace-contributor-of-the-month-daniele-scasciafratte/)
-* [https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/](https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/)
-* [https://daniele.tech/2016/06/mozilla-all-hands-london-was-there/](https://daniele.tech/2016/06/mozilla-all-hands-london-was-there/)
-* [https://daniele.tech/2016/06/confsl-2016-was-there/](https://daniele.tech/2016/06/confsl-2016-was-there/)
-* [https://daniele.tech/2016/09/mozilla-tech-speaker-meetup-european-gathering-in-berlin/](https://daniele.tech/2016/09/mozilla-tech-speaker-meetup-european-gathering-in-berlin/)
-* [https://daniele.tech/2016/09/clsxitaly-roma-2016-was-there/](https://daniele.tech/2016/09/clsxitaly-roma-2016-was-there/)
-* [https://daniele.tech/2017/01/get-stats-of-your-browser-extension/](https://daniele.tech/2017/01/get-stats-of-your-browser-extension/)
-* [https://daniele.tech/2017/09/why-developing-browser-extensions/](https://daniele.tech/2017/09/why-developing-browser-extensions/)
-* [https://daniele.tech/2017/11/analisi-del-sondaggio-mozilla-su-iot/](https://daniele.tech/2017/11/analisi-del-sondaggio-mozilla-su-iot/) - Italian
+* [September Mozilla Marketplace Contributor of the Month: Daniele Scasciafratte](https://daniele.tech/2014/10/september-mozilla-marketplace-contributor-of-the-month-daniele-scasciafratte/)
+* [The Firefox OS 1.x/2.x Problems](https://daniele.tech/2015/05/the-firefox-os-1-x2-x-problems/)
+* [Mozilla All Hands London – I was there](https://daniele.tech/2016/06/mozilla-all-hands-london-was-there/)
+* [ConfSL 2016 – I was there](https://daniele.tech/2016/06/confsl-2016-was-there/)
+* [Mozilla Tech Speaker Meetup & European Gathering in Berlin](https://daniele.tech/2016/09/mozilla-tech-speaker-meetup-european-gathering-in-berlin/)
+* [CLSxItaly Roma 2016 – I was there](https://daniele.tech/2016/09/clsxitaly-roma-2016-was-there/)
+* [ExtStoreStats – Get stats of your browser extension](https://daniele.tech/2017/01/get-stats-of-your-browser-extension/)
+* [Why I am developing Browser Extensions](https://daniele.tech/2017/09/why-developing-browser-extensions/)
+* [Analisi del sondaggio Mozilla su IoT per l’Italia](https://daniele.tech/2017/11/analisi-del-sondaggio-mozilla-su-iot/) - Italian
 
 ![The monument with the names of 5000 Mozillians in front of the Mozilla's office in San Francisco](images/1/monumento.jpg)  
 
-I forgot to mention the huge moment of gratification, my name is on a monument with many other volunteers. This is one of the example of how you can increase the value of what people are doing, a name is a lot of things, often in the projects is easy to limit the gratification to a "Thanks for the reporting" in a ticket but volunteers invest their time so you need to think always on how to engage them.  
+I forgot to mention the huge moment of gratification, my name is on a monument with many other volunteers. 
+
+I> This is one of the example of how you can increase the value of what people are doing, a name is a lot of things, often in the projects is easy to limit the gratification to a "Thanks for the reporting" in a ticket but volunteers invest their time so you need to think always on how to engage them.  
 
 ## WordPress where my job and passions meet
 
@@ -171,12 +176,12 @@ So I did a browser extension for [for Firefox/Chrome for localizers](https://dan
 ![Me talking at WordCamp Europe 2017](images/1/wceu.jpg)  
 
 We cannot mention the many WordCamp in Italy, so I started traveling up and down the country and up to join 3 different meetups in 3 different regions in the same week (and in 2 as a speaker).  
-Up to 2018 where I am part of the founder committee of the first WordPress fork, ClassicPress, where I lead the localization team and part of the core development.  
+Up to 2018/2019 when I was part of the founder committee of the first WordPress fork, ClassicPress, where I leaded the localization team and part of the core development.  
 Compared to Mozilla, in WordPress it is easier to receive rewards for what volunteers do, mainly because you can see your action effective instead of merely promoting other things in which you have no chance of being influential.  
 
 Also the WordPress project has issues on management, like Mozilla, and is something not easy to solve by the volunteers (again like Mozilla). WordPress as project is managed by the big company Automattic, because in the WordPress Foundation has many of their employees in the various teams as leaders, so it's easy to follow the roadmap they want: once again this is my opinion, but the fact is simple enough to confirm, look the keynote of the last WordCamp Europe/US with a roadmap that is not focused on the needs of users or communities but on their business needs.  
 
-Another point that is missing a clear roadmap and a governance that not start from scratch but from people that already know the open source ecosystem/world. There are a lot of open source foundation to get inspiration, why we need to start from scratch and not achieve anything?  
+Another point that is missing, a clear roadmap and a governance that not start from scratch but from people that already know the open source ecosystem/world. There are a lot of open source foundation to get inspiration, why we need to start from scratch and not achieve anything?  
 It's more simple to do that the foundation hire few people as manager of the various area that are not involved with any company and the volunteers that do what is planned and discussed all together.
 
 ## Last flashback
@@ -188,9 +193,10 @@ A great idea that today has failed to explode as we thought, also because we are
 ![Article from Italian newspaper with also my interview about the Italian Digital team](images/1/italia.jpg)
 
 I say it because in 2018 I became the president of the association and after a few years I can see the issues in a world that transform itself too much quickly.  
+
 Let's think a moment together, in 2019 the open source world is not as strange and dark as 5 or 10 years before.  
 The world is paying more and more attention to the opportunities of these technologies (except the Italian government in the various cities) but I see the big problem: to contribute.  
-This book was written because I see a lot of young people and newcomers that ask how to do something, how to start or how works. how it works. Because it is more important to be able to participate and contribute than to be mere users of the product for them.
+This book was written because I see a lot of young people and newcomers that ask how to do something, how to start or how it works. Because it is more important to be able to participate and contribute than to be mere users of the product for them.
 
 # Conclusion
 
@@ -231,3 +237,5 @@ X> * Where you see yourself in this story
 X> * What is your biggest target (also non-realistic)
 X> * What is the first step you want to do
 X> * What you want to learn
+
+There are also other FOSS story around with less photos but more clear learnings (maybe) like [this one](https://blog.burntsushi.net/foss/).

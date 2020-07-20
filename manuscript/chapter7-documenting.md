@@ -1,13 +1,15 @@
 -# Documentation! Documentation! Documentation!
 
-Maybe it's not clear, documenting is very important even if it is boring.  
+Maybe it's not clear, [documenting is very important](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) even if it is boring.  
 You have no idea how much it may be powerful to document and allow for these resources to be used from everyone.  
-You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI and because of your story you need to be the master.  
+You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI or the logo changes (I am talking to you Mozilla) and because of your story you need to be the Master.  
 You have to stop making the things worse, before the new logo change or the new motto to be ready, moving on your hobbits to the next fatigue and making everything better.
 
 Probably too much cinematic but I think you got the point, before performing better than what we have now you have to stop things from getting worse.  
 
 This book is based on documents that I have written during the years and also this chapter is filled with things gathered in various resources that I have written for my communities and maybe it can be inspirational for you!
+
+Just as example how FAQ, guide, tutorial, wiki and so on can grow during the time just with a first kick to the ball (if those are open to everyone to contribute).
 
 ## How to analyze an activity
 
@@ -55,7 +57,7 @@ Every social campaign requires different digital assets to the organizers, here 
 
 ### Roles
 
-To create a team you need to specify the various rules to work all together and avoid conflicts and issues.
+To create a team you need to specify the various roles to work all together and avoid conflicts and issues.
 
 * Talk
    * A person who can do the talk and later plan a meeting to review it
@@ -98,4 +100,5 @@ Next steps:
 
 # Conclusion
 
-Take this chapter as inspirational for you to start writing documentation about community management but also on other things. Write the most stupid things too but write them, the next one that is going to replace you probably won't know everything.
+Take this chapter as inspirational for you to start writing documentation about community management but also on other things. Write the most stupid things too but write them, the next one that is going to replace you probably won't know everything.  
+Instead if you are interested on discover how to write documentation from the language or the style there is [this guide by Google](https://developers.google.com/style).

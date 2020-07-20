@@ -1,6 +1,7 @@
 -# What are the most common areas of activity?
 
 Prerequisite of the activities to propose is the mentioned chat. That way the volunteer is ready to do something, not alone of course, but with your help.  
+Remember Open Source is not just project promotion but everything that keeps the project alive, contribute in other areas can help your overall view and open new ideas to move further what you are doing and the project itself.
 They get confidence with your help in the project without experiencing the huge barrier of a link with a list of things to do.  
 It's not always possible to have that chat but in my experience without that the volunteer will always have problems to understand something of the project – why is this so or how that works for example. 
 
@@ -16,7 +17,7 @@ If this works with systems why can't it work with your tasks?
 I will mark with *D* the activities that can have a direct effect on the project and *I* he ones whose impact is difficult to measure but are part of the things people can do even if they aren't active members of the project.  
 Also, I divided the various areas by level, the higher the level the more experience is required in the project or for the type of activity (basically some activities require skills that you might not have).
 
-Just before reading the next chapter, ask yourself this questions:
+Just before reading the next chapter, ask yourself this questions "To live inside this project, ...":
 
 * What do you like to do?
 * What are your skills?
@@ -27,7 +28,10 @@ The answers to these questions will give you a personal overview of the area or 
 PS: The joy of contributing happens when you see your change/improvement/localization/etc being used by everyone, and they don't know you are the author.  
 The biggest gratification of a volunteer is the activity he did is used by others!
 
-Imagine your contribution to the project and the effect of other people on what you are doing to get a boost of motivation!
+Imagine your contribution to the project and the effect of other people on what you are doing to get a boost of motivation!  
+This is also part of understanding what the others are doing inside the project and how it is moving on, where you can help and maybe new blockers.  
+
+Just a little note, there aren't only common areas but also tasks that are often repeated or that happens periodically, those are areas where a new volunteer or a contributor can act to improve the amount of time used to dedicated on something more important.
 
 ## First level activities
 
@@ -44,7 +48,7 @@ Start from something that hasn't specific rules to see what are the skills and E
 The rules of localization can hinder their interest or they may be something they have to learn, and this may slow down their interest.  
 A new volunteer wants to do something without having to undertake a big course/onboarding to see if fits him.  
 Moreover, technical glossary may create a problem because the project can use specific terms and the volunteers don't know or understand them yet.  
-Every project usually has rules or guides about how to help on localizating and is something that everyone can do.
+Every project usually has rules or guides about how to help on localizing and is something that everyone can do.
 
 ### Support *D/I*
 
@@ -56,7 +60,7 @@ Probably a combo will be to translate something about Support.
 This is very important, as is the reviewer, because they can learn about the project and make it something to improve it. It follows reviewer rules.  
 The difference is that Testing consists in trying to find problems or bugs while Reviewing on the other hand consists in writing a document including all the problems without going in depth about implementation but only to receive feedback.
 
-### Promotion/Evangelism *D/I*
+### Promotion/Evangelism/Design *D/I*
 
 Promotion is very important, you can have the coolest project but if the rest of the world is not interested, it will die.  
 This is a lesson I learned in the startup world, often the most successful company may not have the best project but is promoted better.  
@@ -93,12 +97,12 @@ The project needs more buzzword to get promoted and to have a chance to fight wi
 * Open source doesn't mean it is free, but that the project is under a license allowing specific things. So it's sometimes possible to get the code by paying it for example, like in WordPress plugin/theme ecosystem.
 
 Those are examples of advocacy 2.0 for open source projects. We take an important fact that involves everyone from the newbie to the non-IT aware person, leaving a fewdoubts behind so people will remember the whole point and giving information about something new that they don't know. Also, giving people a choice without being a dictator but motivating them to discover more and not only by talking about your project.  
-For me this differs from promotion/evangelism because the purpose here is to motivate people to discover more and engage, not only get a gacts or pieces of new.
+For me this differs from promotion/evangelism because the purpose here is to motivate people to discover more and engage, not only get a gadget or something new to promote.
 
 ### Event *I*
 
 Often events are seen like amateur gatherings where friends meet to always discuss the same things.  
-This is true, but it's also a way to network, find new people and approach them to promote live. If you want to talk about open source for students you have to do it in a school and you'll ave to consider what they may be interested in.  
+This is true, but it's also a way to network, find new people and approach them to promote live. If you want to talk about open source for students you have to do it in a school and you'll have to consider what they may be interested in.  
 Organizing events and giving talks or hosting workshops is important. It's a huge way to interact with people, understand their mood and motivate them. Humans are social animals that need interaction, and sometimes they need to meet also offline.  
 The people you engage in events are more prone to be engaged later as volunteers, because they see other people like them or that is possible to contribute because the others are akin to them.
 
@@ -116,13 +120,19 @@ Also, this is a very important role because usually it is a bridge between new v
 There will be a guide on how to motivate volunteers in the appendix, because also the most active one can have his/her moments of doubt or other things to do, and we need to re-engage them later, or we can easily lose their help.  
 A little suggestion, don't forget that the community likes to be involved in decisions, because the project is open, so defining ways to let them join in it's very important.
 
-### Development *D/I*
+### Development/Infrastructure *D/I*
 
 If the project has a software, well they are important!  
 Without skilled developers the project will be dead in short time, because it will be abandoned and you don't want that.  
-People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.
+People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
+
+Also some projects have a different team called Infra/infrastructure/Meta/SysAdmin, the purpose is to keep moving on the official websites and the various tools used by the project from the ticket system to the git instance. They can be developers that create a new theme, specific integrations or sysadmin that keep the server safe and updated.  
+To get the best from your users is important to offer the best tools, this means that they don't need to be at 100% FOSS projects. Well it will be better but sometimes you cannot do everything in this way, maybe in the future your needs can be inspiring for something new or create new opportunities.  
+It is important just to focus on priorities, it is more important the tool or your main project in that moment? I ask this because often focusing on new tools or develop it is thrilling for contributors but create issues on maintain them or keep focusing on the goals of the real project.
 
 # Conclusion
 
-Open source involves a lot of areas where you can find a home for your interests and people like you. Just pick what you prefer and start to go deep and discover how it really works.  
-The usual excuse I have not idea about what to do is only a bad excuse after reading this chapter.
+The last mention of this chapter is how this activities fit in the structure of the community accountability. Basically every activity or community has various role levels: Leaders, Maintainers/Committers, Contributors.  
+Those helps on evolving the community and giving different tasks but at the end is always a volunteer, it is just a volunteer with more skills that got this role maybe for experience or necessity. In Open Source the **meritocracy** is always a rule (always in projects where there is no business), where the experience is knowledge/facts based and not financially.
+
+Open source involves a lot of areas where you can find a home for your interests and people like you. The homework that I can give to you is think what do you like most, what will be the first area and the last one that you want to do in your journey. After this, it is time to discover how it really works.  

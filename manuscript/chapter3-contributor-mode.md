@@ -2,7 +2,7 @@
 
 I call “Contributor Mode” that moment I use to code patches, localize or organize events (no specific key combo here – I grew with videogames).
 
-In other words, when I am highly focused in these activities,doing something I like (oftentimes) and I strive to do it the right way. Usually I enter Contributor Mode to have a break between 2 different job activities, to relax a bit.
+In other words, when I am highly focused in these activities, doing something I like (oftentimes) and I strive to do it the right way. Usually I enter Contributor Mode to have a break between 2 different job activities, to relax a bit.
 
 This makes distinguishing among work and contribution periods easier. Often these two activities may be on the same level of importance, but I prefer shifting my attitude in performing them, for later I may use the outcome of contribution for a job project.  
 
@@ -15,17 +15,17 @@ Question is how you can move in the Open Source world in a comfortable way, star
 
 Simple! You have to learn to live inside it.
 
-How can you live in an open project without any previous experience in contributing to one?  
+How can you live in an open project without any previous experience in contributing to one? Consider that today open source is not anymore just for hobbyist/hobbits but for professionals, check job offers in the IT if you don't believe me!
 
-Good question,if the answer was simple you probably would be doing something else now, instead of reading this book.  
+Anyway it is a good question, if the answer was simple you probably would be doing something else now, instead of reading this book.  Also don't forget that the smaller the project is the easier it is to contribute to but you should not be afraid to discover how big project works.  
 Take a moment, relax, get ready to discover a new approach to community projects that may help you in your work as well as your daily life.  
 
 ## How to live inside the Open Source
 
-First step is discovering the **Code of Conduct**, every project has one and usually they are based on the same basic rules, mainly covering how to work on the project and relate to others among the project.  
+First step is discovering the **Code of Conduct**, usually every project has one and they are based on the same basic rules, mainly covering how to work on the project and relate to others among the project.  
 In detail, common sense rules: not to be aggressive, no bad words or insults, understand contributors come from different backgrounds and it isn't always easy to understand each others or avoiding conflicts without applying patience.
 
-I> Being Italian, for me it's normal to make gestures, even when people aren't seeing me. Other people may be confused by that, or the gestures themselves can mean differently to the. Think about that in a big picture, adapting your tone to the environment.
+I> Being Italian, for me it's normal to make gestures, even when people aren't seeing me. Other people may be confused by that, or the gestures themselves can mean something different for them. Think about that in a big picture, adapting your tone to the environment.
 
 This Code of Conduct often applies only to the project home and not for interactions with others about the project happening outside the community (sometimes you even have to sign the CoC), so a twitter interaction may violate it!
 
@@ -39,10 +39,30 @@ For Italian people usually those rules are enough to understand how to behave di
 
 ![Body languages difference all around the world](images/3/body-language.jpg)
 
+Basically Open Source is a group work with different people so is important to have some basics rules to live and moving on and avoid problems during the discussions that can degenerate on flame war. A reading about [work with people that you don't like can be easily found here](https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like).
+
+### Understand if a project is alive
+
+One of the common issues in Open source is to understand if a project is alive, abandoned or dead.
+
+When is alive is easy to see, the tickets are getting replies in reasonable time (like 1 month at maximum), the pull requests are getting reviews, the social channels keep pushing updates when there are (and not forgetting to do so) and so on.  
+
+Abandoned is more complicated because maybe the owner or maintainer is not replying on the tickets or pull requests but is active on social networks. So basically seems that is not caring at all of the project but he wrote anything about it in the project page itself. Usually this means that a fork is possible without so many troubles but probably will be difficult to get the ownerships of the website domain, social accounts etc from the original creator.  
+There is also the issue of the naming issues of a fork or the trademark, we know how much is important the naming of a project today.
+
+I> "In software engineering, a project fork happens when developers take a copy of source code from one software package and start independent development on it, creating a distinct and separate piece of software. The term often implies not merely a development branch, but also a split in the developer community, a form of schism." [Wikipedia](https://en.wikipedia.org/wiki/Fork_(software_development)
+
+Instead dead is like abandoned but there are no forks or any communication from the authors but just people asking if the project is still alive and no one is interested to move on the project.  
+
+Based on your skills you can decide what kind of effort you can put in a project and define a goal. As example can be: create a new fork that handle some bugs that are very annoying (to still use the project without do any brand changes) or define a big plan maybe with the help of someone else.  
+
+As newcomer to open source of course probably is better to start with a project alive but if you have skills and you think that you know how to lead a project, keeping the quality standards and so on with a fork.  
+The kind of fork is based on the goals that you want to achieve and the time that you want to put on that. Can be strange this reference to time but when you take ownership of a FOSS project you will see a lot of problems with time management for various reasons but this book has a full chapter about that.
+
 ### Communicate on the internet
 
-The action of communicating is foundamental. If we communicate badly we lose everything. The talker is an introvert who may as well work on his own, all alone in a garage, without issues.  
-One reason why I wrote that book is my interest in life coaching and self-help, that helped me discover many things about the fact Iam not so good in communicating what is on my mind and to meet what others expect in terms of interactions, tone and mood from me.  
+The action of communicating is fundamental. If we communicate badly we loose everything. The talker is an introvert who may as well work on his own, all alone in a garage, without issues.  
+One reason why I wrote that book is my interest in life coaching and self-help, that helped me discover many things about the fact I am not so good in communicating what is on my mind and to meet what others expect in terms of interactions, tone and mood from me.  
 
 Think about being in an international context, where there are cultural differences, and communication happens in another language to understand how complexity level can ramp up.  
 We will cover various kinds of communication in Open Source, but before that, let's refresh the basics:
@@ -58,6 +78,14 @@ Few example of this points on public discussion I started:
 * [About gratification for volunteers in Mozilla](https://discourse.mozilla.org/t/about-gratification-for-volunteers-in-mozilla/38181)
 * [About regional local community management in Mozilla](https://discourse.mozilla.org/t/about-regional-local-community-management-in-mozilla/38924)
 * [About the Volunteer role in the Mozilla workflow decision chain](https://discourse.mozilla.org/t/about-the-volunteer-role-in-the-mozilla-workflow-decision-chain/38451)
+
+The lesson of this section is: don't be afraid to ask questions (in the right place).  
+Open source contributors also have a big problem about communications because you need to be also a good communicator. **We are exposed on the internet**, what we say as comment about a project or a issue can be the first step of the [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect). We prefer async communication, especially if we are not native English speakers because we can improve the quality of what we have to say and be more comfortable.  
+
+An example of don't be afraid is [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), one of the authors of videogames like Wolfenstein and Doom and pioneers of releasing as open source famous video games. Today he is the Consulting CTO Oculus VR and a famous developer from all the innovation in the 3D world and the promoter of Open Source.  
+Anyway as every single person in front of something is not clear, he started a discussion that [got popularity on HackerNews](https://news.ycombinator.com/item?id=23224584) discussing how also a person like him doesn't understand a C++ code and just like everyone wrote an email to the mailing list of OpenBSD.  
+
+**It's perfectly fine to admit ignorance in something**, especially when you are starting.
 
 #### Ticket/Bug/Issue
 
@@ -80,8 +108,6 @@ What does advanced knowledge of the project means?
 
 First of all recognize if the request is compliant to the reporting tool. Few examples: ticket about an issue that instead should be reported to another project, documentation issue reported as error instead it's a localization issue, budget request in a public ticket system and so on. 
 
-A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will be not abandoned for months because it's not clear the status. And again there will be a documentation of what is required to do.
-
 Scared about the tool?  
 Often the tool is public, sometimes there is the fear of the public (like in public speaking) with concern it would be permanent because it is written. I remember the first time I opened a ticket on Debian for an error on a software that I was using. I had a lot of anxiety because I had to use the email instead of a web interface, I was writing a ticket to one of the biggest Linux organizations in the world.  
 I was thinking along the lines of: "it's a stupid error", "maybe it's my fault because I don't know how to read documentation", "I am reporting to the wrong people, since it's the tool and not the distro", "maybe my report is lacking something important", or "it's poorly written and they will mock me for that".
@@ -89,11 +115,20 @@ I was thinking along the lines of: "it's a stupid error", "maybe it's my fault b
 Basically I was joining the public circle of technicians that contribute to one of the most famous project in Linux, it was public and open but at the same time it was for a small elite. I took a breath, provided more information I could, verified it few times and sent it (without asking for help, all by myself).  
 Cannot recall what the ticket was about now, this isn't the point however; after that situation I had no more fear or anxiety. If I, an expert and skilled person, was to have them, it was easy to understand what newcomers feel in front of a form whatsoever (even when posing the simplest questions).
 
+Another point is finally find a ticket about your issues/feature request and reply asking of updates (maybe is very old), as we will see later in the book with a dedicate chapter, usually maintainers or other people doesn't have time to keep up everything.
+
+On the other hand who will read the ticket need to be a bit of a community manager not just a project maintainer. Closing a ticket because there is no time to do it is wrong, is evil for your users and a misuse of the tool itself.  
+Who opened a ticket, as we saw, require for newcomers a lot of trust on their skills, so your reply is the first touch with someone more skilled than them and what you will do will impose the "behavior brand" of your project to them. They can enthusiastic people that want to help or someone that cannot use the software maybe for configuration issues or a bug (they always think it is a bug).  
+One of the common comments that I receive on tickets in my project as example is a thank you because I replied (this is not so common in OSS) and also that I replied very fast (in the same day at least if now few minutes). People approached in this way feels more appreciated and can be very helpful and motivated to do more, is a win-win for both parties.
+
+A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will not be abandoned for months because the status isn't clear. And again there will be a documentation of what is required to do.  
+On the other side if someone open a ticket give to them the clues to fix on their own the fix and contribute back to the project. One example is giving them the line and the file to patch so they can open a pull requests or suggest a new wording for the documentation.  
+
 #### Email
 
 Mailing list are the noisier communication medium, it's easy to lose interest or feel in the wrong place.  
 It's very easy to find people using *Reply to All* feature just to ask what an acronym means or what kind of tool are you referring to and the like. Netiquette is so easy that often... nobody uses it.  
-Let's imagine a "Thank You" being sent to all the thousands participants in the mailing list, for an update or piece of new that was shared, it's better to send that kind of messages in a private way.  
+Let's imagine a "Thank You" being sent to all the thousands participants in the mailing list, for an update or piece of news that was shared, it's better to send that kind of messages in a private way.  
 My colleague Eugenio often says he wants to write an one page book: “how to use the reply all feature of your mail client”. Often if the conversation is among more than two people, they forget to use it failing to spread the message across, or, on the contrary, sometimes they don't understand how much noise they are creating mailing to everyone something that is meant to be shared in another place.
 
 Different issues, same communication medium with different rules for each kind of communication that has to be shared. That requires a bit of thinking along the lines of: “am I writing this in the right place and with the correct format?”. This may save you time, protect your pride and also your skills won't go wasted, for one of the issues people face with this technology often is: “why do I have to join these discussions?”
@@ -118,9 +153,11 @@ Visit these links to find examples:
 * [WireGuard: Secure Network Tunnel integration on Linux Kernel (advanced)](https://lkml.org/lkml/2019/3/22/95)
 * [Counterargument to Deprecate Short Tags RFC V2 in PHP](https://wiki.php.net/rfc/counterargument/deprecate_php_short_tags)
 
+Just as note [Linus Torvalds was interviewed about how he managed the Linux project from home with mailing lists](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/). Basically be short but check few times (before to send it) what you saying and be clear.
+
 #### Chat
 
-As of today, they took the place of mailing lists condemning them to oblivion. Especially the new generations find very uncomfortable to write long messages, considering the fact they very often  use a smartphone in place of a computer.  
+These days, they took the place of mailing lists condemning them to oblivion. Especially the new generations find very uncomfortable to write long messages, considering the fact they very often use a smartphone in place of a computer.  
 Sometimes however they behave silly, for example when they ask what a link is about without even opening it. There is no way around that, the only thing we can do is welcome them in the community as fast as we can, so that they may learn its rules.  
 Rules may be boring to write down, but are indeed important. We need to explain them and enforce them as mandatory to avoid spam and people abandoning the channel for it's impossible to catch up with it.  
 It may be scary to some people to receive many notifications of unread messages from a very crowded community channel.  
@@ -130,7 +167,16 @@ The big issue with chats is to stay on topic, and get back to the topic when the
 
 An example of this is when one piles many questions/issues in one single message, when people join after some time the discussion,they are unable to catch up from the very top sometimes. In that case is better to face one thing at the time and pass on to the next when the previous is exhausted and in doing that there is the need to be intransigent with the discussion remaining on topic.
 
-E-mails allow for recap, or a single notification for a group of mails, chat systems send a notification for every and each message that gets to be posted, this resulting in a dancing and ringing smartphone in less than a minute.
+E-mails allow for recap, or a single notification for a group of mails, chat systems send a notification for every and each message that gets to be posted, this resulting in a dancing and ringing smartphone in less than a minute.  
+
+For this reasons a chat solution is fine for some stuff and not for everything. Also understand the kind of technology for chatting is important, is not just a flow of messages like IRC (that anyway is getting abandoned for various reasons), but include usability, multi-device usage and various levels of anonymity.  
+When asking people to use IRC or Jabber, they are confused to have to configure a "client" based on their system. In today's world, people use apps which do those things for them.
+Plus, these clients don't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc.  
+Another problem is anonymity of today, since the various Code of Conducts require actions to be enforced against persons/users.
+
+There was a nice talk about the next generation of contributors that don't use IRC (and we have to accept it) at [FOSDEM 2020](https://fosdem.org/2020/schedule/event/nextgencontributors/) .
+
+So a chat is not just a place to discuss but part of the ecosystem and need to follow some rules and expectations that are shared with everyone. In fact as example if you take specific kind of community for they is perfectly fine to be anonymous and they don't care of the client etc but for others instead the appearance is very important.
 
 #### Public Speaking
 
@@ -154,15 +200,16 @@ Usually one of last messages of that kind of discussions states “problem was f
 
 ![XKCD #979](images/3/wisdom_of_the_ancients.png)
 
-The Feynman technique, created by the Nobel winner physicist consists of 4 rules:
+The [Feynman technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/), created by the Nobel winner physicist consists of 4 rules:
 
 * Pick a topic you want to learn
 * Pretend that you are teaching to a kid (like the hashtag #explainlikeiamfive)
 * Identify issues in your explanation, go back and recheck
 * Simplify and use analogies
 
-This technique is used to learn any topic in the most effective, easy and fast way. In Open Source world it would be a part of Public Speaking of Documenting.  
-Being a grumpy cat doesn't clearly help, even if you are trying to use the technique. So it is required of you to come out of the shell, meet people and confront with them, Trust me, at the start it may seem it makes no sense, but one of the reason this book was started, was because of that.  
+This technique is used to learn any topic in the most effective, easy and fast way. There is another version called [Explanation effect](https://medium.com/accelerated-intelligence/explanation-effect-why-you-should-always-teach-what-you-learn-9800983a0ea1) that include also a research and other modern information.  
+In Open Source world those technique would be a part of Public Speaking of Documenting.  
+Being a grumpy cat doesn't clearly help, even if you are trying to use the technique. So it is required of you to come out of the shell, meet people and confront with them. Trust me, at the start it may seem it makes no sense, but one of the reason this book was started, was because of that.  
 
 What are the benefits of applying the art of documenting then?: 
 
@@ -172,6 +219,12 @@ What are the benefits of applying the art of documenting then?:
  * You help improving the project's branding
  * You provide useful resources for newcomers
  * You feel confident for you know the topic or you have a real experience with it
+ * You will getting a growth mindset (about this topic there are various books)
+
+I> Growth mindset is the opposite of the Fixed mindset that is based on the assumption that skills and knowledge are predetermined.
+I> This mindset enables you to love to learn, challenge yourself and experiment, so the performance and personal skills improve.
+
+Also to keep you active and aligned with your world is important to not stop from learning every year something new, and maybe learn how to document can be your next goal to move on your knowledge! Don't forget that if you stop to learning you can become easily obsolete but the goal of this book is to not be so pessimist.
 
 Those are the good reasons to start documenting the right way, let's see them in detail! 
 
@@ -197,7 +250,7 @@ And even if you aren't able to see differences, this doesn't mean there aren't.
 
 #### Lets you meet new people with different skills and backgrounds
 
-We can say the previous point allows you to understand the various kind of users in your project community. From a marketing perspective, if you are working on a project aimed at hospitals your audience won't be composed by farmers or plumbers, but from nurses and doctors. This means you have to adapt your communication tone (from terminology, to the way of explaining IT stuff, to details and understanding when they aren't needed like when explaining acronyms basing on the context you are in, and you also need to have basic language skills.  
+We can say the previous point allows you to understand the various kind of users in your project community. From a marketing perspective, if you are working on a project aimed at hospitals your audience won't be composed by farmers or plumbers, but from nurses and doctors. This means you have to adapt your communication tone from terminology, to the way of explaining IT stuff, to details and understanding when they aren't needed like when explaining acronyms basing on the context you are in, and you also need to have basic language skills.  
 
 In marketing that is accomplished by creating the various Personas representing ideal users, you can use these to shape the flow of your project and the communication tone. Something we can learn from the Startuppers, they need to adapt their product/service to an undefined audience, understanding what customers need is the first step in shaping their Personas and is useful to shape the best product/service for them.  
 In short, levelling down the learning curve is very important. Documentation has all this power, and gets unused.
@@ -207,16 +260,16 @@ Let's move to the next item…
 
 Usually project become famous for they are the first to appear on the scene (or the easier to get access to, like Internet Explorer) or because they are most friendly. Not for their quality in both cases.  
 Make sure to include resources to make the project more intuitive also, if project itself is complex. A simple example of this is Arduino. We are talking about electronics here, as of today Arduino has many competitors, but Arduino stand out among them (and is default technology supported almost everywhere) because internet is packed full of information about it, also libraries to implement it can be found over the net and many events are organized by third parties to spread the world and inform/educate people about it.  
-Another example is ArchLinux in the Linux-sphere. It's so famous because it includes an extensive documentation that may also be used in the context of other linux distros for its completedeness, among other things.
+Another example is ArchLinux in the Linux-sphere. It's so famous because it includes an extensive documentation that may also be used in the context of other linux distros for its completeness, among other things.
 
-In short, documentation helps to sell, also in other contexts. If you want to address specific niches it is a requirement, for you can't convince people by posting stickers and cool pictures over the social medias, people want facts. Documentation is a fact. Its quality shows the completedeness and coolness of the project.
+In short, documentation helps to sell, also in other contexts. If you want to address specific niches it is a requirement, for you can't convince people by posting stickers and cool pictures over the social medias, people want facts. Documentation is a fact. Its quality shows the completeness and coolness of the project.
 
 Very often you aren't in the position of the first on the market or the more available, but you may be the more intuitive. Again, documentation helps a lot because it allows people to do things on their own. That is the goal the end users want to achieve with the technologies they use. One of the reason why Open Source project grows and spreads wide is they are autonomous, not depending on others support and being able to rely sometimes on periodic fees charged for their usage.
 
 #### Provide useful resources for newcomers
 
-Newcomers always have the same issue as we had ourselves in the past: they are disoriented. Transforming them in autonomous user is critical to lower their defenses, it's the reason Travellers' Club is famous, it lets travellers collect books about the cities they visited, to visit them as they wish.  
-In an Open Source project is not always possible to do what one wants, having a set of instructions is very helpful. It's like the concierge in a hotel explaining what to visit, where to eatand soon. It's nice and one feels welcomed.
+Newcomers always have the same issue as we had ourselves in the past: they are disoriented. Transforming them in autonomous users is critical to lower their defenses, it's the reason Travellers' Club is famous, it lets travellers collect books about the cities they visited, to visit them as they wish.  
+In an Open Source project is not always possible to do what one wants, having a set of instructions is very helpful. It's like the concierge in a hotel explaining what to visit, where to eat and so on. It's nice and one feels welcome.
 
 One of the suggestions or activities I think are among the most powerful to boost engagement in newcomers is proposing them to read the documentation because:
 
@@ -224,14 +277,15 @@ One of the suggestions or activities I think are among the most powerful to boos
 * They review the resources and may be able to signal if they need updating/corrections, if something is missing and if they are overall clear and understandable
 * Tomorrow they will know how they can use documentation and they will help in empowering it in the long run
 
-Reading is accessible to everyone and doesn't require a lot of efforts or time (not to mention by reading one gains experience on the project) but it's a first important step to engage and involve the reader in being a part of it and to contribute back. Maybe fixing typos or updating screenshots included in the page.
+Reading is accessible to everyone and doesn't require a lot of efforts or time (not to mention by reading one gains experience on the project) but it's a first important step to engage and involve the reader in being a part of it and to contribute back. Maybe fixing typos or updating screenshots included in the page.  
+Read the documentation let the volunteers to discover how the project/community is structured, organized and what are the various web portal or tools that are important. As example in Mozilla, Pontoon is the web tool for localization instead in WordPress is GlotPress or in OpenSuse is Weblate. 
 
 #### It's comfortable because it's something you know about or have real experience on
 
 Homework at school could be difficult for someone (in Italy as students we also undertake oral interviews one-on-one with teachers) and may require special studies that after short time are easily forgotten.  
-Instead, writing what we know from our first hand experience is easier, because we already did it, we know the difficoult parts and we can help others and at the same time improve what we know.
+Instead, writing what we know from our first hand experience is easier, because we already did it, we know the difficult parts and we can help others and at the same time improve what we know.
 
-It's not required from you writing documentation for something you don't know about, so you can't ask newcomers to write documentation themself as their first task. Thisis something for veterans, like you are now (or will be in future!).
+It's not required from you writing documentation for something you don't know about, so you can't ask newcomers to write documentation themselves as their first task. This is something for veterans, like you are now (or will be in future!).
 
 Encyclopedias are written by experts, and we are the experts of the project. Sure, Wikipedia makes this statement feel outdated, but consider a bigger ecosystem where you are part of the big picture.
 
@@ -243,7 +297,25 @@ We saw that the first step is to teach to others but there also other steps or t
 * Read a lot of articles (every day or every few days): use Reddit, Dev.To, newsletters like Changelog/SoftwareleadWeekly
 * Study the evening before to sleep is very powerful because helps you to remember what you read more easily
 * Create a list of stuff to read or study when you have time
+* Read stuff from others whom you admire
 * Find a way to experiment what you are learning, check the article [Don't Learn More, Learn Smarter. A Quick Guide to Agile Learning](https://www.entrepreneur.com/article/341618).
+
+I want to quote a phrase from this article [Interview candidates with an Open Source background](https://toscalix.com/2019/12/10/interview-candidates-with-an-open-source-background/) that I liked a lot:
+
+    Professionals with a solid Open Source background do not depend on certifications paid by their companies to learn how to use their tools, or having to change their base tool-set regularly, limited by commercial decisions. 
+    In other words, Open Source professionals have made their career supported in specific tooling and associated practices they have chosen and mastered.
+
+It is easy to spot the real skilled people with knowledge about it, I saw this also on my job. People trust me about specific topics because I know how they work not because I read a tutorial but because I studied the internal stuff and experienced in a lot of different ways. Just creating a repo for [hacktoberfest](https://hacktoberfest.digitalocean.com/) to do 4 pull requests and getting a t-shirt cannot be compared with people who do real effective contribution and improve their skills on high level.  
+Of course you can create a repo for learning but just doing it in that period of the year doesn't mean that you are a contributor.
+
+Open source skilled people don't have a CV (after all I don't have any) but our career speak for us and is more powerful of a course bought on Udemy. Probably we need to improve our communication skills (one of the reason of this book) but this is another topic.
+
+Some examples of simple tasks that a lot of communities have to help newcomers (also on something that can be difficult, like Git or development with 0 knowledge):
+
+* [Contributing to KDE is easier than you think – Phabricator patches using the web interface](https://rabbitictranslator.com/wordpress/index.php/2020/05/03/contributing-to-kde-phabricator-web-interface/)
+* [Create a patch for LibreOffice directly in gerrit](https://libreoffice-dev.blogspot.com/2020/05/create-patch-for-libreoffice-directly.html)
+* [ScummVM is a Magic Box That Runs Classic Adventures](https://levvvel.com/scummvm/)
+* [How I started contributing to the Mozilla Developer Network](https://eduardoboucas.com/blog/2016/08/17/mdn.html)
 
 # Conclusion
 

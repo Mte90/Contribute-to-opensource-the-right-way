@@ -22,6 +22,7 @@ Information, suggestions, procedure, workflow, best practices.
 It begins from the basic stuff to my (new) way of doing things and intro to do the first steps.  
 The technical terms will be explained (the first time) to help Newbies and non-tech people at their first approach to the matter.  
 The open world is *open* to everybody so this book will serve to explaining things.  
+It includes also a lot of links to external resources so you can give sources but also learn more about specific topic without going off-topic with the book.
 See you at the index!
 
 ## License
@@ -45,11 +46,15 @@ Original GIMP project file (.xcf) available on [GitHub](https://github.com/Mte90
 This book is written in Markdown using [ReText](https://github.com/retext-project/retext), released on [GitHub](https://github.com/Mte90/Contribute-to-opensource-the-right-way) and published to [leanpub.com](https://leanpub.com/contributetoopensource-therightway/).  
 The language was reviewed using [LanguageTool.org](https://languagetool.org/), [Grammark](https://grammark.org/dist/) and [Sed](https://www.gnu.org/software/sed/manual/html_node/index.html).
 
+An example of what means contribute to open source is part of this tools. When I written the first edition I did it with just ReText that has a big problem, also it has a tab UI when you open a new file from the file manager start a new instance, so I did a [patch that now is part of ReText](https://github.com/retext-project/retext/pull/476) that enable to use an unique instance.
+
 ## Legend
 
 With the *open source* term usually we refer to a lot of things, from software projects to others like open knowledge (as Wikipedia), so the term (*open* or *open source*) in this book as to be intended as a big view about the philosophy of the project itself and the approach of the community.
 
 ## Contacts
+
+I am looking for feedback about this book to improve it, so reach me to share your thoughts and ideas.
 
 * [https://twitter.com/Mte90Net](https://twitter.com/Mte90Net)
 * [https://www.linkedin.com/in/danielescasciafratte/](https://www.linkedin.com/in/danielescasciafratte/)

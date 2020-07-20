@@ -1,5 +1,17 @@
 -# Appendix 2 for Tech Speakers
 
+This appendix is not just for developers or people that speak fluently Jargon. It is open to everybody that need to talk about tech or need to improve communication skills.
+
+## Schema to expose at the best your thoughts
+
+* Explain a choice
+  * Using the time as your ally to convince more and more people use the rule: Blame is for past, Values for present, Choice for the future. Write your proposal in this way help you to define in the mind what was before and what you are proposing using as base the real situation. Can be something easy to understand but often during discussion we confuse the verb tense, in this way you are processing and writing the information in the most clear way.
+  * Write in 3 steps: describe benefits, show that is easy, show how defeat the other option. Before to show the conclusion you can leave also few options or alternatives.
+* Understand the target
+  * If you want to sell a washing machine you need to know if the customer is someone who clean plates on his own or prefer to trash them. As you are proposing something you need to define the target or the audience, in this way you can change the language, terms but also explain differently.
+* Where is the value
+  * People will listen to you more clearly if you are talking using your experience or anecdotes. As humans we love a story, also if we can identify ourself, this way to expose things is the way used in [TED talks](https://www.ted.com/).
+
 ## Ways to get inspiration (especially for funny facts) 
 
 The idea is that every talk should contain part of our life as a person to better explain the topic and why we care.  

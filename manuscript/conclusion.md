@@ -4,7 +4,7 @@
 
 Open source was a scary topic years ago, they used to see you as an amateur. This is a fake new today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
 Do you know Volvo invented the seat belts but the patent was set up as free to use for all to improve the security for everyone?  
-I think we need people discovering how the open world changed everything already.  
+I think we need people to discover how the open world changed everything already. For example, we could grant them the opportunities to participate during a time slot in their working hours.
 
 From the routers in every house to connect to the internet, that are cheap because of open source technologies allowing internet to spread everywhere and so on.  
 We as people need to let the rest of the world be more conscious for what there is around, as we are doing with climate change.  
@@ -20,10 +20,11 @@ Basically we need to move on those points (explained in the next sub chapters):
 * Evolve the concept of the license
 * Be more user-friendly
 * Get better promotion
+* Open source doesn't mean release the code
 
 ### Use Open Source software because is better not because is free
 
-Just this title has some issues because Open Source != free, take as example  WordPress ecosystem or other CMSs where additional software is sold but the code is public (and not obfuscated/minified). A software can be open source but this doesn’t mean that it’s free, it needs to follow the 4 freedoms that don’t mention the money factor.
+Just this title has some issues because Open Source != free, take as example WordPress ecosystem or other CMSs where additional software is sold but the code is public (and not obfuscated/minified). A software can be open source but this doesn’t mean that it’s free, it needs to follow the 4 freedoms that don’t mention the money factor.
 
 We as community and users need to move on the open to this new level, it isn’t anymore a matter of money as before. Taking as example LibreOffice having to compete with Office 365 that is a cloud service sold to public governments and is cheaper than Office suite to install in the computers.  
 So IT departments prefer Office 365 because they don’t need to take care of supporting it, installing it and so on (welcome to the cloud baby) but this opens the door to other questions. Where are the files hosted? In what country? There are secret/privacy information on them? If I cancel the subscription what it’s going to happen?  
@@ -44,10 +45,13 @@ Open source is for me when:
 
 * The code is open source
 * There is a community leading the project (behind a company too, like in Docker, Kubernetes, or Arduino)
-* There is no Dictator (like in Python, PHP)
+* There is no Dictator (I don't mean the Benevolent Dictator for Life)
 * All the files to use it are provided (like Machine learning models as Mozilla’s DeepSpeech with Common Voice)
 * Everything is documented and following a standard
 * Release management is not happening at the time of major releases only with a cadence of 3-4 months (or less) (people need to be aware of the changes and to be able to deploy without any hurry)
+
+I># Benevolent Dictator for Life
+i>Or the BDFL is a one person that lead the project future, usually is the founder/creator of the project. Also this role has the last voice on every discussion and in some projects this is important because helps on closing discussions or getting a decisions and avoid too much flame wars. In Linux as example is Linus Torvalds, in Python was Guido Van Rossum, Larry Wall for Perl and so on (they created the project). The point to say Benevolent is because as it is open source it is always possible to do a fork with new leaders if there are big issues, for these reasons is a Good Dictator that act only when needed.
 
 ### User friendly because not all the people love the command line
 
@@ -69,6 +73,20 @@ Not only the machine wants data but also people because we are in the world wher
 
 Open source needs more marketers, a sector that often isn’t involved in open source because they don’t care (maybe) but it’s a fact that we need them.
 
+### The code is not enough anymore
+
+Today if you ask, to someone that develop or is involved in IT, "What you will do with your project if you have to release it open?" the answer will be "just a zip of the files put online".  
+As we saw in this book Open Source doesn't mean just release the code but let people to use it and also discover it.  
+
+A real example of this is the release of the source code of an indie game, VVVVV that was announced as "VVVVV goes Open Source" but the project didn't had a good license so it was forced to change the announcement with "source code release". There is the [original blog post announcement](https://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) with all the blog post comments but with a research is possible to find also various tweets and discussions about this misunderstanding.  
+So the code or the core of the project publicly available is not enough because you can only read it, as the legal definition of that is a proprietary project. Without a license that explain how you are allowed to use it is not possible to do anything. Think about of Doom or Duke Nukem open source releases and how they changed the world, also other games that released piece of that letting creating of new games or create new technologies.  
+
+The other point is the promotion, with GitHub a new issues awaken, someone start a project, release the project with a license and so on. At a certain time the owner is no online anymore or interested on working with that and the project became an abandonware. So a new developer take it with the creation of a fork, the problem is that for the rest of the world maybe this new hope is unknown. All the links and information refer to the original that is abandoned so no one will find the fork. Like a Jedi need to master the force and knows all the aspects of that, also with a release public you need to be ready about what means.
+
+Personally when I find abandoned project I ask for updates or looking for a new maintainer but often is very difficult to get an answers. Pinging on Twitter or other social media (not everyone publishes their private email address) so the joy of contributing or access to nice things crash against a Death Star, that is the oblivion of the abandon.
+
+So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.
+
 ## Thanks
 
 As I already said, I decided to write this book because I wanted to gather all the things I documented over the years, my thoughts and share my experiences.  
@@ -87,7 +105,7 @@ My experience level couldn't be as it is now without the help of a lot of people
 * The founders (Marco and Vincenzo) of Industria Italiana del Software Libero, may our idea to create a national group of IT professionals in Italy be an achievable dream and not only a group of friends (Also Emilio, Stefano and Giancarlo).
 * WordPress community, even with all the issues I have with the actual project management I am still involved because I trust the people more than the project itself (now).
 * To all the other people in other communities that it’s always a pleasure to meet and chat with: Italo Vignoli, Enio Gemmo, Giordano Alborghetti, Gabriele Ponzo, Gianfranco Buttu, Roberto Guido, Marina Latini, Saverio Giulio Malatesta, Emiliano Valvassori, Dario Cavedon, Fabio Pietrosanti, Luca Martinelli.
-* All the reviewers for their time and lots of patience on finding English mistakes and suggesting new things that I forgot: Rizki D Kelimutu, Marco Lombardo, Elisabetta Carrara, Konstantina Papadea, Michele Nasti, Takeshi Hamasaki, Stefano Cassone.
+* All the reviewers for their time and lots of patience on finding English mistakes and suggesting new things that I forgot: Rizki D Kelimutu, Marco Lombardo, Elisabetta Carrara, Konstantina Papadea, Michele Nasti, Takeshi Hamasaki, Stefano Cassone, André Jaenisch.
 
 ## Books that you need to read
 
@@ -103,3 +121,12 @@ My experience level couldn't be as it is now without the help of a lot of people
 * "How to Win Friends and Influence People" by Dale Carniege and the new edition for the digital era - It is the basic about human relationships, talking and engage better with people.
 * "Rebel Code: Linux and the Open Source Revolution" by Glyn Moody - The story about Linux and open source with interviews.
 * "Hyperfocus" by Chris Bailey - How to be productive, avoid distraction and use better your time every day.
+* "Thank you for arguing" by Jay Heinrichs - A manual about rhetoric and communications tricks to empower your thoughts and proposal.
+
+## Other resources
+
+* [OpenSource.guide, a GitHub official project with a lot of guides about Open source, contribute and so on](https://opensource.guide/)
+* [Producing Open Source software, a book by one of the core contributor of SVN](https://producingoss.com/en/)
+* [Mozilla Contributor Research 2017](https://mzl.la/whyopensource)
+* [Mozilla Open Strategy 2018](https://mzl.la/openstrategy)
+* [Mozilla Contributor's Communities 2019](https://report.mozilla.community/)
