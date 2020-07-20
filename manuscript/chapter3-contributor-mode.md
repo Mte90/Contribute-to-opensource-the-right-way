@@ -170,7 +170,8 @@ An example of this is when one piles many questions/issues in one single message
 E-mails allow for recap, or a single notification for a group of mails, chat systems send a notification for every and each message that gets to be posted, this resulting in a dancing and ringing smartphone in less than a minute.  
 
 For this reasons a chat solution is fine for some stuff and not for everything. Also understand the kind of technology for chatting is important, is not just a flow of messages like IRC (that anyway is getting abandoned for various reasons), but include usability, multi-device usage and various levels of anonymity.  
-For a lot of people used to use IRC or Jabber, it is difficult because they have no idea of what means use a "client", that need to be configured but also what pick for that scope based on their system. Often these clients don't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc.  
+When asking people to use IRC or Jabber, they are confused to have to configure a "client" based on their system. In today's world, people use apps which do those things for them.
+Plus, these clients don't have modern features like the link preview with an image, title of the pages etc, bot with buttons to press instead of commands etc.  
 Another problem is anonymity of today, since the various Code of Conducts require actions to be enforced against persons/users.
 
 There was a nice talk about the next generation of contributors that don't use IRC (and we have to accept it) at [FOSDEM 2020](https://fosdem.org/2020/schedule/event/nextgencontributors/) .
