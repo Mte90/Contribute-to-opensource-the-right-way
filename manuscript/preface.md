@@ -1,10 +1,10 @@
 -# How to read this book
-I always wanted to write that sentence and this book allowed me to do it!  
-This is not my first e-book, during the years I have written a few (for niches) in Italian - probably unknown to many, but important to have fun learning.  
-During high school (2005/2009) I wrote "Principi di programmazione" (Development Principles) and I released the second edition years later (I think very few people read it), I wrote it mainly for myself, but opted for a public format for it.  
-Later, I have written a guide of 12 pages for [Python and Qt](https://daniele.tech/2013/04/ebook-introduzione-a-pyqt-1-edizione/) in Italian (developers' stuff) and the [2 edition](https://daniele.tech/2015/04/introduzione-a-pyqt-2-edizione/) in Italian.  
+I have always wanted to write that sentence and this book allowed me to do it!  
+TThis is not my first e-book. Over the years, I have written a few niche books in Italian. They are probably unknown to many, but writing them was a fun learning experience for me.  
+During high school (2005-2009), I wrote "Principi di programmazione" (Development Principles) and I released the second edition years later, I wrote it mainly for myself, but opted for a public format for it.  
+Later, I wrote a first and second edition of a 12 page guide on [Python and Qt](https://daniele.tech/2013/04/ebook-introduzione-a-pyqt-1-edizione/) in Italian.  
 I have written also a guide of few pages ["WordPress per il cliente"](https://daniele.tech/2014/10/wordpress-per-cliente-rev-0-0-4/) (WordPress for the customer) in 2012.  
-This is not my first rodeo, this time the topic is serious and big with a lot of my opinions and the explanation of my personal approach to things.  
+This is not my first rodeo. I have written technical books before. This time, though, the 	topic of this book is broad and relevant with a lot of my opinions and the explanation of my personal approach to things.  
 
 ## What you will find
 
