@@ -24,9 +24,10 @@ I> Good artists copy; great artists steal.
 I> From: [https://quoteinvestigator.com/2013/03/06/artists-steal/](https://quoteinvestigator.com/2013/03/06/artists-steal/)
 I> In the IT world there is another version: "Reinventing the wheel" but I prefer to add also "What is not understood is not possessed" of Johann Von Goethe to help you understand the philosophy.
 
-The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can be used as mnemonic to understand how the Open Source process can change your view on doing and understand FOSS (read this link before this chapter if you want to see other opinions).
+The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can be used as mnemonic to understand how the Open Source process can change your view on doing and understand FOSS (read this link before this chapter if you want to see other opinions). 
 
 So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen about the *free* in Free Software because as we said open source means that the code is available but what you can do with that depends on the license that can be Free Software, or that you need to pay to access it as example. There are tons of pages that explain the difference between the various license and why but often they are very complicated, so [get ready on studying them](https://blog.graphqleditor.com/software-licensing-cheat-sheet/).  
+Another opinion is by company side when the license topic is on fire, like dual licensing, CLA, abuses or license's restrictiveness but I dont want to talk about those stuff as it is the most common discussion in this world and there is people that explain a lot better than me, [Open source licensing for supervillains](https://offlinemark.com/2021/01/22/open-source-licensing-for-supervillains/).  
 Yes, you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).
 
 ## Do ut des
@@ -55,6 +56,10 @@ i> Civic hacking, "enhances the relationship between the people and government w
 Another way to see this topic is leave everything better as you found it originally.
 
 The first interaction of an user is an opportunity to get a new contributor, so as community manager, maintainers, contributors etc is important that we offer the best experience, the best gratification we can give but also the best value both the parties can get from this action. In this book we will see a lot of suggestions, ideas and process to achieve it starting from the... reporting!
+
+From a company view we need to think about another thing, production and consumption are 2 different things that require different people and skills. The idea of this book is to help address the various side of the Open Source world because a person that do everything doesn't fit everywhere but can be easily burn-out. As example a side project started as hooby that becomes a product with a company behind lead by the same person maybe has no interests or strength to cover the same role as before.  
+In FOSS there is a lot of attention on consumption with evangelism, awareness but there is not so much of interest to produce the project itself but without the end is near. I hope in a future where everyone that use something open source is contributing back but not just with money or promoting but with something tangible like a localization, coding or creating more resources.  
+Another example of the same thing is that release something by a company as open source just for [branding promotion but ignoring proposed changes](https://miles.land/posts/corporate-open-source/). Open source is a lot of things as you can see, not just 4 freedom but also a world around visibility, promotion and business that are not bad things but how they are managed as usual makes thedifference, also because everything is transparent in this specific world.
 
 ## Reporting
 

@@ -198,6 +198,18 @@ Let's think a moment together, in 2019 the open source world is not as strange a
 The world is paying more and more attention to the opportunities of these technologies (except the Italian government in the various cities) but I see the big problem: to contribute.  
 This book was written because I see a lot of young people and newcomers that ask how to do something, how to start or how it works. Because it is more important to be able to participate and contribute than to be mere users of the product for them.
 
+## Addendum (third edition)
+
+Write a new edition required 2 years with the Covid pandemic that broken the flow of ideas generated during FOSS live events but I didn't stopped gathering resources and doing Open Source.  
+
+On April 2021 I was elected in the [Italian Linux Society](https://www.ils.org/) Association council and I will be part of this for 3 years. I was happy to join it because I wanted to give back to my country after doing international stuff in various communities. As association we help all the Italian Linux User groups and promoting Open source in Italy and we did various things in 2021 like [9000 € in donation to FOSS projects](https://www.ils.org/2022/01/01/2021-con-ils.html) or I organized the [Merge-IT](https://merge-it.net/) conference online with over 12 Italian Open Source communities or about Diital Rights to discuss about various topics.  
+I put my experience like in this ebooks to improve various websites we offer like [Planet.Linux.it](https://planet.linux.it/eventi/) with a new calendar and ICS/RSS feeds divided as national or by regions to find the nearest events to you about open source, so not just LUGs but also from meetup and national communities.  
+Or a whole series of tiny/easy guides to contribute to [Open Source projects from your smartphone/computer in 5 minutes](https://www.linux.it/todo/attivita/), not just using an open alternative app.
+
+On December 2020 I started my podcast in Italian about weekly updates from the Open Source world with a bit of cyber security and technology updates with my opinions. As today with more then 70 episodes it was an experiment that worked with more 220 followers (on Spreaker, Funkwhale and Youtube I can get those numbers but not on the other services). Every week I gather an average of 34 links to discuss in less of 30 minutes. I wasn't thinking about all this interest in this topic as it is very specific but looing on the people that reach me to share feedback or links seems growing.
+
+On January 2021 I was added also on the about:credits in all the Mozilla Products like Firefox, for my contributions in the past years.
+
 # Conclusion
 
 Open source allowed me to:
