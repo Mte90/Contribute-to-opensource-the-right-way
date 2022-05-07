@@ -126,10 +126,10 @@ On the other side if someone open a ticket give to them the clues to fix on thei
 
 #### Email
 
-Mailing list are the noisier communication medium, it's easy to lose interest or feel in the wrong place.  
+Mailing lists are the noisier communication medium, it's easy to lose interest or feel in the wrong place.  
 It's very easy to find people using *Reply to All* feature just to ask what an acronym means or what kind of tool are you referring to and the like. Netiquette is so easy that often... nobody uses it.  
 Let's imagine a "Thank You" being sent to all the thousands participants in the mailing list, for an update or piece of news that was shared, it's better to send that kind of messages in a private way.  
-My colleague Eugenio often says he wants to write an one page book: “how to use the reply all feature of your mail client”. Often if the conversation is among more than two people, they forget to use it failing to spread the message across, or, on the contrary, sometimes they don't understand how much noise they are creating mailing to everyone something that is meant to be shared in another place.
+My colleague Eugenio often says he wants to write an one page book: “*how to use the reply all feature of your mail client*”. Often if the conversation is among more than two people, they forget to use it failing to spread the message across, or, on the contrary, sometimes they don't understand how much noise they are creating mailing to everyone something that is meant to be shared in another place.
 
 Different issues, same communication medium with different rules for each kind of communication that has to be shared. That requires a bit of thinking along the lines of: “am I writing this in the right place and with the correct format?”. This may save you time, protect your pride and also your skills won't go wasted, for one of the issues people face with this technology often is: “why do I have to join these discussions?”
 
@@ -154,6 +154,17 @@ Visit these links to find examples:
 * [Counterargument to Deprecate Short Tags RFC V2 in PHP](https://wiki.php.net/rfc/counterargument/deprecate_php_short_tags)
 
 Just as note [Linus Torvalds was interviewed about how he managed the Linux project from home with mailing lists](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/). Basically be short but check few times (before to send it) what you saying and be clear.
+
+Another point is that they are old, new projects that have less of 10 years doesn't have one so from a side there are communities that mgirated to Discourse or people that still uses with custom mail server configured to organize what they receive with those. It is somthing that you can see with veterans but is not something that is scalable and approachable to newcomers.
+
+An [analysis of this technology with the GitHub (for coders)](https://asylum.madhouse-project.org/blog/2018/07/24/on-git-github-and-email/) shows also other points of view, like:
+
+* Discuss a patch on mailing lists requires diff that often doesn't have syntax highlighting and various threads as the patch get updated, so the final version in the various email exchanges can be everywhere. Instead a centralized solution let's an interactive code review with an history that is more simple to navigate compared to various patch sections splitted in various email in whatsoever order.
+* GitHub offers an API so in case you can do your own client or a different interface based on your needs comapred to emails.
+* As it is a centralized solutions you can't be sure that a copy of that code will be forever in that place (usually big projects have mirrors for this reasons) but this can happens also by email as it is to impersonate someone else
+* Pull requests doesn't allow various authors on the same one (unless you give to them permission), instead by emails this isn't a problem but means more work for the commiter to gather all the wanted changes
+
+To this points I want to add that on GitHub/GitLab/etc you can disable notifications by issues/pull requests etc instead by mailing lists is not possible, so understand what to read can be very time consuming. Honestly this is the reason why i am subscribed tovery few mailing lists (not just about coding) and enable the daily or weekly summary.
 
 #### Chat
 
@@ -182,7 +193,7 @@ So a chat is not just a place to discuss but part of the ecosystem and need to f
 
 Conferences and events are a fundamental part of the Open Source world, because they allow networking among people, people have fun and meet people in person (after knowing each other online for years). To talk in public is important for it can be easily recorded, but if opening a ticket may scare a newcomer, go figure veterans also may be scared from public speaking.  
 
-Years ago i wrote a guide on Public Speaking (now hosted on GitHub) and I am attaching it to this book as an Appendix.  
+Years ago I wrote a guide on Public Speaking (now hosted on GitHub) and I am attaching it to this book as an Appendix.  
 I don't want to cover how to better speak publicly, but how to win the fear of doing it, because it's one of the common issues new volunteers face, especially at their first ever speech.  
 At your first speech, you aren't speaking in front of the president of your country, but you are in a niche environment - surrounded by other friends, meeting with like-minded enthusiasts or in a not so crowded venue. It is the ideal kind of setting, because it helps keeping the stress to a minimum and boosts confidence.  
 
