@@ -20,6 +20,23 @@ How can you live in an open project without any previous experience in contribut
 Anyway it is a good question, if the answer was simple you probably would be doing something else now, instead of reading this book.  Also don't forget that the smaller the project is the easier it is to contribute to but you should not be afraid to discover how big project works.  
 Take a moment, relax, get ready to discover a new approach to community projects that may help you in your work as well as your daily life.  
 
+## Donating money is not enough
+
+Money are never enough but in open source this is not a real rule. It is quite common (and rumour) that a lot of projects have so much money that they have no idea on how to use it or projects that doesn't need them because there is a huge community moving on and they need to cover only hosting expenses.  
+Open Source doesn't need only money and promotion but contribution to itself. Usually the enthusiasts contribute with these because is more simple but how you can feel part of something without doing more?  
+Anyway there are cases and cases so if you want to contribute with money in FOSS there are various ways:
+
+* Hire committers: As company you hire or pay someone to dedicate hours or all their time to work in a project, not so much different on "normal" working
+* Donation: Just to be sure that is the official way as often it is possible to donate to specific contributors on their Patreon/etc instead to the whole project, so just think what is the best move, like I need an invoice or I need that change
+* Certifications/Books: sometimes it is possible to get official certifications for employee or but books by the project's authors
+* Pay for changes: similar to the donation but it is possible to take a consultancy company that will work on the project and to the patch, with moving on the integration itself
+* Associate: often behind a project there is a foundaiton or an association that manage the money and the future, you can associate and be part of their decisions
+
+A fact very common it is company contribution improve the brand of the company itself and also that today the employee are more picky in the job opportunities. They are like to get the best job that let them to do what they like as example 20% of their time to contribute or work in their projects.  
+There are a lot of projects started as private or side project inside a company or during the company hours that became famous and provided a way to find new hires or the company status in that sector.  
+
+The HR world is looking a lot in Open Source to find the best person for a specific role, as everything is transparent is easy to see what are the real skills on the field that can be coding or like localization (a company dont 'need a localizer for any language but a manager that know that field as example that can open new market).  
+
 ## How to live inside the Open Source
 
 First step is discovering the **Code of Conduct**, usually every project has one and they are based on the same basic rules, mainly covering how to work on the project and relate to others among the project.  
@@ -58,6 +75,31 @@ Based on your skills you can decide what kind of effort you can put in a project
 
 As newcomer to open source of course probably is better to start with a project alive but if you have skills and you think that you know how to lead a project, keeping the quality standards and so on with a fork.  
 The kind of fork is based on the goals that you want to achieve and the time that you want to put on that. Can be strange this reference to time but when you take ownership of a FOSS project you will see a lot of problems with time management for various reasons but this book has a full chapter about that.
+
+#### How you can help the Mantainer
+
+In case it wasn't clear, this role is the one that covers the project's updates, communication like replying to tickets/pull requests, doing code and so on. Basically it is the Janitor but also the Artisan and the PR of the project in a single person. It is a busy role and depends and how the project is structured because this role ca be very time-consuming and generate easily burn-out.  
+Too many tasks for a single person that involve different areas and is difficult to find a person that is good in all of them, maybe is a person that speak a lot in jargon or just check the project's notification once a month or just add the code from others under his name, [like in Vim](https://github.com/vim/vim/graphs/contributors).  
+Mantainers need to scale with project growing and this depends not on the project's users growing but on contribution and interaction on the project itself. There are mantainers that push every week something in their projects to show that they are alive or others that with help from contributors/employee share duties.  
+Another non-written golden rule that I remember from Mozilla is that "contributors do stuff for fun but annoying things are for employees", this means that in Open Source you rae talking with someone that is doing on his free time (the majority of times).  
+How you can check if this Mantainer is working with a salary  on the project or not? Check is website or social networks, so you can understand with who are you talking.
+
+An example of burning out mantainers is be on track with the dependency of the project, as they can broke it as it is not possible to manage all of them. We are talking on the duties of Mantainers and there was a [comparison with the financial crisis](https://blog.scottlogic.com/2020/12/22/software-crisis.html) that basically says that there are a lot of variables that creat entropy that as leader you can't handle but you need to manage.
+
+We know that who will check our contribution is a normal person with different time amount avalaible to look on it, so asks to yourself:
+
+* How this can help the project
+* How can I help to push this change in production/next release
+
+The first one is easy as can be a bug report, a localization, replying to a support request etc but the second one is the real question. As example:
+
+* Bug report: as we already said giving all the information to replicate the issue, an example user case or why I got that error and what I was doing
+* Localization: check all the translation guidelines and verify that you are using the same word used in the other localization for your language
+* Support/Promotion: in case a request is happening often push that to the Mantainers to do something about it or create some documentation for it
+* Coding: propose how the code change with lines numbers or do the patch with all the linting/etc done including explaination how the changes works
+
+When you are cotributing is important to you to act as a friend and not like a customer to the Mantainer so provide all the help in what you are asking, in this way you can grow your role in the project but also [your knowledge/awareness](https://notes.eatonphil.com/learning-a-new-codebase-hacking-nginx.html). Remember more are you autonomous and providing a "complete" task in a project more you can drive it in the direction you want, that can be a feature that you need or finding new contributors.  
+The first expectation in contribuing is a *hope* that your contribution be handled and you need to help this hope to succeed, like for our daily hope.
 
 ### Communicate on the internet
 

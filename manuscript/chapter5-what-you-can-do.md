@@ -124,7 +124,7 @@ A little suggestion, don't forget that the community likes to be involved in dec
 
 If the project has a software, well they are important!  
 Without skilled developers the project will be dead in short time, because it will be abandoned and you don't want that.  
-People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
+People with skills, like [manage the codebase or how to do the changes in the right way](https://pncnmnp.github.io/blogs/oss-guide.html), are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
 
 Also some projects have a different team called Infra/infrastructure/Meta/SysAdmin, the purpose is to keep moving on the official websites and the various tools used by the project from the ticket system to the git instance. They can be developers that create a new theme, specific integrations or sysadmin that keep the server safe and updated.  
 To get the best from your users is important to offer the best tools, this means that they don't need to be at 100% FOSS projects. Well it will be better but sometimes you cannot do everything in this way, maybe in the future your needs can be inspiring for something new or create new opportunities.  
