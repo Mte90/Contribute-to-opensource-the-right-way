@@ -37,6 +37,10 @@ There are a lot of projects started as private or side project inside a company 
 
 The HR world is looking a lot in Open Source to find the best person for a specific role, as everything is transparent is easy to see what are the real skills on the field that can be coding or like localization (a company dont 'need a localizer for any language but a manager that know that field as example that can open new market).  
 
+![](images/3/opensourcemodel.jpg)
+
+From a point of view of the Europe Union we saw that there are other values we have to consider about just the money and the impact that they have in the in the whole sector, like new opportunities.
+
 ## How to live inside the Open Source
 
 First step is discovering the **Code of Conduct**, usually every project has one and they are based on the same basic rules, mainly covering how to work on the project and relate to others among the project.  
