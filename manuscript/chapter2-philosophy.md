@@ -152,6 +152,10 @@ It’s up to you, doing the triage you learned more things on how the project is
 Next chapter is about how to maximize the Contributor Mode.  
 I call it so because I am a nerd, and probably because eating so much candies, chocolate, liquirice, fruits and the like, I get to drink not enough coffee.
 
+![The survey Bias](images/2/survey.jpg)
+
+For this reason is important to consider the Bias when you are doing evolaution on FOSS, as there are tons of enthusiasts but they are just part of your users so they can alter your numbers and ideas very quickly. Their opinion important but is important to have a full view.
+
 ## How to manage a new project or a legacy one
 
 This is an hot topic today with a lot of technical debts around, old projects released [open source or to the public (two different things)](http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) or a project started in the company internally now is ready to be published to the OSS world. There is also the case of an [old project release with an OSI license with some changes](https://forum.defold.com/t/we-are-finally-sharing-the-defold-source-code/65177) with discussions about the declaration of opensourceness.
