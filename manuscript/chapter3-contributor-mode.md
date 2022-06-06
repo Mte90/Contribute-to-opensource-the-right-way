@@ -440,6 +440,8 @@ Some examples of simple tasks that a lot of communities have to help newcomers (
 * [Create a patch for LibreOffice directly in gerrit](https://libreoffice-dev.blogspot.com/2020/05/create-patch-for-libreoffice-directly.html)
 * [ScummVM is a Magic Box That Runs Classic Adventures](https://levvvel.com/scummvm/)
 * [How I started contributing to the Mozilla Developer Network](https://eduardoboucas.com/blog/2016/08/17/mdn.html)
+* [Pull Requests Like a PRO](https://navendu.me/posts/pull-requests-like-a-pro/)
+* [So... How do you get started with open source contributions?](https://snehit.dev/posts/foss/starting-with-open-source/)
 
 # Conclusion
 

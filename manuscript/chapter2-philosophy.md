@@ -56,6 +56,7 @@ i> Civic hacking, "enhances the relationship between the people and government w
 Another way to see this topic is leave everything better as you found it originally.
 
 From a company view we need to think about another thing, **production** and **consumption** are 2 different things that require different people and skills. The idea of this book is to help address the various side of the Open Source world because a *Mantainer* cannot do everything alone.  
+"[Users need open source projects, but open source projects do not need users](https://matt.life/writing/the-asymmetry-of-open-source)" this quote is from a story from a OSS project that has a company behind that reminds to everyone that a project doesn't mean that need to bu suitable for everyone also if at same time can be transparent etc.  
 In a company this exchange of value by contributors or the future of a project is a completelly different thing, as example a project ca be released for [branding promotion but ignoring proposed changes](https://miles.land/posts/corporate-open-source/). It is known that company usually hire people that contributed to specific projects that they use or are focused in the area they need skilled people.  
 This company projects often have difficulties on managing the open source community if they are not structured to handle external involvement but this doesn't mean that you can't contribute to them. When you are working in this cases it is required to think in a different and more complex way, Open source is not just the 4 freedoms but also a world around visibility, promotion and business (that are not bad things) and not just transparency.  
 
@@ -188,6 +189,17 @@ The real question could be *Why you should join a OSS project?*, let's see some 
 * Find people similar to you
 * Find mentors
 
+I want to focus again (and I will do often in the next pages) how much a Open Source project is not just the software but without it is empty.  
+A real example is the [Jekyll case](https://www.bridgetownrb.com/future/rip-jekyll/) where there is this list of what is required today for an Open Source project:  
+
+* Engagement on Twitter (or where your community is)
+* Official Discord chat room (or where your community is)
+* Public roadmap
+* Predictable release cycles
+* Welcoming community involvement in shaping new features and tackling technical debt
+* Cultivating working relationships with wider ecosystems (like the techstack communities)
+
+This list shows us how much is changed when everything started in the 70s with Unix but at same time how much skills are required to manage a project with a community. Of course if you are looking for a first contribution it is more simple but is important to know that is not just the GitHub's Pull Request page.  
 Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.  
 I am leaving to you some examples from the internet about how other people explained their first contribution:
 

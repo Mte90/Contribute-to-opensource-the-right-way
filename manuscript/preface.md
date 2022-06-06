@@ -16,7 +16,7 @@ A person not engaged, not interested on the long term is already failing on cont
 
 One real example from the [Linux Kernel, a message by Qu Wenruo, with relative HackerNews discussion](https://news.ycombinator.com/item?id=27629366) shows us sometimes contributions are just a number. This number doesn't mean quality or can be a time-consuming task for mantainer (we will see in the book who they are). A company see a single change as a number but can be just a typo, that is good especially for newcomers as they are learning with something simple, but if you are a skilled person and you are doing it a lot with a single request for any change instead of a single one (so the changes amount that you did for the company grows) you are wasting the time for the mantainers to focus on more important things that can require their best attention.
 
-The value is not in the contribution per se but for the contribution content, if you want really success in Open Source and not just be a number a bit of ethic is important, as everything is public and not hidden behind a NDA (sometimes).
+The value is not in the contribution per se but for the contribution content, if you want really success in Open Source and not just be a number a bit of ethic is important, as everything is public and not hidden behind a NDA/CLA (sometimes).
 
 I> I like to generalize often in my thoughts and discussions. So this book can seems like that but is my way of thinking to simplify the issue or the discussion itself. As a developer is important to see the real problem and the frame but they don't need to be managed together. 
 

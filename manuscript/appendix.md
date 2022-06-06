@@ -33,6 +33,8 @@ It is important also to understand the kind of users you have in the community a
 
 To know better about the various jargon or meanings from the various kind of users, I suggest to you to check this talk by [Italo at Fosdsem 2020](https://fosdem.org/2020/schedule/event/user_standing/).
 
+Another view can be looks your member like employee, you want they happy and that they can be productive. At same time you want to lead them but also [gives freedom to experiment and express their creativity](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/). Or you can learn from [The Office](https://www.quill.com/blog/workplace-culture/company-culture-tips-from-the-office.html) tv series some tips.
+
 ## How to do productive discussions
 
 One of the problem in a community that is easy to change the focus or the point of the discussion, in other words to go off-topic. This isn't a specific problem of the meetings but with any discussion from emails to chat.  
@@ -130,9 +132,9 @@ In every communication it’s better to follow the rule of 7 communications.
 * **Consideration**
     * Don’t forget that your audience needs to follow you so it’s important text is understandable from everyone of your audience.
 * **Concreteness**
-    * The object of the communication needs to be complete and clear to everyone (maybe evaluate the use of future tense). Dividing the communications into different points is very helpful.
+    * The object of the communication needs to be complete and clear to everyone (maybe evaluate the use of future tense). Dividing the communications into different points is very helpful. Basically don't go off topic.
 * **Courtesy**
-    * No negativity, not be the victim and be open. It can help with all of your messages.
+    * No negativity, not be the victim and be open. It can help with all of your messages and don't forget to send it in the right time during the day.
 * **Clearness**
     * The message need to be understood not for the amount of words or the quality of the language but for the context. Putting the proof before the conclusion is the TED way or inductive reasoning.
 * **Correctness**

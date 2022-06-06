@@ -88,4 +88,21 @@ I> I don't remember where i found it but I have my own version: if it is a task 
 # Conclusion
 
 I can't show you how to save your time. It is on you to analyze your tasks and your time and understand how you can optimize it to do whatever you want.  
+The first step is to learn from others, as example I like a lot to read about how big companies or projects changed (or explain) their workflow like in those examples:
+
+* [How WhatsApp scaled to 1 billion users with only 50 engineers](https://blog.quastor.org/p/whatsapp-scaled-1-billion-users-50-engineers)
+* [Shipping a security update of Firefox in less than a day](https://hacks.mozilla.org/2018/03/shipping-a-security-update-of-firefox-in-less-than-a-day/)
+* [The 2022 r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - This is mine
+* [Lessons learned from my 10 year open source project](https://medium.com/@micallst/lessons-learned-from-my-10-year-open-source-project-4a4c8c2b4f64)
+
+Or reading post mortem/outage after big bugs or hardware failures:
+
+* [Mozilla Add-Ons Outage Post-Mortem Result](https://hacks.mozilla.org/2019/07/add-ons-outage-post-mortem-result/)
+* [GitLab.com database incident](https://about.gitlab.com/blog/2017/02/01/gitlab-dot-com-database-incident/)
+* [Facebook: More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+* [Retrospective and Technical Details on the recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
+
+Why? Because in this stories you learn a lot about work organization and how to organize yourself and others with a real story, like a novel.  
+Also in those cases is important to save your time and do what you have to do very quickly. Don't forget that Open Source is basically learning from others and using this rule also in other context is useful after all.
+
 Just think about it because in this fast world where everything changes so easily is important to understand time's value.
