@@ -26,7 +26,8 @@ Information, suggestions, procedure, workflow, best practices.
 It begins from the basic stuff to my (new) way of doing things and intro to do the first steps.  
 The technical terms will be explained (the first time) to help Newbies and non-tech people at their first approach to the matter.  
 The open world is *open* to everybody so this book will serve to explaining things.  
-It includes also a lot of links to external resources so you can give sources but also learn more about specific topic without going off-topic with the book.
+It includes also a lot of links to external resources so you can give sources but also learn more about specific topic without going off-topic with the book.  
+Also it is a way to give a bit of critical thinking about stuff and other point of view around open source, it is not so simple as you think!  
 See you at the index!
 
 ## License
@@ -60,12 +61,13 @@ With the *open source* term usually we refer to a lot of things, from software p
 
 I am looking for feedback about this book to improve it, so reach me to share your thoughts and ideas.
 
+* [https://daniele.tech](https://daniele.tech)
 * [https://twitter.com/Mte90Net](https://twitter.com/Mte90Net)
 * [https://www.linkedin.com/in/danielescasciafratte/](https://www.linkedin.com/in/danielescasciafratte/)
 * [https://www.reddit.com/user/Mte90/](https://www.reddit.com/user/Mte90/)
 * [https://www.instagram.com/mte90/](https://www.instagram.com/mte90/)
 * [https://t.me/mte90](https://t.me/mte90)
-* Mastodon: [https://mastodon.uno/@mte90](https://mastodon.uno/@mte90)
+* [https://mastodon.uno/@mte90](https://mastodon.uno/@mte90)
 
 ## Donation
 

@@ -92,11 +92,11 @@ It is in the bottom of the pyramid each serious bug has a risk of impacting the 
 
 ```
 
-The idea is that the most bottom stuff require more attention by moneynakers, like companys, as they are dependencies that can affect more scenarios from security to mantainenance (like bug fixing or new features).
+The idea is that the most bottom stuff require more attention by moneymakers, like companys, as they are dependencies that can affect more scenarios from security to mantainenance (like bug fixing or new features).
 
 ![XKCD (2347) "the OSS pyramid"](images/3/xkcd-pyramid.jpg)
 
-This version maybe is more easy to understand how a component in a business can be valuable but in Open SOurce is ignored by those entities as they are not contributing to the future of this tiny piece.
+This version maybe is more easy to understand how a component in a business can be valuable but in Open Source is ignored by those entities as they are not contributing to the future of this tiny piece. Or another short version is [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/), that makes more sense, after all every OSS project is based on other OSS projects that often don't get the credit deserved.
 
 ## How to live inside the Open Source
 
@@ -446,4 +446,10 @@ Some examples of simple tasks that a lot of communities have to help newcomers (
 # Conclusion
 
 The Contributor Mode for me is the best way to recap everything, see that definition as a motivational process for every task or activities that you will do when you are working on everything you want.  
-Keeping in mind **why we are doing things is more important than doing the things** themselves often.
+Keeping in mind **why we are doing things is more important than doing the things** themselves often.  
+
+One of the matter of the last 5 years in OSS is communication, with the explosion of social networks and new generations of new contributors this is more important than usual. Often in OSS there is the feeling that for some tools you are using like a fax machine instead of website and this is part of the organizational debt of the project that includes the fact that is difficult to do this kind of changes.  
+So the first step is to not get demotivated because you don't understand how to talk with the community or with someone from the project because at the end you will find a way, it is more important to see if this communication method is still used and not abandoned, like happens often with mailing lists those days.  
+Like in the [Wine examples with GitLab](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow) but there are a lot of mgiration to better tools but still today there are projects that are reachable only with old solutions.
+
+Still push and you will find a way, it is internet after all, everything is there you just need to find it.

@@ -2,7 +2,7 @@
 
 ## What is the future of the open source world in the next years?
 
-Open source was a scary topic years ago, they used to see you as an amateur. This is a fake new today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
+Open source was a scary topic years ago, they used to see you as an amateur. This is a fake news today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
 Do you know Volvo invented the seat belts but the patent was set up as free to use for all to improve the security for everyone?  
 I think we need people to discover how the open world changed everything already. For example, we could grant them the opportunities to participate during a time slot in their working hours.
 
@@ -89,7 +89,10 @@ Often the best solution is the one that the mantainers or veteran think it is th
 
 Personally when I find abandoned project I ask for updates or looking for a new maintainer but often is very difficult to get an answers. Pinging on Twitter or other social media (not everyone publishes their private email address) so the joy of contributing or access to nice things crash against a Death Star, that is the oblivion of the abandon.
 
-So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.
+So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.  
+
+I don't want to forget also that FOSS is not just promotion. With fediverse and new people discovering this world I see more people that want to do promotion but it is something that we need after all? In this book I talk a lot about communcaiton and promotion, at same time there is promotion that change things and promotion that is useless or not working.  
+The project need it but often is more important instead to be one of the fan in the stand to be the player in the game, maybe not the player but maybe the coach or the the doctor.
 
 ## Thanks
 
@@ -134,3 +137,5 @@ My experience level couldn't be as it is now without the help of a lot of people
 * [Mozilla Contributor Research 2017](https://mzl.la/whyopensource)
 * [Mozilla Open Strategy 2018](https://mzl.la/openstrategy)
 * [Mozilla Contributor's Communities 2019](https://report.mozilla.community/)
+* [Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
+* [Producing Open Source Software: How to Run a Successful Free Software Project (SVN)](https://producingoss.com/)

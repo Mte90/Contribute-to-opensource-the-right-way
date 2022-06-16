@@ -223,3 +223,31 @@ Every culture has differences but there are few rules that apply for everyone.
 * Mailing list: like IRC they can be annoying but some community still uses and is not possible to avoid them, they can be very noisy but you can get answers more easily as a lot of people is following them
 * Discourse or forum: with a modern interface they work very well with notification and other stuff
 * Collaborative Documents: they are important to work together on a plan. Etherpad in the open source world are the best, but they are very poor in features like: comments or suggest changes, notification and classic features of a text editor. Usually Google Docs are used, covering all those features but the urls are very complicated and some people don’t like that because they are not open source.
+
+## How to do a roadmap
+
+### Briefing
+
+Objectives and Key Results, is a decisional framework to improve the group working and define what is the result that you are trying to achieve.
+
+When you have an OKR (like grow the followers in 3 months or write a new set of documentation pages etc..) the first thing that you have to do is what you want to achieve personally.  
+Take an example: for the end of the quarter I will reach all the team leaders with a survey to introduce something new that in the meantime I will work on it.  
+The first thing is gather the resources that you need to move on you final goal.  
+Without you cannot start on prepare the plan, so an overview about documents, contacts, tools etc. is important to understand if something is missing.  
+The next step is understand if what you have is enough or need to be improved and based on the resource itself give to them different priorities and assign tasks to other people as example.  
+
+### Document Structure
+
+When you have an idea of what you already have you can work on what is missing.  
+The usual structure of the document to help you to do the various tasks and the final proposal is:  
+
+* Recap the actual status in the document as reference for others (this will help you during reviews as example)
+* Do an analysis of what to change with details and explanation (add also user cases helps)
+* Do a final proposal that is a recap in a bullet list (this simplify for feedback and to the others to remembers the various tasks/difference)
+
+### Workflow
+
+When you have your proposal but also during the writing you will have tasks to do, like gathering the resources etc.  
+The best way is to track everything somewhere and in your plan (that is private to the the leaders maybe) write all the various tasks.  
+
+From a big task is better to create various little tasks so you can track your progress more easily and see what is happening.  

@@ -5,6 +5,9 @@
 There is this huge misconception that because it’s free it’s for everyone. Excluding the fact that open source doesn’t mean that it’s free this is basically wrong.  
 People are interested in different things, who in dressing, who on sports, who on improving the awareness about the quality of the technologies around us.  
 Who is contributing to open source often is part of the last group, maybe is someone curious because it’s a user or because he found something that involves also the other interest’s areas.  
+
+I> For example, I started coding my first website at 16 years old about... Dragon Ball, so pursuing my focus moved on develop games about it...
+
 All this kinds of people need to be always motivated to do more or better to move on the focus of the project.  
 Also, you sometimes need a break or to be engaged again, it’s a continuous work to stimulate them that someone should do in the right way.  
 People need to be gratified for what they do, in different ways and this is on you.  
@@ -16,7 +19,10 @@ The mentor is a person that follows you during your volunteers journey and needs
 Also, his/her personal experience in the project or skills are very important. You are the first mentee of yourself because you approached probably the same issues, and you probably resolved them so you can give help quickly and easily.  
 It happens that people don’t want to be involved as mentors because is time consuming, requires a lot of patience and a good mindset in communication and skills too.  
 This doesn’t mean that you need all them but for sure being skilled in communication is important, because people will ask you a lot of things and on the way you reply, they will define how much they can trust in you and what they can ask you.  
-Who wants to talk to a rude person (and probably who likes pineapple pizza)? You will find someone that is more friendly, but this doesn’t mean that you need to be a friend, only someone that you can talk to and that don’t bites you.
+Who wants to talk to a rude person (and probably who likes pineapple pizza)? You will find someone that is more friendly, but this doesn’t mean that you need to be a friend, only someone that you can talk to and that don’t bites you.  
+
+A pragmatic analysis I get from the role mentor cames from the article [Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins?s=r), where the reason basically is fact that they had a tutor or they got a personal teacher at home. This let them to grow from the experience of skilled people that was shared to them when they were very young people.  
+A mentor is sharing our own experience to others to let them grow with that like this book, just because we want to improve the world itself.
 
 The Mentor's path:
 
