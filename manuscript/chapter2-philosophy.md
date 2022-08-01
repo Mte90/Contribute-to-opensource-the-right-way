@@ -57,6 +57,19 @@ Another way to see this topic is leave everything better as you found it origina
 
 From a company view we need to think about another thing, **production** and **consumption** are 2 different things that require different people and skills. The idea of this book is to help address the various side of the Open Source world because a *Mantainer* cannot do everything alone.  
 "[Users need open source projects, but open source projects do not need users](https://matt.life/writing/the-asymmetry-of-open-source)" this quote is from a story from a OSS project that has a company behind that reminds to everyone that a project doesn't mean that need to be suitable for everyone also if at same time can be transparent etc.  
+
+The mantainer is a role that is a project manager, support, developer, documentation and so on. Basically everything that start from protion to keep the project alive, and if the grows can share this duties to other people. It is a time consuming role and require a lot of skills:
+
+* Improve documentation based on your experience
+* Be open to activites for other users
+* Propose and try new approaches
+* Be honest with/care others
+* Define roadmap
+* Assign tasks wisely
+* Janitor tasks
+
+And so on but you can do those tasks and help the projects you love and improve the value over all.
+
 In a company this exchange of value by contributors or the future of a project is a completelly different thing, as example a project ca be released for [branding promotion but ignoring proposed changes](https://miles.land/posts/corporate-open-source/). It is known that company usually hire people that contributed to specific projects that they use or are focused in the area they need skilled people.  
 This company projects often have difficulties on managing the open source community if they are not structured to handle external involvement but this doesn't mean that you can't contribute to them. When you are working in this cases it is required to think in a different and more complex way, Open source is not just the 4 freedoms but also a world around visibility, promotion and business (that are not bad things) and not just transparency.  
 
@@ -202,6 +215,16 @@ A real example is the [Jekyll case](https://www.bridgetownrb.com/future/rip-jeky
 * Cultivating working relationships with wider ecosystems (like the techstack communities)
 
 This list shows us how much is changed when everything started in the 70s with Unix but at same time how much skills are required to manage a project with a community. Of course if you are looking for a first contribution it is more simple but is important to know that is not just the GitHub's Pull Request page.  
+
+Before the alst words of this chapter I want to leave this news ['The US military wants to understand the most important software on Earth'](https://www.technologyreview.com/2022/07/14/1055894/us-military-sofware-linux-kernel-open-source/). As todaycybersecurity but also awareness about digital security is day after day more important the defense department of USA is trying to understand what this means for the whole internet and their own infrastructure.  
+The result of this question:  
+
+* Open Source projects/communities need an higher livel of care and resepct
+* You can't have thrust on the codebase just is because OSS
+* Code can be written by sanctioned entities (from specific governments)
+* The bus factor is limitating (the whole project fall apart if one just person gets hit by a bus)
+* Proprietary software are built with a 70% of OSS
+
 Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.  
 I am leaving to you some examples from the internet about how other people explained their first contribution:
 
