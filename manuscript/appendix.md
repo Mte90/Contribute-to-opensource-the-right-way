@@ -33,7 +33,7 @@ It is important also to understand the kind of users you have in the community a
 
 To know better about the various jargon or meanings from the various kind of users, I suggest to you to check this talk by [Italo at Fosdsem 2020](https://fosdem.org/2020/schedule/event/user_standing/).
 
-Another view can be looks your member like employee, you want they happy and that they can be productive. At same time you want to lead them but also [gives freedom to experiment and express their creativity](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/). Or you can learn from [The Office](https://www.quill.com/blog/workplace-culture/company-culture-tips-from-the-office.html) tv series some tips.
+Another view can be looks your member like employee, you want them happy and that they can be productive. At the same time you want to lead them but also [gives freedom to experiment and express their creativity](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/). Or you can learn from [The Office](https://www.quill.com/blog/workplace-culture/company-culture-tips-from-the-office.html) tv series some tips.
 
 ## How to do productive discussions
 
@@ -220,7 +220,7 @@ Every culture has differences but there are few rules that apply for everyone.
 * Hangouts/Hangouts Meet/Zoom/Jitsi: it’s useful online for video meetings but remember it allows a maximum of 10 people on the free plan
 * IRC: it’s the classic solution on open source to chat but for the new generation and for the mobile world it’s too difficult to configure and understand
 * Matrix/Slack-like: it is a IRC 2.0 that may improve the organization in groups of people and usually a bridge between IRC and Telegram can improve the migration. Slack have problems on onboarding new people because the free plan is very limited to 10000 messages (also on private groups and is very easy to reach that). It is not open source and there are many alternatives without that problem. This tools, like Telegram or Matrix have integrations such as bots.
-* Mailing list: like IRC they can be annoying but some community still uses and is not possible to avoid them, they can be very noisy but you can get answers more easily as a lot of people is following them
+* Mailing list: like IRC they can be annoying and noisy, but some community still uses and is not possible to avoid them, but you can get answers more easily as a lot of people are following them
 * Discourse or forum: with a modern interface they work very well with notification and other stuff
 * Collaborative Documents: they are important to work together on a plan. Etherpad in the open source world are the best, but they are very poor in features like: comments or suggest changes, notification and classic features of a text editor. Usually Google Docs are used, covering all those features but the urls are very complicated and some people don’t like that because they are not open source.
 
@@ -228,26 +228,26 @@ Every culture has differences but there are few rules that apply for everyone.
 
 ### Briefing
 
-Objectives and Key Results, is a decisional framework to improve the group working and define what is the result that you are trying to achieve.
+Objectives and Key Results, is a decision framework to improve the group working and define what is the result that you are trying to achieve.
 
-When you have an OKR (like grow the followers in 3 months or write a new set of documentation pages etc..) the first thing that you have to do is what you want to achieve personally.  
-Take an example: for the end of the quarter I will reach all the team leaders with a survey to introduce something new that in the meantime I will work on it.  
-The first thing is gather the resources that you need to move on you final goal.  
+When you have an OKR (like to grow the followers in 3 months or write a new set of documentation pages etc..) the first thing that you have to do is what you want to achieve personally.  
+Take an example: at the end of the quarter I will reach all the team leaders with a survey to introduce something new that meantime I will work on it.  
+The first thing is gathering the resources that you need to move to your final goal.  
 Without you cannot start on prepare the plan, so an overview about documents, contacts, tools etc. is important to understand if something is missing.  
-The next step is understand if what you have is enough or need to be improved and based on the resource itself give to them different priorities and assign tasks to other people as example.  
+The next step is to understand if what you have is enough or need to be improved and based on the resource itself give to them different priorities and assign tasks to other people as example.  
 
 ### Document Structure
 
-When you have an idea of what you already have you can work on what is missing.  
+When you have an idea of what you already have, you can work on what is missing.  
 The usual structure of the document to help you to do the various tasks and the final proposal is:  
 
 * Recap the actual status in the document as reference for others (this will help you during reviews as example)
-* Do an analysis of what to change with details and explanation (add also user cases helps)
-* Do a final proposal that is a recap in a bullet list (this simplify for feedback and to the others to remembers the various tasks/difference)
+* Analysis of what to change with details and explanation (add also user cases helps)
+* Do a final proposal that is a recap in a bullet list (this simplifies for feedback and to the others to remember the various tasks/difference)
 
 ### Workflow
 
 When you have your proposal but also during the writing you will have tasks to do, like gathering the resources etc.  
-The best way is to track everything somewhere and in your plan (that is private to the the leaders maybe) write all the various tasks.  
+The best way is to track everything somewhere and in your plan (that is private to the leaders maybe) write all the various tasks.  
 
-From a big task is better to create various little tasks so you can track your progress more easily and see what is happening.  
+From a big task, is better to create various little tasks so you can track your progress more easily and see what is happening.  

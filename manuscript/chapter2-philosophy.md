@@ -24,10 +24,10 @@ I> Good artists copy; great artists steal.
 I> From: [https://quoteinvestigator.com/2013/03/06/artists-steal/](https://quoteinvestigator.com/2013/03/06/artists-steal/)
 I> In the IT world there is another version: "Reinventing the wheel" but I prefer to add also "What is not understood is not possessed" of Johann Von Goethe to help you understand the philosophy.
 
-The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can be used as mnemonic to understand how the Open Source process can change your view on doing and understand FOSS (read this link before this chapter if you want to see other opinions). Another idea that surprised me is the boy-scout rule "Always leave the campground cleaner than you found it", that is part on what I do in Open Source and this book is part of.
+The seven stages of Grief is a way to express the various steps of a loss, anyway someone converted as [Seven stages of OpenNess](https://coiled.io/blog/stages-of-openness.html) that can be used as mnemonic to understand how the Open Source process can change your view on doing and understand FOSS (read this link before this chapter if you want to see other opinions). Another idea that surprised me is the boy-scout rule "Always leave the campground cleaner than you found it", that is part of what I do in Open Source and this book is part of.
 
 So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen about the *free* in Free Software because as we said open source means that the code is available but what you can do with that depends on the license that can be Free Software, or that you need to pay to access it as example. There are tons of pages that explain the difference between the various license and why but often they are very complicated, so [get ready on studying them](https://blog.graphqleditor.com/software-licensing-cheat-sheet/).  
-Another opinion is by company side when the license topic is on fire, like dual licensing, CLA, abuses or license's restrictiveness but I dont want to talk about those stuff as it is the most common discussion in this world and there is people that explain a lot better than me, [Open source licensing for supervillains](https://offlinemark.com/2021/01/22/open-source-licensing-for-supervillains/).  
+Another opinion is by company side when the license topic is on fire, like dual licensing, CLA, abuses or license's restrictiveness but I don't want to talk about those stuff as it is the most common discussion in this world and there are people who explain a lot better than me, [Open source licensing for supervillains](https://offlinemark.com/2021/01/22/open-source-licensing-for-supervillains/).  
 Yes, you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).
 
 ## Do ut des
@@ -55,28 +55,28 @@ i> Civic hacking, "enhances the relationship between the people and government w
 
 Another way to see this topic is leave everything better as you found it originally.
 
-From a company view we need to think about another thing, **production** and **consumption** are 2 different things that require different people and skills. The idea of this book is to help address the various side of the Open Source world because a *Mantainer* cannot do everything alone.  
-"[Users need open source projects, but open source projects do not need users](https://matt.life/writing/the-asymmetry-of-open-source)" this quote is from a story from a OSS project that has a company behind that reminds to everyone that a project doesn't mean that need to be suitable for everyone also if at same time can be transparent etc.  
+From a company view, we need to think about another thing, **production** and **consumption** are 2 different things that require different people and skills. The idea of this book is to help address the various side of the Open Source world because a *Maintainer* cannot do everything alone.  
+"[Users need open source projects, but open source projects do not need users](https://matt.life/writing/the-asymmetry-of-open-source)" this quote is from a story from an OSS project that has a company behind that reminds to everyone that a project doesn't mean that need to be suitable for everyone, also if at same time can be transparent etc.  
 
-The mantainer is a role that is a project manager, support, developer, documentation and so on. Basically everything that start from protion to keep the project alive, and if the grows can share this duties to other people. It is a time consuming role and require a lot of skills:
+The maintainer is a role that is a project manager, support, developer, documentation and so on. Basically everything that start from promotion to keep the project alive, and if the growth can share these duties to other people. It is a time consuming role and require many skills:
 
 * Improve documentation based on your experience
-* Be open to activites for other users
+* Be open to activities for other users
 * Propose and try new approaches
 * Be honest with/care others
 * Define roadmap
 * Assign tasks wisely
 * Janitor tasks
 
-And so on but you can do those tasks and help the projects you love and improve the value over all.
+And so on, but you can do those tasks and help the projects you love and improve the value over all.
 
-In a company this exchange of value by contributors or the future of a project is a completelly different thing, as example a project ca be released for [branding promotion but ignoring proposed changes](https://miles.land/posts/corporate-open-source/). It is known that company usually hire people that contributed to specific projects that they use or are focused in the area they need skilled people.  
-This company projects often have difficulties on managing the open source community if they are not structured to handle external involvement but this doesn't mean that you can't contribute to them. When you are working in this cases it is required to think in a different and more complex way, Open source is not just the 4 freedoms but also a world around visibility, promotion and business (that are not bad things) and not just transparency.  
+In a company, this exchange of value by contributors or the future of a project is a completely different thing, for example a project can be released for [branding promotion but ignoring proposed changes](https://miles.land/posts/corporate-open-source/). It is known that company usually hire people who contributed to specific projects that they use or are focused on the area they need skilled people.  
+This company projects often have difficulties on managing the open source community if they are not structured to handle external involvement, but this doesn't mean that you can't contribute to them. When you are working in these cases it is required to think in a different and more complex way, Open source is not just the 4 freedoms but also a world around visibility, promotion and business (that are not bad things) and not just transparency.  
 
-From the Principle side, we can talk about the [Robustness Principle](https://en.wikipedia.org/wiki/Robustness_principle) in OSS. That can be translated in "be conservative in what you send, be liberal in what you accept", you are open to the world to look on what you are doing but you don't want the involvement of everyone. This is a non-sense as per the 4 freedoms but after all you don't want trolls,bad people and so on. To move on a project you need to think in the real world where you have to chose what is better for your project to keep going on.
+From the Principle side, we can talk about the [Robustness Principle](https://en.wikipedia.org/wiki/Robustness_principle) in OSS. That can be translated in "be conservative in what you send, be liberal in what you accept", you are open to the world to look at what you are doing, but you don't want the involvement of everyone. This is a non-sense as per the 4 freedoms but after all you don't want trolls, bad people and so on. To move on a project you need to think in the real world where you have to chose what is better for your project to keep going on.
 
-From a learning person or a student or someone that is looking to get experience or fill the famous curriculum it is different. You read my biography in chapter 1 and you saw that I made myself on my own with open source but can be difficult to show this expertise outside this world. Requires personal branding but also documenting somewhere what you are doing it as you are exchanging your time on contributions to grow your knowledge and experience. There are project like [Google Summer of Code](https://summerofcode.withgoogle.com/) where students can get paid (if succeed) to contribute for a project on a specific task and they will get a mentor or [Outreachy](https://www.outreachy.org/) that "provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living".  
-Anyway it's not something new that there are projects that are opened to university/college students as there [is more attention today on the positive things that they can learn on this](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext) and if you areading this book probably you have already some hints.
+From a learning person or a student or someone who is looking to get experience or fill the famous curriculum, it is different. You read my biography in chapter 1 and you saw that I made myself on my own with open source but can be difficult to show this expertise outside this world. Requires personal branding but also documenting somewhere what you are doing it as you are exchanging your time on contributions to grow your knowledge and experience. There are project like [Google Summer of Code](https://summerofcode.withgoogle.com/) where students can get paid (if succeed) to contribute for a project on a specific task, and they will get a mentor or [Outreachy](https://www.outreachy.org/) that "provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living".  
+Anyway it's not something new that there are projects that are opened to university/college students as there [is more attention today on the positive things that they can learn on this](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext) and if you are reading this book probably you have already some hints.
 
 The first interaction of an user is an opportunity to get a new contributor, so as community manager, maintainers, contributors etc is important that we offer the best experience, the best gratification we can give but also the best value both the parties can get from this action. In this book we will see a lot of suggestions, ideas and process to achieve it starting from the... reporting!
 
@@ -170,7 +170,7 @@ I call it so because I am a nerd, and probably because eating so much candies, c
 
 ![The survey Bias](images/2/survey.jpg)
 
-For this reason is important to consider the Bias when you are doing evolaution on FOSS, as there are tons of enthusiasts but they are just part of your users so they can alter your numbers and ideas very quickly. Their opinion important but is important to have a full view.
+For this reason, is important to consider the Bias when you are doing evaluation on FOSS, as there are tons of enthusiasts, but they are just part of your users, so they can alter your numbers and ideas very quickly. Their opinion is important but is important to have a full view.
 
 ## How to manage a new project or a legacy one
 
@@ -204,8 +204,8 @@ The real question could be *Why you should join a OSS project?*, let's see some 
 * Find people similar to you
 * Find mentors
 
-I want to focus again (and I will do often in the next pages) how much a Open Source project is not just the software but without it is empty.  
-A real example is the [Jekyll case](https://www.bridgetownrb.com/future/rip-jekyll/) where there is this list of what is required today for an Open Source project:  
+I want to focus again (and I will do often in the next pages) how much an Open Source project is not just the software, but without it is empty.  
+A real example is the [Jekyll case](https://www.bridgetownrb.com/future/rip-jekyll/), where there is this list of what is required today for an Open Source project:  
 
 * Engagement on Twitter (or where your community is)
 * Official Discord chat room (or where your community is)
@@ -214,12 +214,12 @@ A real example is the [Jekyll case](https://www.bridgetownrb.com/future/rip-jeky
 * Welcoming community involvement in shaping new features and tackling technical debt
 * Cultivating working relationships with wider ecosystems (like the techstack communities)
 
-This list shows us how much is changed when everything started in the 70s with Unix but at same time how much skills are required to manage a project with a community. Of course if you are looking for a first contribution it is more simple but is important to know that is not just the GitHub's Pull Request page.  
+This list shows us how much is changed when everything started in the 70s with Unix, but at same time how many skills are required to manage a project with a community. Of course if you are looking for a first contribution it is more simple but is important to know that is not just the GitHub's Pull Request page.  
 
-Before the alst words of this chapter I want to leave this news ['The US military wants to understand the most important software on Earth'](https://www.technologyreview.com/2022/07/14/1055894/us-military-sofware-linux-kernel-open-source/). As todaycybersecurity but also awareness about digital security is day after day more important the defense department of USA is trying to understand what this means for the whole internet and their own infrastructure.  
+Before the last words of this chapter I want to leave this news, ['The US military wants to understand the most important software on Earth'](https://www.technologyreview.com/2022/07/14/1055894/us-military-sofware-linux-kernel-open-source/). As today cybersecurity but also awareness about digital security is day after day more important, the defense department of the USA is trying to understand what this means for the whole internet and their own infrastructure.  
 The result of this question:  
 
-* Open Source projects/communities need an higher livel of care and resepct
+* Open Source projects/communities need a higher level of care and respect
 * You can't have thrust on the codebase just is because OSS
 * Code can be written by sanctioned entities (from specific governments)
 * The bus factor is limitating (the whole project fall apart if one just person gets hit by a bus)
