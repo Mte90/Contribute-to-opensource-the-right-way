@@ -13,7 +13,7 @@ Open Source is a trending topic today but how you can learn all or some of the s
 
 Open Source is a topic that today is used also outside the IT world but nobody talks about how to be part of it, instead only to be a consumer or how can be profitable.
 
-Rome wasn't build in a day but all the streets lead to Rome, we have all the streets but are missing capable people to keep this world growing and improving.
+Rome wasn't build in a day but all the streets lead to Rome, we have all the streets but we are missing capable people to keep this world growing and improving.
 
 Be a part of the open source world can be the 21 century skills that you deserve?
 

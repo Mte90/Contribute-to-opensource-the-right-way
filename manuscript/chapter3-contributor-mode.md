@@ -22,19 +22,19 @@ Take a moment, relax, get ready to discover a new approach to community projects
 
 ## Donating money is not enough
 
-Money are never enough but in open source this is not a real rule. It is quite common (and rumour) that a lot of projects have so much money that they have no idea on how to use it or projects that doesn't need them because there is a huge community moving on and they need to cover only hosting expenses.  
-Open Source doesn't need only money and promotion but contribution to itself. Usually the enthusiasts contribute with these because is more simple but how you can feel part of something without doing more?  
+Money is never enough, but in open source this is not a real rule. It is quite common (and rumor) that many projects have so much money that they have no idea on how to use it or projects that doesn't need them because there is a huge community moving on, and they need to cover only hosting expenses.  
+Open Source doesn't need only money and promotion, but contribution to itself. Usually the enthusiasts contribute with these because it is more simple, but how you can feel part of something without doing more?  
 Anyway there are cases and cases so if you want to contribute with money in FOSS there are various ways:
 
 * Hire committers: As company you hire or pay someone to dedicate hours or all their time to work in a project, not so much different on "normal" working
-* Bug Bounty: They works rarely as require a different apporach like you are an employee with receipts but also reports that will take a lot of time for someone that works on his freetime ([an old GIMP story](http://dneary.free.fr/gimp_bounties.html))
-* Donation: Just to be sure that is the official way as often it is possible to donate to [specific contributors on their Patreon/etc](https://www.youtube.com/watch?v=MzpoTuHuciE) instead to the whole project, so just think what is the best move, like I need an invoice or I need that change
-* Certifications/Books: sometimes it is possible to get official certifications for employee or but books by the project's authors
+* Bug Bounty: They works rarely to require a different approach like you are an employee with receipts but also reports that will take a lot of time for someone that works on his free time ([an old GIMP story](http://dneary.free.fr/gimp_bounties.html))
+* Donation: Just to be sure that is the official way as often it is possible to donate to [specific contributors on their Patreon/etc](https://www.youtube.com/watch?v=MzpoTuHuciE) instead to the whole project, so just think what is the best move, like I need an invoice, or I need that change
+* Certifications/Books: sometimes it is possible to get official certifications for employee or books by the project's authors
 * Pay for changes: similar to the donation but it is possible to take a consultancy company that will work on the project and to the patch, with moving on the integration itself
-* Associate: often behind a project there is a foundaiton or an association that manage the money and the future, you can associate and be part of their decisions
+* Associate: often behind a project there is a foundation or an association that manage the money and the future, you can associate and be part of their decisions
 
 A fact very common it is company contribution improve the brand of the company itself and also that today the employee are more picky in the job opportunities. They are like to get the best job that let them to do what they like as example 20% of their time to contribute or work in their projects.  
-There are a lot of projects started as private or side project inside a company or during the company hours that became famous and provided a way to find new hires or the company status in that sector. Or llokin for free labour in their own projects but without reviews is useless.  
+There are many projects started as private or side project inside a company or during the company hours that became famous and provided a way to find new hires or the company status in that sector. Or looking for free labor in their own projects, but without reviews is useless.  
 
 Let's see an example of OSS project that forced the [entire ecosystem with Chromium](https://www.reddit.com/r/opensource/comments/phm308/comment/hbjo95j/?utm_source=reddit&utm_medium=web2x&context=3):
 
@@ -43,22 +43,22 @@ Let's see an example of OSS project that forced the [entire ecosystem with Chrom
 * Years later as Apple is not following enough all the changes by Google they fork it and create Blink
 * All the browsers (except Firefox) as today are based on WebKit or Blink (often is branded as WebKit)
 
-Now for them is more easy to push standards or bad behaviours as their is the most used technology in a ratio 20:1, so now with the new [Manifest V3 for extensions](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/) will be more difficult to do adblockers.  
+Now for them is easier to push standards or bad behaviour as their is the most used technology in a ratio 20:1, so now with the new [Manifest V3 for extensions](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/) will be more difficult to do adblockers.  
 
-This is a bad way to use a OSS project but is also the reality as there are a lot of good examples that is not the case to discuss or this will a new chapter.
+This is a bad way to use an OSS project but is also the reality as there are many good examples that is not the case to discuss or this will a new chapter.
 
-The HR world is looking a lot in Open Source to find the best person for a specific role, as everything is transparent is easy to see what are the real skills on the field that can be coding or like localization (a company dont 'need a localizer for any language but a manager that know that field as example that can open new market).  
+The HR world is looking a lot in Open Source to find the best person for a specific role, as everything is transparent is easy to see what are the real skills on the field that can be coding or like localization (a company don't need a localizer for any language but a manager that know that field as example that can open new market).  
 
 ![The Open Source model by Europe Union](images/3/opensourcemodel.jpg)
 
-From a point of view of the Europe Union we saw that there are other values we have to consider about just the money and the impact that they have in the in the whole sector, like new opportunities.
+From a point of view of the Europe Union we saw that there are other values we have to consider just the money and the impact that they have in the whole sector, like new opportunities.
 
-In conclusion if you are looking on other ways a project can get donation or money take this [KDE example](https://quickfix.es/2021/08/the-three-laws-of-floss-projects/), considering that has community they have fundings for events but contributors have their own Patreon as example. If you are looking for ideas about jobs roles in companies about FOSS, take a look on [this report](https://www.trueup.io/open-source/reports), they are looking more on developers then community managers.
+In conclusion if you are looking on other ways a project can get donation or money take this [KDE example](https://quickfix.es/2021/08/the-three-laws-of-floss-projects/), considering that has community they have funding for events, but contributors have their Patreon as example. If you are looking for ideas about jobs roles in companies about FOSS, take a look on [this report](https://www.trueup.io/open-source/reports), they are looking more on developers than community managers.
 
 ![Daniel Stenberg's "the OSS pyramid"](images/3/pyramid.jpg)
 
-Daniel is the author and maintainer of cURL (started in 1996), that is the second OSS project most widespread after Linux. Think, Linux is on TV, fridgerators, routers, servers, smartphones, spaceship and so on. The second one is a library for all the operative system (with a cli tool) to download and upload anything on every internet protocol that is used as base for other languages or other tools.  
-He has a lot of experience on the project and on this topic, he worked before for Mozilla where is job was just to work on cURL (and isn't used inside Firefox), and he introduced this ["pyramid"](https://daniel.haxx.se/blog/2022/01/17/enforcing-the-pyramid-of-open-source/), the idea started on the ecurity topic.
+Daniel is the author and maintainer of cURL (started in 1996), that is the second OSS project most widespread after Linux. Think, Linux is on TV, refrigerators, routers, servers, smartphones, spaceship and so on. The second one is a library for all the operative system (with a cli tool) to download and upload anything on every internet protocol that is used as base for other languages or other tools.  
+He has a lot of experience on the project and on this topic, he worked before for Mozilla where his job was just to work on cURL (and isn't used inside Firefox), and he introduced this ["pyramid"](https://daniel.haxx.se/blog/2022/01/17/enforcing-the-pyramid-of-open-source/), the idea started on the security topic.
 
 ```
 Inside the pyramid there is a hierarchy where things using software are build on top of others, in layers. The higher up you go, the more you stand on the shoulders of open source components below you.
@@ -92,11 +92,11 @@ It is in the bottom of the pyramid each serious bug has a risk of impacting the 
 
 ```
 
-The idea is that the most bottom stuff require more attention by moneymakers, like companys, as they are dependencies that can affect more scenarios from security to mantainenance (like bug fixing or new features).
+The idea is that the most bottom stuff require more attention by moneymakers, like companies, as they are dependencies that can affect more scenarios from security to maintenance (like bug fixing or new features).
 
 ![XKCD (2347) "the OSS pyramid"](images/3/xkcd-pyramid.jpg)
 
-This version maybe is more easy to understand how a component in a business can be valuable but in Open Source is ignored by those entities as they are not contributing to the future of this tiny piece. Or another short version is [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/), that makes more sense, after all every OSS project is based on other OSS projects that often don't get the credit deserved.
+This version maybe is easier to understand how a component in a business can be valuable but in Open Source is ignored by those entities as they are not contributing to the future of this tiny piece. Or another short version is [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/), that makes more sense, after all every OSS project is based on other OSS projects that often don't get the credit deserved.
 
 ## How to live inside the Open Source
 
@@ -139,11 +139,11 @@ The kind of fork is based on the goals that you want to achieve and the time tha
 
 #### How you can help the Mantainer
 
-In case it wasn't clear, this role is the one that covers the project's updates, communication like replying to tickets/pull requests, doing code and so on. Basically it is the Janitor but also the Artisan and the PR of the project in a single person. It is a busy role and depends and how the project is structured because this role ca be very time-consuming and generate easily burn-out.  
-Too many tasks for a single person that involve different areas and is difficult to find a person that is good in all of them, maybe is a person that speak a lot in jargon or just check the project's notification once a month or just add the code from others under his name, [like in Vim](https://github.com/vim/vim/graphs/contributors).  
-Mantainers need to scale with project growing and this depends not on the project's users growing but on contribution and interaction on the project itself. There are mantainers that push every week something in their projects to show that they are alive or others that with help from contributors/employee share duties.  
-Another non-written golden rule that I remember from Mozilla is that "contributors do stuff for fun but annoying things are for employees", this means that in Open Source you rae talking with someone that is doing on his free time (the majority of times).  
-How you can check if this Mantainer is working with a salary  on the project or not? Check is website or social networks, so you can understand with who are you talking.
+In case it wasn't clear, this role is the one that covers the project's updates, communication like replying to tickets/pull requests, doing code and so on. Basically it is the Janitor but also the Artisan and the PR of the project in a single person. It is a busy role and depends on and how the project is structured because this role ca be very time-consuming and generate easily burn-out.  
+Too many tasks for a single person that involve different areas and is difficult to find a person who is good in all of them, maybe is a person that speak a lot of jargon or just check the project's notification once a month or just add the code from others under his name, [like in Vim](https://github.com/vim/vim/graphs/contributors).  
+Maintainers need to scale with the project growing, and this depends not on the project's users growing but on contribution and interaction on the project itself. There are maintainers that push every week something in their projects to show that they are alive, or others that with help from contributors/employee share duties.  
+Another non-written golden rule that I remember from Mozilla is that "contributors do stuff for fun, but annoying things are for employees", this means that in Open Source you are talking with someone who is doing on his free time (the majority of times).  
+How you can check if this Maintainer is working with a salary  on the project or not? Check is website or social networks, so you can understand with who are you talking.
 
 A story from the creator of [ESlint](https://eslint.org/) about the [duty of a Maintainer](https://twitter.com/slicknet/status/1430334633611202562) as bullet point:
 
@@ -153,11 +153,11 @@ A story from the creator of [ESlint](https://eslint.org/) about the [duty of a M
 * The duty of taking care is to him
 * Her will just take the funny part when together (like walking)
 
-So the duties are on only on the Mantainer and the others will use and asks to keep the project moving on, with new feature requests or bug fixing without any real help. For is looking to a good end, no the puppy wasn't brought at home for the duty reasons non-shared.
+So the duties are on only on the Maintainer and the others will use and asks to keep the project moving on, with new feature requests or bug fixing without any real help. For is looking to a good end, no the puppy wasn't brought to home for the duty reasons non-shared.
 
-An example of burning out mantainers is be on track with the dependency of the project, as they can broke it as it is not possible to manage all of them. We are talking on the duties of Mantainers and there was a [comparison with the financial crisis](https://blog.scottlogic.com/2020/12/22/software-crisis.html) that basically says that there are a lot of variables that creat entropy that as leader you can't handle but you need to manage.
+An example of burning out maintainers is being on track with the dependency of the project, as they can break it as it is not possible to manage all of them. We are talking on the duties of Maintainers and there was a [comparison with the financial crisis](https://blog.scottlogic.com/2020/12/22/software-crisis.html) that basically says that there are many variables that create entropy that as leader you can't handle, but you need to manage.
 
-We know that who will check our contribution is a normal person with different time amount avalaible to look on it, so asks to yourself:
+We know that who will check our contribution is a normal person with different time amount available to look on it, so asks yourself:
 
 * How this can help the project
 * How can I help to push this change in production/next release
@@ -166,11 +166,11 @@ The first one is easy as can be a bug report, a localization, replying to a supp
 
 * Bug report: as we already said giving all the information to replicate the issue, an example user case or why I got that error and what I was doing
 * Localization: check all the translation guidelines and verify that you are using the same word used in the other localization for your language
-* Support/Promotion: in case a request is happening often push that to the Mantainers to do something about it or create some documentation for it
-* Coding: propose how the code change with lines numbers or do the patch with all the linting/etc done including explaination how the changes works
+* Support/Promotion: in case a request is happening, often push that to the Maintainers to do something about it or create some documentation for it
+* Coding: propose how the code change with lines numbers or do the patch with all the linting/etc done including explanation how the changes works
 
-When you are cotributing is important to you to act as a friend and not like a customer to the Mantainer so provide all the help in what you are asking, in this way you can grow your role in the project but also [your knowledge/awareness](https://notes.eatonphil.com/learning-a-new-codebase-hacking-nginx.html). Remember more are you autonomous and providing a "complete" task in a project more you can drive it in the direction you want, that can be a feature that you need or finding new contributors.  
-The first expectation in contribuing is a *hope* that your contribution be handled and you need to help this hope to succeed, like for our daily hope.
+When you are contributing is important to you to act as a friend and not like a customer to the Maintainer so provide all the help in what you are asking, in this way you can grow your role in the project but also [your knowledge/awareness](https://notes.eatonphil.com/learning-a-new-codebase-hacking-nginx.html). Remember more are you autonomous and providing a "complete" task in a project more you can drive it in the direction you want, that can be a feature that you need or finding new contributors.  
+The first expectation in contributing is a *hope* that your contribution be handled, and you need to help this hope to succeed, like for our daily hope.
 
 ### Communicate on the internet
 
@@ -268,16 +268,16 @@ Visit these links to find examples:
 
 Just as note [Linus Torvalds was interviewed about how he managed the Linux project from home with mailing lists](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/). Basically be short but check few times (before to send it) what you saying and be clear.
 
-Another point is that they are old, new projects that have less of 10 years doesn't have one so from a side there are communities that mgirated to Discourse or people that still uses with custom mail server configured to organize what they receive with those. It is somthing that you can see with veterans but is not something that is scalable and approachable to newcomers.
+Another point is that they are old, new projects that have less of 10 years doesn't have one so from a side there are communities that migrated to Discourse or people that still uses with custom mail server configured to organize what they receive with those. It is something that you can see with veterans, but is not something that is scalable and approachable to newcomers.
 
 An [analysis of this technology with the GitHub (for coders)](https://asylum.madhouse-project.org/blog/2018/07/24/on-git-github-and-email/) shows also other points of view, like:
 
-* Discuss a patch on mailing lists requires diff that often doesn't have syntax highlighting and various threads as the patch get updated, so the final version in the various email exchanges can be everywhere. Instead a centralized solution let's an interactive code review with an history that is more simple to navigate compared to various patch sections splitted in various email in whatsoever order.
-* GitHub offers an API so in case you can do your own client or a different interface based on your needs comapred to emails.
-* As it is a centralized solutions you can't be sure that a copy of that code will be forever in that place (usually big projects have mirrors for this reasons) but this can happens also by email as it is to impersonate someone else
-* Pull requests doesn't allow various authors on the same one (unless you give to them permission), instead by emails this isn't a problem but means more work for the commiter to gather all the wanted changes
+* Discuss a patch on mailing lists requires diff that often doesn't have syntax highlighting and various threads as the patch get updated, so the final version in the various email exchanges can be everywhere. Instead, a centralized solution lets an interactive code review with a history that is more simple to navigate compared to various patch sections splitted in various email in whatsoever order.
+* GitHub offers an API so in case you can do your own client or a different interface based on your needs compared to emails.
+* As it is a centralized solution you can't be sure that a copy of that code will be forever in that place (usually big projects have mirrors for this reasons) but this can happen also by email as it is to impersonate someone else
+* Pull requests doesn't allow various authors on the same one (unless you give to them permission), instead by emails this isn't a problem but means more work for the committer to gather all the wanted changes
 
-To this points I want to add that on GitHub/GitLab/etc you can disable notifications by issues/pull requests etc instead by mailing lists is not possible, so understand what to read can be very time consuming. Honestly this is the reason why i am subscribed tovery few mailing lists (not just about coding) and enable the daily or weekly summary.
+To these points I want to add that on GitHub/GitLab/etc you can disable notifications by issues/pull requests etc instead by mailing lists is not possible, so understand what to read can be very time consuming. Honestly, this is the reason, why i am subscribed to very few mailing lists (not just about coding) and enable the daily or weekly summary.
 
 #### Chat
 
@@ -449,7 +449,7 @@ The Contributor Mode for me is the best way to recap everything, see that defini
 Keeping in mind **why we are doing things is more important than doing the things** themselves often.  
 
 One of the matter of the last 5 years in OSS is communication, with the explosion of social networks and new generations of new contributors this is more important than usual. Often in OSS there is the feeling that for some tools you are using like a fax machine instead of website and this is part of the organizational debt of the project that includes the fact that is difficult to do this kind of changes.  
-So the first step is to not get demotivated because you don't understand how to talk with the community or with someone from the project because at the end you will find a way, it is more important to see if this communication method is still used and not abandoned, like happens often with mailing lists those days.  
-Like in the [Wine examples with GitLab](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow) but there are a lot of mgiration to better tools but still today there are projects that are reachable only with old solutions.
+So, the first step is to not get demotivated because you don't understand how to talk with the community or with someone from the project because at the end you will find a way, it is more important to see if this communication method is still used and not abandoned, like happens often with mailing lists those days.  
+Like in the [Wine examples with GitLab](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow) there are a lot of migration to better tools, but still today there are projects that are reachable only with old solutions.
 
-Still push and you will find a way, it is internet after all, everything is there you just need to find it.
+Still push, and you will find a way, it is internet after all, everything is there you just need to find it.

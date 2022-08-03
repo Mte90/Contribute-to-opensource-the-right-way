@@ -88,7 +88,7 @@ I> I don't remember where i found it but I have my own version: if it is a task 
 # Conclusion
 
 I can't show you how to save your time. It is on you to analyze your tasks and your time and understand how you can optimize it to do whatever you want.  
-The first step is to learn from others, as example I like a lot to read about how big companies or projects changed (or explain) their workflow like in those examples:
+The first step is to learn from others, for example I like a lot to read about how big companies or projects changed (or explain) their workflow like in those examples:
 
 * [How WhatsApp scaled to 1 billion users with only 50 engineers](https://blog.quastor.org/p/whatsapp-scaled-1-billion-users-50-engineers)
 * [Shipping a security update of Firefox in less than a day](https://hacks.mozilla.org/2018/03/shipping-a-security-update-of-firefox-in-less-than-a-day/)
@@ -102,7 +102,7 @@ Or reading post mortem/outage after big bugs or hardware failures:
 * [Facebook: More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
 * [Retrospective and Technical Details on the recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
 
-Why? Because in this stories you learn a lot about work organization and how to organize yourself and others with a real story, like a novel.  
+Why? Because in these stories you learn a lot about work organization and how to organize yourself and others with a real story, like a novel.  
 Also in those cases is important to save your time and do what you have to do very quickly. Don't forget that Open Source is basically learning from others and using this rule also in other context is useful after all.
 
 Just think about it because in this fast world where everything changes so easily is important to understand time's value.
