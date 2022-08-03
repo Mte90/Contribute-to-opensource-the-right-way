@@ -28,7 +28,7 @@ Anyway there are cases and cases so if you want to contribute with money in FOSS
 
 * Hire committers: As company you hire or pay someone to dedicate hours or all their time to work in a project, not so much different on "normal" working
 * Bug Bounty: They works rarely as require a different apporach like you are an employee with receipts but also reports that will take a lot of time for someone that works on his freetime ([an old GIMP story](http://dneary.free.fr/gimp_bounties.html))
-* Donation: Just to be sure that is the official way as often it is possible to donate to specific contributors on their Patreon/etc instead to the whole project, so just think what is the best move, like I need an invoice or I need that change
+* Donation: Just to be sure that is the official way as often it is possible to donate to [specific contributors on their Patreon/etc](https://www.youtube.com/watch?v=MzpoTuHuciE) instead to the whole project, so just think what is the best move, like I need an invoice or I need that change
 * Certifications/Books: sometimes it is possible to get official certifications for employee or but books by the project's authors
 * Pay for changes: similar to the donation but it is possible to take a consultancy company that will work on the project and to the patch, with moving on the integration itself
 * Associate: often behind a project there is a foundaiton or an association that manage the money and the future, you can associate and be part of their decisions

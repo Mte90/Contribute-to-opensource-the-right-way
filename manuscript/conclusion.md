@@ -41,6 +41,8 @@ It is cool to get the source code but is quite useless if it is not possible to 
 Today with the cloud we need to understand that the code access is enough to be open.  
 [Frank Karlitschek](https://karlitschek.de/2019/08/open-source-if-more-than-licenses/) (the creator of Owncloud and Nextcloud) explained very well the issue. The 4 freedoms were created when the computer in the home was the unique way to access a software, now with cloud and mobiles there are different kinds of resources. Access to the code was enough to get Digital freedom, but now it isn’t anymore. Our data are not anymore our files but also our interests, our photos and so on.  
 
+Also the [Open Source Initiative is evolving](https://opensource.org/sites/default/files/public/2021-OSI-AnnualReport-final.pdf) and now the membership is not only paid, in this way they tripled their members (500/2000) and improved their workflow on evaluating licenses. To reach more people and improve the awareness is important to go out on our own bubble.
+
 Open source is for me when:
 
 * The code is open source
@@ -68,7 +70,7 @@ Communicating better and being more friendly in everything (the purpose of this 
 The legend that “if it is on all the billboards it means it is good” is not true. The high competition in the digital world changed everything.  
 
 We can promote it without money, if we make that together and if the project provides the promotional materials.  
-In this case not graphics assets or gadgets but data to share. The scandals of the last years with social networks have exposed the fact that data are the new currency that if used the right way may also change an election, so le’ts figure out how to use it to promote the open philosophy better.  
+In this case not graphics assets or gadgets but data to share. The scandals of the last years with social networks have exposed the fact that data are the new currency that if used the right way may also change an election, so let's figure out how to use it to promote the open philosophy better.  
 Not only the machine wants data but also people because we are in the world where facts don’t matter and only real data, a lot of it, can change this bias.  
 
 Open source needs more marketers, a sector that often isn’t involved in open source because they don’t care (maybe) but it’s a fact that we need them.
@@ -85,7 +87,7 @@ The other point is the promotion, with GitHub/GitLab a new issues awaken, someon
 
 ![Offering also the best solution to involve and contributing is important to succeed - https://twitter.com/CarlKDE/status/1387754944678215682](images/extra/tweet-kde.png)
 
-Often the best solution is the one that the mantainers or veteran think it is the best but with new technologies there are new solution that simplify various taks that for new people can be very difficult to do.
+Often the best solution is the one that the maintainers or veteran think it is the best but with new technologies there are new solution that simplify various taks that for new people can be very difficult to do.
 
 Personally when I find abandoned project I ask for updates or looking for a new maintainer but often is very difficult to get an answers. Pinging on Twitter or other social media (not everyone publishes their private email address) so the joy of contributing or access to nice things crash against a Death Star, that is the oblivion of the abandon.
 
@@ -93,6 +95,51 @@ So we need to evangelist better this fact and explain that the code is just a pi
 
 I don't want to forget also that FOSS is not just promotion. With fediverse and new people discovering this world I see more people that want to do promotion but it is something that we need after all? In this book I talk a lot about communcaiton and promotion, at same time there is promotion that change things and promotion that is useless or not working.  
 The project need it but often is more important instead to be one of the fan in the stand to be the player in the game, maybe not the player but maybe the coach or the the doctor.
+
+## The Italian case
+
+I am writing this section in English but is focused on the Italian situation about digitization and awareness about digital matters.  
+
+In Italy the Covid period was one of the biggest reasons for upgrading or understand that digitization is something that improve the life/work quality (like in other part of the world). The real difference (to me) is that involved a lot the public administration that was always very slow on updating itself but also on the knowledge of the public employees that now were forced to learn a bit about how to use the computer, not just to play Solitaire.  
+
+Open data are matters of various association as they are not easily public as digital rights ot Italian government propriety like the Colosseum. Let's split in two different paragraph.  
+
+[Open data in Italy](https://dati.gov.it/) have various issues from the license and the quality of them (when they are available), infact [DatibeneComune compaign](https://www.datibenecomune.it/) with 58110 signers and 287 organization works on improving this with a monthly newsletter that can let you to keep updated about what they are doing. The Government now opened to the discussion to the [Open Data guidelines](https://www.datibenecomune.it/2022/07/18/datibenecomune-ha-scelto-di-prendere-parte-alla-consultazione-sulle-linee-guida-open-data/) that is like the first time that is happening.
+
+The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_panorama#Italy) doesn't exists also if we are famous for tourism. At the end from a 1941 law we are locked to a definition that says that photographic reproduction of public space are allowed if not creates competition against the economic values of the object. This creates issues on Wikipedia side as it is not possible to make certain photos to the [Pisa Tower](https://en.wikipedia.org/wiki/Pisa_Tower) or [Castel Del Monte](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) and publish it under a Creative Commons license, if there isn't any act that allow for any of them. The recent European law about copyright didn't helped on pushing changes to this law and every year for the Wiki Loves Monuments (global photographic competition) for every local public government they send a request with a list of monuments.
+
+From the software side instead, since the born of the [Italian Digital trasformation team](https://teamdigitale.governo.it/en/) various things are changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories as now).  
+There are public projects like templates for WordPress, GUidelines (with web version on ReadTheDocs), mobile apps, SDK, design kits and others.  
+
+This was something that 5 years ago was something that maybe for a Hard Sci-Fi author was impossible to think of.
+
+Two things are very interesting for the purpose of this book about what they are doing.
+
+### PublicCode.yml standard
+
+`
+A metadata description standard for public software that is easy to use both for developers and people with less technical background in order to make the software developed by Public Administrations and Public Organisations easily discoverable. 
+`
+
+In few words a file that you can put in your git repository that is like a identity card that allow to index it with references to the maintainer and dependencies.  
+The idea is to improve the discoverability and if that project is suitable for a public administration and to use the standard also in other countries.
+
+## Catalogo del software di Riuso
+
+That in English "Reuse Software catalog" that Italian public administration can use it. As every big organization departments don't talk each others, also cities or region but they have often the same needs so why develop multiple times the same software?  
+
+This is the idea at the end, a way for public administration were often managers have no so much knowledge on IT to find software already available and open source developed by themself or by others like LibreOffice as example.  
+
+This projects uses the standard we saw to fetch the software list but the website is more friendly as includes more information, not just a description but people that you can reach to asks question. This is something that for a bureaucratic organization is important and that in OSS is ignored often.  
+After all if you are maintaining a project you don't want that people reach you for questions about if the software can do this or that, or if you can implement something just for them. Especially if it is someone that maybe will pay you...
+
+This is an example about how improve the awareness to organization that is not like the usual software alternative list, because can give more information that are valuable to the people in charge of decisions. 
+
+In a first world country there are limitations or issues like elsewhere but is important to see that internet, public awareness and young people are changing the situation. Also if the [italian case](https://profilo.forumpa.it/doc/?file=2021/2021_FPA_Data_Insight_Lavoro_pubblico_2021.pdf&confirm=yes) seems that in the public government the people under 30 years old is the 4%. Especially in [School institution the age average is the 58% is over 50](https://www.truenumbers.it/eta-degli-insegnanti/) but in Ocse countries is the 35%.
+
+I know people in Italian universities that still asks questions about Floppy disks to students of psychology as example or that teach using computer with very old operative systems because the professors doesn't know how to use the modern ones.
+
+The open source awareness let us spread all those ideas and change the situation, takes a lot of time but gathering various pieces we are getting something. To do this changes is not required evangelism but also facts like what I am saying. Not just "Ehi that city migrated to Libreoffice" but people that does things, develop software and explains things in a way that the [listeners can understand it](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/2022-05/index.html) (Like the Italian guide by the Digital team for managers to understand OSS and how affect them). Maybe with a catalog with unusual information or showing the issues on various laws.
 
 ## Thanks
 
