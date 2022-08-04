@@ -233,8 +233,8 @@ Objectives and Key Results, is a decision framework to improve the group working
 When you have an OKR (like to grow the followers in 3 months or write a new set of documentation pages etc..) the first thing that you have to do is what you want to achieve personally.  
 Take an example: at the end of the quarter I will reach all the team leaders with a survey to introduce something new that meantime I will work on it.  
 The first thing is gathering the resources that you need to move to your final goal.  
-Without you cannot start on prepare the plan, so an overview about documents, contacts, tools etc. is important to understand if something is missing.  
-The next step is to understand if what you have is enough or need to be improved and based on the resource itself give to them different priorities and assign tasks to other people as example.  
+Without you cannot start on prepare the plan, so an overview about documents, contacts, tools etc. is important to see if something is missing.  
+The next step is to understand if what you have is enough or need to be improved and based on the resource itself give to them different priorities and assign tasks to other people (as example).  
 
 ### Document Structure
 

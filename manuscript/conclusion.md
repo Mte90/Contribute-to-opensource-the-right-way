@@ -108,7 +108,7 @@ Open data are matters of various association as they are not easily public as di
 
 The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_panorama#Italy) doesn't exist also if we are famous for tourism. At the end from a 1941 law we are locked to a definition that says that photographic reproduction of public space are allowed if not creates competition against the economic values of the object. This creates issues on Wikipedia side as it is not possible to make certain photos to the [Pisa Tower](https://en.wikipedia.org/wiki/Pisa_Tower) or [Castel Del Monte](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) and publish it under a Creative Commons license, if there isn't any act that allow for any of them. The recent European law about copyright didn't help on pushing changes to this law and every year for the Wiki Loves Monuments (global photographic competition) for every local public government they send a request with a list of monuments.
 
-From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things are changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories as now).  
+From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things are changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories as now). Including a webpage [Come Partecipo](https://come-partecipo.italia.it/) to find projects to contribute to, that is based on [What I can do for Mozilla](https://whatcanidoformozilla.org/).  
 There are public projects like templates for WordPress, Guidelines (with web version on ReadTheDocs), mobile apps, SDK, design kits and others.  
 
 This was something that 5 years ago was something that maybe for a Hard Sci-Fi author was impossible to think of.
@@ -118,7 +118,7 @@ Two things are very interesting for the purpose of this book about what they are
 ### PublicCode.yml standard
 
 `
-A metadata description standard for public software that is easy to use both for developers and people with less technical background in order to make the software developed by Public Administrations and Public Organisations easily discoverable. 
+A metadata description standard for public software that is easy to use both for developers and people with less technical background in order to make the software developed by Public Administrations and Public Organizations easily discoverable. 
 `
 
 In few words, a file that you can put in your git repository that is like an identity card that allow to index it with references to the maintainer and dependencies.  
@@ -135,7 +135,7 @@ After all, if you are maintaining a project you don't want that people reach you
 
 This is an example about how improve the awareness to organization that is not like the usual software alternative list, because can give more information that are valuable to the people in charge of decisions. 
 
-In a first world country there are limitations or issues like elsewhere but it is important to see that internet, public awareness and young people are changing the situation. Also, if the [italian case](https://profilo.forumpa.it/doc/?file=2021/2021_FPA_Data_Insight_Lavoro_pubblico_2021.pdf&confirm=yes) seems that in the public government the people under 30 years old is the 4%. Especially in [School institution the age average is the 58% is over 50](https://www.truenumbers.it/eta-degli-insegnanti/) but in Ocse countries is the 35%.
+In a first world country there are limitations or issues like elsewhere but it is important to see that internet, public awareness and young people are changing the situation. Also, if the [Italian case](https://profilo.forumpa.it/doc/?file=2021/2021_FPA_Data_Insight_Lavoro_pubblico_2021.pdf&confirm=yes) seems that in the public government the people under 30 years old is the 4%. Especially in [School institution the age average is the 58% is over 50](https://www.truenumbers.it/eta-degli-insegnanti/) but in Ocse countries is the 35%.
 
 I know people in Italian universities that still asks questions about Floppy disks to students of psychology for example or that teach using computer with very old operative systems because the professors doesn't know how to use the modern ones.
 

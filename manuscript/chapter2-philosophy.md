@@ -58,7 +58,7 @@ Another way to see this topic is leave everything better as you found it origina
 From a company view, we need to think about another thing, **production** and **consumption** are 2 different things that require different people and skills. The idea of this book is to help address the various side of the Open Source world because a *Maintainer* cannot do everything alone.  
 "[Users need open source projects, but open source projects do not need users](https://matt.life/writing/the-asymmetry-of-open-source)" this quote is from a story from an OSS project that has a company behind that reminds to everyone that a project doesn't mean that need to be suitable for everyone, also if at same time can be transparent etc.  
 
-The maintainer is a role that is a project manager, support, developer, documentation and so on. Basically everything that start from promotion to keep the project alive, and if the growth can share these duties to other people. It is a time consuming role and require many skills:
+The maintainer is a role that is a project manager, support, developer, documentation and so on. Basically everything that start from promotion to keep the project alive, and if there is growth can share these duties to other people. It is a time consuming role and require many skills:
 
 * Improve documentation based on your experience
 * Be open to activities for other users
