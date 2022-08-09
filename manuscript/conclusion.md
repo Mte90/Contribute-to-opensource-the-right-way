@@ -111,7 +111,7 @@ The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_pano
 From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things are changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories as now). Including a webpage [Come Partecipo](https://come-partecipo.italia.it/) to find projects to contribute to, that is based on [What I can do for Mozilla](https://whatcanidoformozilla.org/).  
 There are public projects like templates for WordPress, Guidelines (with web version on ReadTheDocs), mobile apps, SDK, design kits and others.  
 
-This was something that 5 years ago was something that maybe for a Hard Sci-Fi author was impossible to think of.
+This was something that 5 years ago maybe for a Hard Sci-Fi author was impossible to think of. Like also the fresh news that [Inps, Inal and Istat are working together to create in 2023 a unique software house for their need](https://www.wired.it/article/inps-inail-e-istat-stanno-fondando-una-software-house/) (INPS is the national insitute for retirement, Inail the national insitute for work injuries and Istat the national insitute for statistics).
 
 Two things are very interesting for the purpose of this book about what they are doing.
 
