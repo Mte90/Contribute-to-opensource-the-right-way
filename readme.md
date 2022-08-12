@@ -7,7 +7,7 @@ I already said *open source*? And that's **free**?
 
 ## Description
 
-Open Source is a trending topic today but how you can learn all or some of the skills required to create or contribute to a project opened to the world? This book is my experience in the last 12 years, what I learn and what are the best practice from someone on the field.
+Open Source is a trending topic today but how you can learned all or some of the skills required to create or contribute to a project opened to the world? This book is my experience in the last 12 years, what I learn and what are the best practice from someone in the field.
 
 ## Teaser
 
@@ -17,4 +17,4 @@ Rome wasn't build in a day but all the streets lead to Rome, we have all the str
 
 Be a part of the open source world can be the 21 century skills that you deserve?
 
-Check the [pdf/epub/mobi version on Leanpub](https://leanpub.com/contributetoopensource-therightway/) or on [GitHub](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2020.1).
+Check the [pdf/epub/mobi version on Leanpub](https://leanpub.com/contributetoopensource-therightway/) or on [GitHub](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2022.1).
