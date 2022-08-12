@@ -2,7 +2,7 @@
 
 ## What is the future of the open source world in the next years?
 
-Open source was a scary topic years ago, they used to see you as an amateur. This is a fake news today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
+Open source was a scary topic years ago, they used to see you as an amateur. This is fake news today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
 Do you know Volvo invented the seat belts but the patent was set up as free to use for all to improve the security for everyone?  
 I think we need people to discover how the open world changed everything already. For example, we could grant them the opportunities to participate during a time slot in their working hours.
 
@@ -93,8 +93,8 @@ Personally when I find abandoned project I ask for updates or looking for a new 
 
 So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.  
 
-I don't want to forget also that FOSS is not just promotion. With fediverse and new people discovering this world I see more people that want to do promotion, but it is something that we need after all? In this book I talk a lot about communication and promotion, at the same time there is promotion that change things and promotion that is useless or not working.  
-The project need it but often is more important instead to be one of the fan in the stand to be the player in the game, maybe not the player but maybe the coach or the the doctor.
+I don't want to forget also that FOSS is not just promotion. With fediverse and new people discovering this world I see more people that want to do promotion, but it is something that we need after all? In this book I talked a lot about communication and promotion, at the same time there is promotion that change things and promotion that is useless or not working.  
+The project need it but often is more important instead to be one of the fan in the stand to be the player in the game, maybe not the player but maybe the coach or the doctor.
 
 ## The Italian case
 
@@ -102,17 +102,17 @@ I am writing this section in English, but is focused on the Italian situation ab
 
 ![Italy is one of the most decentralized country in the world](images/extra/italy.jpg)  
 
-As you can see this is the real situation, with people that is not gathered mainly in big cities like happens in other countries. This open to various discussions and different situations about how to evangelize or digitalize a fragmented country.
+As you can see this is the real situation, with people that is not gathered mainly in big cities like it happens in other countries. This open to various discussions and different situations about how to evangelize or digitalize a fragmented country.
 
 In Italy, the Covid period was one of the biggest reasons for upgrading or understand that digitization is something that improve the life/work quality (like in other part of the world). The real difference (to me) is that involved a lot of the public administration that was always very slow on updating itself but also on the knowledge of the public employees that now were forced to learn a bit about how to use the computer, not just to play Solitaire.  
 
 Open data are matters of various association as they are not easily public as digital rights of Italian government propriety like the Colosseum. Let's split in two different paragraphs.  
 
-[Open data in Italy](https://dati.gov.it/) have various issues from the license and the quality of them (when they are available), infact [DatibeneComune compaign](https://www.datibenecomune.it/) with 58110 signers and 287 organization works on improving this with a monthly newsletter that can let you keep updated about what they are doing. The Government now opened to the discussion to the [Open Data guidelines](https://www.datibenecomune.it/2022/07/18/datibenecomune-ha-scelto-di-prendere-parte-alla-consultazione-sulle-linee-guida-open-data/) that is like the first time that is happening.
+[Open data in Italy](https://dati.gov.it/) have various issues from the license and the quality of them (when they are available), in fact [DatibeneComune compaign](https://www.datibenecomune.it/) with 58110 signers and 287 organization works on improving this with a monthly newsletter that will keep you updated about what they are doing. The Government now opened the discussion to the [Open Data guidelines](https://www.datibenecomune.it/2022/07/18/datibenecomune-ha-scelto-di-prendere-parte-alla-consultazione-sulle-linee-guida-open-data/) that is like the first time that something like this is happening.
 
-The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_panorama#Italy) doesn't exist also if we are famous for tourism. At the end from a 1941 law we are locked to a definition that says that photographic reproduction of public space are allowed if not creates competition against the economic values of the object. This creates issues on Wikipedia side as it is not possible to make certain photos to the [Pisa Tower](https://en.wikipedia.org/wiki/Pisa_Tower) or [Castel Del Monte](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) and publish it under a Creative Commons license, if there isn't any act that allow for any of them. The recent European law about copyright didn't help on pushing changes to this law and every year for the Wiki Loves Monuments (global photographic competition) for every local public government they send a request with a list of monuments.
+The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_panorama#Italy) doesn't exist even though we are famous for tourism. Based on a 1941 law we are locked to a definition that says that photographic reproductions of public space are allowed if not create competition against the economic values of the object. This creates issues on Wikipedia side as it is not possible to make certain photos to the [Pisa Tower](https://en.wikipedia.org/wiki/Pisa_Tower) or [Castel Del Monte](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) and publish it under a Creative Commons license, if there isn't any act that allow for any of them. The recent European law about copyright didn't help on pushing changes to this law and every year for the Wiki Loves Monuments (global photographic competition) for every local public government they send a request with a list of monuments.
 
-From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things are changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories as now). Including a webpage [Come Partecipo](https://come-partecipo.italia.it/) to find projects to contribute to, that is based on [What I can do for Mozilla](https://whatcanidoformozilla.org/).  
+From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things have changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories at the time of writing). Including a webpage [Come Partecipo](https://come-partecipo.italia.it/) to find projects to contribute to, that is based on [What I can do for Mozilla](https://whatcanidoformozilla.org/).  
 There are public projects like templates for WordPress, Guidelines (with web version on ReadTheDocs), mobile apps, SDK, design kits and others.  
 
 This was something that 5 years ago maybe for a Hard Sci-Fi author was impossible to think of. Like also the fresh news that [Inps, Inal and Istat are working together to create in 2023 a unique software house for their need](https://www.wired.it/article/inps-inail-e-istat-stanno-fondando-una-software-house/) (INPS is the national insitute for retirement, Inail the national insitute for work injuries and Istat the national insitute for statistics).
@@ -130,20 +130,20 @@ The idea is to improve the discoverability and if that project is suitable for a
 
 ## Catalogo del software di Riuso
 
-That in English "Reuse Software catalog" that Italian public administration can use it. As every big organization departments don't talk each others, also cities or region, but they have often the same needs, so why develop multiple times the same software?  
+That in English "Reuse Software catalog" that Italian public administration can use it. Like every big organization not only departments don't talk to each other, but also cities or region, but they have often the same needs, so why develop the same software multiple times?
 
-This is the idea at the end, a way for public administration where often managers have no so much knowledge on IT to find software already available and open source developed by themselves or by others like LibreOffice for example.  
+This is the idea at the end, a way for public administration where often managers have not so much knowledge on IT to find software already available and open source developed by themselves or by others like LibreOffice for example.  
 
-This project uses the standard we saw to fetch the software list, but the website is more friendly as includes more information, not just a description but people that you can reach to ask question. It is something that for a bureaucratic organization is important and that in OSS is often ignored.  
+This project uses the standard we saw to fetch the software list, but the website is more friendly as it includes more information, not just a description but people that you can reach to ask questions. It is something that for a bureaucratic organization is important and that in OSS is often ignored.  
 After all, if you are maintaining a project you don't want that people reach you for questions about if the software can do this or that, or if you can implement something just for them. Especially if it is someone that maybe will pay you...
 
-This is an example about how improve the awareness to organization that is not like the usual software alternative list, because can give more information that are valuable to the people in charge of decisions. 
+This is an example about how to improve the awareness for organization that is not like the usual software alternative list, because it can give more information that are valuable to the people in charge of decisions. 
 
 In a first world country there are limitations or issues like elsewhere but it is important to see that internet, public awareness and young people are changing the situation. Also, if the [Italian case](https://profilo.forumpa.it/doc/?file=2021/2021_FPA_Data_Insight_Lavoro_pubblico_2021.pdf&confirm=yes) seems that in the public government the people under 30 years old is the 4%. Especially in [School institution the age average is the 58% is over 50](https://www.truenumbers.it/eta-degli-insegnanti/) but in Ocse countries is the 35%.
 
-I know people in Italian universities that still asks questions about Floppy disks to students of psychology for example or that teach using computer with very old operative systems because the professors doesn't know how to use the modern ones.
+I know people in Italian universities that still asks questions about Floppy disks to students of psychology for example or that teach using computer with very old operative systems because the professors don't know how to use the modern ones.
 
-The open source awareness let us spread all those ideas and change the situation, takes a lot of time, but gathering various pieces we are getting something. To do this changes is not required evangelism, but also facts like what I am saying. Not just "Ehi that city migrated to Libreoffice" but people that does things, develop software and explains things in a way that the [listeners can understand it](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/2022-05/index.html) (Like the Italian guide by the Digital team for managers to understand OSS and how affect them). Maybe with a catalog with unusual information or showing the issues on various laws.
+The open source awareness let us spread all those ideas and change the situation, takes a lot of time, but gathering various pieces we are getting something. To do this changes is not required evangelism, but also facts like what I am saying. Not just "Ehi that city migrated to Libreoffice" but people that do things, develop software and explain things in a way that the [listeners can understand it](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/2022-05/index.html) (Like the Italian guide by the Digital team for managers to understand OSS and how it affects them). Maybe with a catalog with unusual information or showing the issues on various laws.
 
 ## Thanks
 

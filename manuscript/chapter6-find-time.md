@@ -103,6 +103,6 @@ Or reading post mortem/outage after big bugs or hardware failures:
 * [Retrospective and Technical Details on the recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
 
 Why? Because in these stories you learn a lot about work organization and how to organize yourself and others with a real story, like a novel.  
-Also in those cases is important to save your time and do what you have to do very quickly. Don't forget that Open Source is basically learning from others and using this rule also in other context is useful after all.
+Also in those cases it is important to save your time and do what you have to do very quickly. Don't forget that Open Source is basically learning from others and using this rule also in other context is useful after all.
 
 Just think about it because in this fast world where everything changes so easily is important to understand time's value.
