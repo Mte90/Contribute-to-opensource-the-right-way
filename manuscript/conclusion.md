@@ -100,6 +100,10 @@ The project need it but often is more important instead to be one of the fan in 
 
 I am writing this section in English, but is focused on the Italian situation about digitization and awareness about digital matters.  
 
+![Italy is one of the most decentralized country in the world](images/extra/italy.jpg)  
+
+As you can see this is the real situation, with people that is not gathered mainly in big cities like happens in other countries. This open to various discussions and different situations about how to evangelize or digitalize a fragmented country.
+
 In Italy, the Covid period was one of the biggest reasons for upgrading or understand that digitization is something that improve the life/work quality (like in other part of the world). The real difference (to me) is that involved a lot of the public administration that was always very slow on updating itself but also on the knowledge of the public employees that now were forced to learn a bit about how to use the computer, not just to play Solitaire.  
 
 Open data are matters of various association as they are not easily public as digital rights of Italian government propriety like the Colosseum. Let's split in two different paragraphs.  
