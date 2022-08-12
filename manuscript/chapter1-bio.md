@@ -200,7 +200,7 @@ This book was written because I see a lot of young people and newcomers that ask
 
 ## Addendum (third edition)
 
-Write a new edition required 2 years with the Covid pandemic that broke the flow of ideas generated during FOSS live events, but I didn't stop gathering resources and doing Open Source.  
+Writing a new edition required two years with the Covid pandemic that broke the flow of ideas generated during FOSS live events, but I didn't stop gathering resources and doing Open Source.  
 
 ![Me with the Public Money Public Code T-Shirt at camera dei Deputati](images/1/camera.jpg)
 

@@ -50,7 +50,7 @@ A new volunteer wants to do something without having to undertake a big course/o
 Moreover, technical glossary may create a problem because the project can use specific terms and the volunteers don't know or understand them yet.  
 Every project usually has rules or guides about how to help on localizing and is something that everyone can do.
 
-Until you try localization is something easy to say, you have just to text to translate. The real issue is to understand the context, how will read this a newbie? a developer and so on. This open many questions and require skills if you want to lead or help to move on this that is one of the most common activities of an open source community. If you are looking for ideas (about how much his not so easy) Mozilla published their [best practices for project managers](https://mozilla-l10n.github.io/documentation/localization/globalization_best_practices.html).
+Until you try localization is something easy to say, you have just text to translate. The real issue is to understand the context, how will a newbie read this? A developer and so on. This open many questions and require skills if you want to lead or help to move on this that is one of the most common activities of an open source community. If you are looking for ideas (about how much this is not so easy) Mozilla published their [best practices for project managers](https://mozilla-l10n.github.io/documentation/localization/globalization_best_practices.html).
 
 ### Support *D/I*
 

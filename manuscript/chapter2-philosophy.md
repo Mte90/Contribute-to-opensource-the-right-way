@@ -220,10 +220,10 @@ Before the last words of this chapter I want to leave this news, ['The US milita
 The result of this question:  
 
 * Open Source projects/communities need a higher level of care and respect
-* You can't have thrust on the codebase just is because OSS
+* You can't have thrust on the codebase just because it is OSS
 * Code can be written by sanctioned entities (from specific governments)
-* The bus factor is limitating (the whole project fall apart if one just person gets hit by a bus)
-* Proprietary software are built with a 70% of OSS
+* The bus factor is limitating (the whole project fall apart if those number of persons get hit by a bus)
+* Proprietary software are built with 70% of OSS
 
 Those are some examples that can help you to find opportunities for you but we will see better in the other chapters.  
 I am leaving to you some examples from the internet about how other people explained their first contribution:
