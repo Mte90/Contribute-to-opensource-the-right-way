@@ -242,7 +242,7 @@ When you have an idea of what you already have, you can work on what is missing.
 The usual structure of the document to help you to do the various tasks and the final proposal is:  
 
 * Recap the actual status in the document as reference for others (this will help you during reviews as example)
-* Analysis of what to change with details and explanation (add also use cases help)
+* Analysis of what to change with details and explanation (add also user cases)
 * Do a final proposal that is a recap in a bullet list (this simplifies for feedback and for the others to remember the various tasks/difference)
 
 ### Workflow
