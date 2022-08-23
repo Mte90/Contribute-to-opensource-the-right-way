@@ -181,7 +181,7 @@ Think about being in an international context, where there are cultural differen
 We will cover various kinds of communication in Open Source, but before that, let's refresh the basics:
 
 * **Be proactive**: while contributing to a project, rants are useless (and may hinder you from reaching your goal). Keep every request open, friendly and offer options.
-* **Transparency**: doesn't mean that everything should be participatory but just public.
+* **Transparency**: doesn't mean that everything should be participatory but just [results published (maybe with a private invites)](https://blog.opencollective.com/php-foundation-alive-and-kicking/).
 * **Don't be passive**: don't avoid discussions, don't ignore people. This often happens for shortage of time, but may damage you in the long run.
 * **Clarification**: Not all readers may have your same background/skill set or knowledge about the project. Those people will produce noise and confusion in trying to understand more (even if they are perfectly able to google it), write complete answers to them (the trick here is including external resources to compliment your answer)
 * **Documentative**: every message, if carefully written, may turn out to be a resource to be reused in the future or an historical archive. Strive for completeness in writing.
