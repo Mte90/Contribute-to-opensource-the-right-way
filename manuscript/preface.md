@@ -33,6 +33,7 @@ See you at the index!
 ## License
 
 This book is licensed under the GPLv3 license because I like it, maybe not the best one for a book but is like a mention to remember how much this license changed the world.  
+Includes also memes (usually in bad quality) that are used freely following the [Article 13 of the EU Copyright Directive](https://eur-lex.europa.eu/eli/dir/2019/790/oj) that excludes them for the copyright.  
 Just to mention it, I made a tool called [GH-License](https://github.com/Mte90/GH-License) that help you to check if your repository include a license, if your repo on GitHub/Bitbucket/etc include it and to download automatically.  
 
 Remember **a project that you can download with all the code doesn't mean that is open source** if doesn't include a license. Without a license is a proprietary project!
