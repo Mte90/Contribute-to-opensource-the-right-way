@@ -51,7 +51,7 @@ Every social campaign requires different digital assets to the organizers, here 
    * Provide images only when they are localized
    * Provide posters for offline events
 * Talk
-   * Provide talks made by the community in Italian in powerpoint to review all together, by using Google Documents it's possible to work together more quickly
+   * Provide talks made by the community in Italian in powerpoint (to avoid file formats issues but you can use ODP with LibreOffice of course) to review all together, by using Google Documents (as now Collabora Online is not so performing and publicly available) it's possible to work together more quickly
    * For the event get always a PDF version to avoid issues
    * Evaluate topics that fit better with the local necessities to use along the main topic
    * Create different levels based on the various knowledge for the audience or speakers
