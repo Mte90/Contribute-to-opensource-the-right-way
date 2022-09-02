@@ -12,6 +12,7 @@ Take as example the power of the **Open Data**, that in some countries are unkno
 
 The future is “We need more conscious people in all the topics”, with internet we have the knowledge within a tap’s reach (not only a click with the mouse) but we are not using it the right way. We need to consider the idea that they don’t know something and need to understand what they miss, in this case why their using something and if there is something better for different reasons.
 
+{width=80%}
 ![Individuals who never used computer (2017)](images/extra/no-used-computer.jpg)  
 
 Basically we need to move on those points (explained in the next sub chapters):
@@ -53,7 +54,7 @@ Open source is for me when:
 * Release management is not happening at the time of major releases only with a cadence of 3-4 months (or less) (people need to be aware of the changes and to be able to deploy without any hurry)
 
 I># Benevolent Dictator for Life
-i>Or the BDFL is a one person that lead the project future, usually is the founder/creator of the project. Also this role has the last voice on every discussion and in some projects this is important because helps on closing discussions or getting a decisions and avoid too much flame wars. In Linux as example is Linus Torvalds, in Python was Guido Van Rossum, Larry Wall for Perl and so on (they created the project). The point to say Benevolent is because as it is open source it is always possible to do a fork with new leaders if there are big issues, for these reasons is a Good Dictator that act only when needed.
+I>Or the BDFL is a one person that lead the project future, usually is the founder/creator of the project. Also this role has the last voice on every discussion and in some projects this is important because helps on closing discussions or getting a decisions and avoid too much flame wars. In Linux as example is Linus Torvalds, in Python was Guido Van Rossum, Larry Wall for Perl and so on (they created the project). The point to say Benevolent is because as it is open source it is always possible to do a fork with new leaders if there are big issues, for these reasons is a Good Dictator that act only when needed.
 
 ### User friendly because not all the people love the command line
 
@@ -85,6 +86,7 @@ So the code or the core of the project publicly available is not enough because 
 
 The other point is the promotion, with GitHub/GitLab a new issues awaken, someone start a project, release the project with a license and so on. At a certain time the owner is no online anymore or interested on working with that and the project became an abandonware. So a new developer take it with the creation of a fork, the problem is that for the rest of the world maybe this new hope is unknown. All the links and information refer to the original that is abandoned so no one will find the fork. Like a Jedi need to master the force and knows all the aspects of that, also with a release public you need to be ready about what means.
 
+{width=80%}
 ![Offering also the best solution to involve and contributing is important to succeed - https://twitter.com/CarlKDE/status/1387754944678215682](images/extra/tweet-kde.png)
 
 Often the best solution is the one that the maintainers or veteran think it is the best, but with new technologies there are new solution that simplify various task that for new people can be very difficult to do.
@@ -100,35 +102,39 @@ The project need it but often is more important instead to be one of the fan in 
 
 I am writing this section in English, but is focused on the Italian situation about digitization and awareness about digital matters.  
 
+In Italy, the Covid period was one of the biggest reasons for upgrading or understand that digitization is something that improve the life/work quality (like in other part of the world). The real difference (to me) is that involved a lot of the public administration that was always very slow on updating itself but also on the knowledge of the public employees that now were forced to learn a bit about how to use the computer, not just to play Solitaire.  
+
+{width=90%}
 ![Italy is one of the most decentralized country in the world](images/extra/italy.jpg)  
 
 As you can see this is the real situation, with people that is not gathered mainly in big cities like it happens in other countries. This open to various discussions and different situations about how to evangelize or digitalize a fragmented country.
 
-In Italy, the Covid period was one of the biggest reasons for upgrading or understand that digitization is something that improve the life/work quality (like in other part of the world). The real difference (to me) is that involved a lot of the public administration that was always very slow on updating itself but also on the knowledge of the public employees that now were forced to learn a bit about how to use the computer, not just to play Solitaire.  
-
 Open data are matters of various association as they are not easily public as digital rights for Italian government propriety like the Colosseum or also [The Good Lobby project](https://www.thegoodlobby.it/campagne/) for sign petitions about various topics from privacy to digital rights. Let's split in two different paragraphs.  
 
-[Open data in Italy](https://dati.gov.it/) have various issues from the license and the quality of them (when they are available), in fact [DatibeneComune compaign](https://www.datibenecomune.it/) with 58110 signers and 287 organization works on improving this with a monthly newsletter that will keep you updated about what they are doing. The Government now opened the discussion to the [Open Data guidelines](https://www.datibenecomune.it/2022/07/18/datibenecomune-ha-scelto-di-prendere-parte-alla-consultazione-sulle-linee-guida-open-data/) that is like the first time that something like this is happening (at same time the bigger Italian association for Open Data promotion written a [guide about legal aspects on the topic](https://ondata.github.io/aspetti-legali-opendata/)).
+[Open data in Italy](https://dati.gov.it/) have various issues from the license and the quality of them (when they are available), in fact [DatiBeneComune compaign](https://www.datibenecomune.it/) with 58110 signers and 287 organization works on improving this with a monthly newsletter that will keep you updated about what they are doing. The Government now opened the discussion to the [Open Data guidelines](https://www.datibenecomune.it/2022/07/18/datibenecomune-ha-scelto-di-prendere-parte-alla-consultazione-sulle-linee-guida-open-data/) that is like the first time that something like this is happening (at same time the bigger Italian association for Open Data promotion written a [guide about legal aspects on the topic](https://ondata.github.io/aspetti-legali-opendata/)).
 
 The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_panorama#Italy) doesn't exist even though we are famous for tourism. Based on a 1941 law we are locked to a definition that says that photographic reproductions of public space are allowed if not create competition against the economic values of the object. This creates issues on Wikipedia side as it is not possible to make certain photos to the [Pisa Tower](https://en.wikipedia.org/wiki/Pisa_Tower) or [Castel Del Monte](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) and publish it under a Creative Commons license, if there isn't any act that allow for any of them. The recent European law about copyright didn't help on pushing changes to this law and every year for the Wiki Loves Monuments (global photographic competition) for every local public government they send a request with a list of monuments.
 
 From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things have changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories at the time of writing). Including a webpage [Come Partecipo](https://come-partecipo.italia.it/) to find projects to contribute to, that is based on [What I can do for Mozilla](https://whatcanidoformozilla.org/).  
 There are public projects like templates for WordPress, Guidelines (with web version on ReadTheDocs), mobile apps, SDK, design kits and others.  
 
+Another innovation is the new role on INPS (the national institute that manage the italians money retirements) with CHief for innovation that write a [yearly recap of new things](https://vincenzo.me/2022-kamehameha-inps/) on his blog also with a bit of nerdiness. I can remember that they launched their [mobile app as OSS](https://github.com/INPS-it), a new platform to [report issues](https://medium.com/developers-italia) and many other things.
+
 This was something that 5 years ago maybe for a Hard Sci-Fi author was impossible to think of. Like also the fresh news that [Inps, Inal and Istat are working together to create in 2023 a unique software house for their need](https://www.wired.it/article/inps-inail-e-istat-stanno-fondando-una-software-house/) (INPS is the national institute for retirement, Inail the national institute for work injuries and Istat the national institute for statistics).
+
+A tiny things to remember is that with Covid in Italy was defined a new type of work `smart working` with the term in english that as usual for italian language doesn't have any "competitor" in other languages. The difference with remote working for the Italian law is that Smart Working you can go to the office sometimes instead of remote working that is something stable. An example of our tecnology weirdness...
 
 Two things are very interesting for the purpose of this book about what they are doing.
 
 ### PublicCode.yml standard
 
-`
-A metadata description standard for public software that is easy to use both for developers and people with less technical background in order to make the software developed by Public Administrations and Public Organizations easily discoverable. 
-`
+
+> A metadata description standard for public software that is easy to use both for developers and people with less technical background in order to make the software developed by Public Administrations and Public Organizations easily discoverable. 
 
 In few words, a file that you can put in your git repository that is like an identity card that allow to index it with references to the maintainer and dependencies.  
 The idea is to improve the discoverability and if that project is suitable for a public administration and to use the standard also in other countries.
 
-## Catalogo del software di Riuso
+### Catalogo del software di Riuso
 
 That in English "Reuse Software catalog" that Italian public administration can use it. Like every big organization not only departments don't talk to each other, but also cities or region, but they have often the same needs, so why develop the same software multiple times?
 

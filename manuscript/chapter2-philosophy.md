@@ -15,7 +15,7 @@ This 4 freedoms created the philosophy and the open source model.
 
 ![Little recap about open philosophy](images/2/open-philosophy.png)  
 
-I> Open source model examples: Open Hardware (Arduino or RepRap), Open Content (Creative Commons license), Open Knowledge (Wikipedia or Project Gutenberg), Open Data (OpenStreetMap), Open Access (Open Document File formats)
+I> Open source model examples: Open Hardware (Arduino or Raspberry Pi except for CPU), Open Content (Creative Commons license), Open Knowledge (Wikipedia or Project Gutenberg), Open Data (OpenStreetMap), Open Access (Open Document File formats)
 
 We need to exclude the biggest metropolitan legend about this topic: open source doesn't mean that it is free of charge (also if everyone use OSS, including enterprise). This point is very difficult to understand for newcomers and if you have troubles, well check it out reading the rest of this chapter.  
 Another important benefit of Open Source is that you are getting in addition to the product a bonus, the access to the various pieces that build it. It is like getting a pizza but also the recipe with the various information for any ingredient and so on. For a non-technical person this can be useless but when you need to study how works or implement based on the requirements of your customer is very important because let you to do a full analysis.
@@ -87,6 +87,7 @@ Usually people stop at the very first step, without acting to make it a construc
 Give the maximum of information to developers, in order for them to research the issue, replicate it (that is a very important step) and create automated tests for it. By only complaining you obtain nothing, you just get madder than before.  
 The ones able to report issues the correct way, and with much information, show a different knowledge level than others; that is a very helpful skill set to have during daily operations.
 
+{width=80%}
 ![How to see the problems](images/2/meme.png)
 
 Enterprises apply that way of thinking, but an open philosophy project cannot have this limits.  
@@ -96,6 +97,7 @@ Little step for a man, huge step for humanity as a whole.
 When working with public domain resources, there shouldn't be any *omerta*, for it's against the philosophy of the open source projects itself. Everybody can do her/his own part, even with little time available or doing just little things. A puzzle is made by thousands of little pieces, and everyone can contribute competing it.  
 Nothing is more distant from civics (that in Italy is very poorly understood, even if now it's mandatory to teach it in public schools).  
 
+{width=80%}
 ![Open Source is adorable](images/2/adorable.jpg)
 
 There is also another kind of reporting, the one that can help your community on track what is happening or just gathering the common questions and write some documentation. Those are more tasks for a community manager and will be defined in other chapters on the book.
@@ -136,6 +138,7 @@ Concluding, don't forget to take responsibility in case you are the culprit (by 
 
 Let’s think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**. 
 
+{width=80%}
 ![There are 2 kind of people: who want a feedback and who is lying](images/2/feedback.jpg)
 
 Gorgeous, isn’t it? Let’s take the first difficult step ourselves, let’s be ready to take it because we know how a ticket is powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.  

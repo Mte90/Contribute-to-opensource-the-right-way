@@ -107,7 +107,7 @@ Your backup sentences in case of issues:
 * If you lose your train of thought: "Sometimes silence says a lot, but not this time" or ask the audience "What I was saying?" when someone reminds you "Oh cool, someone was listening"
 * If the room is too hot say a joke about the thermostats melted and you can't change it or if it is cold you can say that you saw few penguins around that want to follow the presentation
 * A big noise outside the room "That’s what we do to people who try to escape my talk"
- 
+
 ## How to write a talk
 
 * Don’t forget to talk about yourself, you are the guru for that topic for the attendees
@@ -147,10 +147,10 @@ Your backup sentences in case of issues:
 * The slides can't change but the way you explain the things can change based on the audience
 * Improve the examples, often they need to be updated because for example after a year it’s not working anymore
 
-T> ### Tips
-
+I> Tips
+I>
 T> * The talk need to be done in standing up
-T> * No stop words like ehm uhm but in that case stay silent
+T> * No stop words, like ehm uhm, but in that case stay silent
 T>     * o exercise talk about something for 30 seconds and register it and listen to it. Repeat until you will stop to say them. Do it for different subjects for weeks every day, this can help you speed up on building sentences on your mind.
 T>     * You need to hear on recordings when you are saying them, in that way you can prevent them, is difficult but on the long run you will see the effects
 T> * Try to practice the talk before the talk

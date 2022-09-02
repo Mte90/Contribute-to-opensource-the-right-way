@@ -67,6 +67,7 @@ So I started using an Italian Open Source CMS and extending it creating plugins 
 I built a tiny community around it, a mini build system and at the time I didn't know about git or other version control systems.  
 In 2012 I opted to use a real CMS that was following real coding standards (compared to the spaghetti code) to do more and better without starting from scratch.  
 
+{width=80%}
 ![Me waiting for my first Debian Ubuntu Community Conference in Italy, 2015](images/1/duccit.jpg)  
 
 There was a world outside that was doing many things and available but most important they were working, and they were using a database.  
@@ -83,6 +84,7 @@ Other communities I was contributing to at the time were KDE, Sidux/Aptosid/Sidu
 
 Hour: zulu 16:00 (to read as sixteen zero zero) in 22 October 2013  
 
+{width=80%}
 ![My first talk, 2013](images/1/talk.jpg)  
 
 Me with my 2nd laptop with "few" stickers (also wearing my flowing hairs) starting to do [my first talk (Italian report)](https://daniele.tech/2013/10/firefoxos-utenti-sviluppatori-roma2lug-linuxday-2013/) at 23 years old.   
@@ -151,6 +153,7 @@ I want to close this section with links from my blog about a lot of experiences 
 * [Why I am developing Browser Extensions](https://daniele.tech/2017/09/why-developing-browser-extensions/)
 * [Analisi del sondaggio Mozilla su IoT per l’Italia](https://daniele.tech/2017/11/analisi-del-sondaggio-mozilla-su-iot/) - Italian
 
+{width=80%}
 ![The monument with the names of 5000 Mozillians in front of the Mozilla's office in San Francisco](images/1/monumento.jpg)  
 
 I forgot to mention the huge moment of gratification, my name is on a monument with many other volunteers. 
@@ -202,9 +205,10 @@ This book was written because I see a lot of young people and newcomers that ask
 
 Writing a new edition required two years with the Covid pandemic that broke the flow of ideas generated during FOSS live events, but I didn't stop gathering resources and doing Open Source.  
 
+{width=80%}
 ![Me with the Public Money Public Code T-Shirt at camera dei Deputati](images/1/camera.jpg)
 
-On February just few weeks before the Covid I joined an event where I was the reference about the [Open Source topics in the Italian Depute's Chamber](https://daniele.tech/2020/08/etica-open-source-riuso-e-software-libero-versione-originale/).
+On February just few weeks before the Covid I joined an event where I was the representative about the [Open Source topics in the Italian Depute's Chamber](https://daniele.tech/2020/08/etica-open-source-riuso-e-software-libero-versione-originale/).
 
 On December 2020, I started my podcast in Italian about weekly updates from the Open Source world with a bit of cyber security and technology updates with my opinions. As today with more than 90 episodes it was an experiment that worked with more 220 followers (on Spreaker, Funkwhale and Youtube I can get those numbers but not on the other services). Every week I gather an average of 34 links to discuss in less of 30 minutes. I wasn't thinking about all this interest in these topics as it is very specific, but looking on the people who reach me to share feedback or links seems growing.
 
@@ -236,6 +240,7 @@ Open source allowed me to:
 * Learn how to listen and when it is time to shut up
 * How to propose stuff
 
+{width=80%}
 ![Mozilla TechSpeakers at the 2016 Meetup in Berlin](images/1/ts.jpg)
 
 A lot of very useful things for work but also for personal life, the fact is I did everything for... fun!  

@@ -60,40 +60,36 @@ In conclusion if you are looking on other ways a project can get donation or mon
 Daniel is the author and maintainer of cURL (started in 1996), that is the second OSS project most widespread after Linux. Think, Linux is on TV, refrigerators, routers, servers, smartphones, spaceship and so on. The second one is a library for all the operative system (with a cli tool) to download and upload anything on every internet protocol that is used as base for other languages or other tools.  
 He has a lot of experience on the project and on this topic, he worked before for Mozilla where his job was just to work on cURL (and isn't used inside Firefox), and he introduced this ["pyramid"](https://daniel.haxx.se/blog/2022/01/17/enforcing-the-pyramid-of-open-source/), the idea started on the security topic.
 
-```
-Inside the pyramid there is a hierarchy where things using software are build on top of others, in layers. The higher up you go, the more you stand on the shoulders of open source components below you.
 
-At the very bottom of the pyramid are the foundational components. Operating systems and libraries. The stuff virtually everything runs or depends upon. The components you really don’t want to have serious security vulnerabilities.
-```
+>Inside the pyramid there is a hierarchy where things using software are build on top of others, in layers. The higher up you go, the more you stand on the shoulders of open source components below you.
+>At the very bottom of the pyramid are the foundational components. Operating systems and libraries. The stuff virtually everything runs or depends upon. The components you really don’t want to have serious security vulnerabilities.
 
-```
-In the left green arrow, I describe the trend if you look at software when climbing upwards the pyramid.
 
-    Makes more direct money
-    Shorter lifetimes, faster iterations
-    Higher level languages
-    Shrinking share of Open Source
-    More end user facing
+>In the left green arrow, I describe the trend if you look at software when climbing upwards the pyramid.
+>
+>    Makes more direct money
+>    Shorter lifetimes, faster iterations
+>    Higher level languages
+>    Shrinking share of Open Source
+>    More end user facing
+>
+>At the top, there are a lot of things that are not Open Source. Proprietary shiny fronts with Open Source machines in the basement.
 
-At the top, there are a lot of things that are not Open Source. Proprietary shiny fronts with Open Source machines in the basement.
-```
 
-```
-In the red arrow on the right, I describe the trend if you look at software when going downwards in the pyramid.
-
-    Maintenance is more important than new fluff
-    Longer lifetimes
-    Bugs have larger impact, fixes take longer to get deployed
-    Lower level languages
-
-At the bottom, almost everything is Open Source. Each component in the bottom has countless users depending on them.
-
-It is in the bottom of the pyramid each serious bug has a risk of impacting the world in really vast and earth-shattering ways. That is where tightening things up may have the most positive outcomes. 
-
-```
+>In the red arrow on the right, I describe the trend if you look at software when going downwards in the pyramid.
+>
+>    Maintenance is more important than new fluff
+>    Longer lifetimes
+>    Bugs have larger impact, fixes take longer to get deployed
+>    Lower level languages
+>
+>At the bottom, almost everything is Open Source. Each component in the bottom has countless users depending on them.
+>
+>It is in the bottom of the pyramid each serious bug has a risk of impacting the world in really vast and earth-shattering ways. That is where tightening things up may have the most positive outcomes. 
 
 The idea is that the most bottom stuff require more attention by moneymakers, like companies, as they are dependencies that can affect more scenarios from security to maintenance (like bug fixing or new features).
 
+{width=80%}
 ![XKCD (2347) "the OSS pyramid"](images/3/xkcd-pyramid.jpg)
 
 This version maybe is easier to understand how a component in a business can be valuable but in Open Source is ignored by those entities as they are not contributing to the future of this tiny piece. Or another short version is [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/), that makes more sense, after all every OSS project is based on other OSS projects that often don't get the credit deserved.
@@ -416,7 +412,7 @@ Encyclopedias are written by experts, and we are the experts of the project. Sur
 #### Don't stop to learn
 
 Don't stop to learn in a world that moves quickly is important, to keep your brain elastic and fresh but don't lose the motivation to improve yourself every day.
-We saw that the first step is to teach to others but there also other steps or tasks that you can do (inspired also by (22 Simple Ways to Learn Faster)[https://dev.to/uncagedyou/22-simple-ways-to-learn-faster-3hg8]):
+We saw that the first step is to teach to others but there also other steps or tasks that you can do, inspired also by [22 Simple Ways to Learn Faster](https://dev.to/uncagedyou/22-simple-ways-to-learn-faster-3hg8]):
 
 * Read a lot of articles (every day or every few days): use Reddit, Dev.To, newsletters like Changelog/SoftwareleadWeekly
 * Study the evening before to sleep is very powerful because helps you to remember what you read more easily
@@ -426,8 +422,8 @@ We saw that the first step is to teach to others but there also other steps or t
 
 I want to quote a phrase from this article [Interview candidates with an Open Source background](https://toscalix.com/2019/12/10/interview-candidates-with-an-open-source-background/) that I liked a lot:
 
-    Professionals with a solid Open Source background do not depend on certifications paid by their companies to learn how to use their tools, or having to change their base tool-set regularly, limited by commercial decisions. 
-    In other words, Open Source professionals have made their career supported in specific tooling and associated practices they have chosen and mastered.
+> Professionals with a solid Open Source background do not depend on certifications paid by their companies to learn how to use their tools, or having to change their base tool-set regularly, limited by commercial decisions. 
+> In other words, Open Source professionals have made their career supported in specific tooling and associated practices they have chosen and mastered.
 
 It is easy to spot the real skilled people with knowledge about it, I saw this also on my job. People trust me about specific topics because I know how they work not because I read a tutorial but because I studied the internal stuff and experienced in a lot of different ways. Just creating a repo for [hacktoberfest](https://hacktoberfest.digitalocean.com/) to do 4 pull requests and getting a t-shirt cannot be compared with people who do real effective contribution and improve their skills on high level.  
 Of course you can create a repo for learning but just doing it in that period of the year doesn't mean that you are a contributor.

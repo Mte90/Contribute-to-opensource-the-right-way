@@ -95,6 +95,7 @@ As talkative Italian I defined these rules for an informal chat (1:1 or 1:many-p
 
 ### Round of questions for the interviewed
 
+{width=80%}
 ![Ask the real questions - https://www.reddit.com/r/linuxmemes/comments/akft99/why_i_use_linux_instead_of_windows/](images/4/ask.png)
 
 There are many factors that may shape these questions, like the skills of the interviewer, their professional background and hobbies (student, working, hacker) and why is he/she attending the event, so think carefully what to ask him/her.
@@ -198,4 +199,4 @@ It's true that not everyone can be a volunteer since not all the skills can be u
 # Conclusion
 
 There are a lot of ways to interact with newcomers or noobs (to use a synonym from the videogame world) but often a map is one of the best way to show the community dimension and also where they can find others.  
-For some projects in Mozilla I developed a map still used by the [Mozilla TechSpeakers program](http://tchspk.rs/map/). You can find the [boilerplate as GPL project](https://github.com/Mte90/List-People-on-the-Map-Boilerplate) to use as you prefer or get inspiration from.
+For some projects in Mozilla I developed a map that you can find as [boilerplate license in GPL](https://github.com/Mte90/List-People-on-the-Map-Boilerplate) to use as you prefer or get inspiration from.

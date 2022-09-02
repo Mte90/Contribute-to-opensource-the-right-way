@@ -82,6 +82,7 @@ So you can involve volunteers on suggesting what to share or to do public chat/A
 
 Instead, assets is more on the organization side, you need graphic assets to share like posters, flyers, logo and so on. This is very useful to better promote your events, and they can still be used after years from everyone.
 
+{width=80%}
 ![Confusion](images/5/logo.png)
 
 Maybe this is kind of excessive but it's a viral and funny joke in the open source community.  

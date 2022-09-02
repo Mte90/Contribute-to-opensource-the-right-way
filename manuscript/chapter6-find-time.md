@@ -11,6 +11,7 @@ Don't forget to consider your job in that, it isn't something that you can do qu
 
 So without your first steps you can't think to do something, time doesn't grow on trees. It depends on motivation but also on a good workflow that improves your daily life.
 
+{width=60%}
 ![Give back is not a "like" on social networks](images/6/contribute.jpg)
 
 My workflow is based on:
