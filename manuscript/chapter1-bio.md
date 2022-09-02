@@ -210,7 +210,7 @@ Writing a new edition required two years with the Covid pandemic that broke the 
 
 On February just few weeks before the Covid I joined an event where I was the representative about the [Open Source topics in the Italian Depute's Chamber](https://daniele.tech/2020/08/etica-open-source-riuso-e-software-libero-versione-originale/).
 
-On December 2020, I started my podcast in Italian about weekly updates from the Open Source world with a bit of cyber security and technology updates with my opinions. As today with more than 90 episodes it was an experiment that worked with more 220 followers (on Spreaker, Funkwhale and Youtube I can get those numbers but not on the other services). Every week I gather an average of 34 links to discuss in less of 30 minutes. I wasn't thinking about all this interest in these topics as it is very specific, but looking on the people who reach me to share feedback or links seems growing.
+On December 2020, I started my podcast in *Italian* about weekly updates from the Open Source world with a bit of cyber security and technology updates with my opinions. As today with more than 90 episodes it was an experiment that worked with more 220 followers (on Spreaker, Funkwhale and Youtube I can get those numbers but not on the other services). Every week I gather an average of 34 links to discuss in less of 30 minutes. I wasn't thinking about all this interest in these topics as it is very specific, but looking on the people who reach me to share feedback or links seems growing.
 
 On January 2021, I was added also on the `about:credits` page in all the Mozilla Products like Firefox, for my contributions in the past years. At same time the "Industria Italiana del Software Libero" association was closed because there was no action from the members on doing the usual things, it was a good experiment on how to manage this kind of things.  
 
@@ -245,7 +245,7 @@ Open source allowed me to:
 
 A lot of very useful things for work but also for personal life, the fact is I did everything for... fun!  
 
-X> # Your turn
+X> Your turn
 X> I want you repeat the same flow of thoughts as I did on writing this chapter.  
 X> Take 2 analogic tools, a pen and a paper and write on that:
 X>

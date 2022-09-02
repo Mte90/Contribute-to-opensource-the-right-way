@@ -28,7 +28,7 @@ With work, I mean a patch to something that I need to use, open a ticket for an 
 My needs are specially to enhance the next part of my workflow but sometimes also for daily usage of my workstation, like a browser extension or a script to automate stuff.  
 I want to help: this instead is based on my free time, but how I can merge all of them in my daily life?  
 
-I have a wall of post-it, browser's bookmarks of tickets, notes about things to do and so on. I prefer to write any idea to free my mind about those thoughts and focus on something else, maybe I can recatch them after days or weeks.  
+I have a wall of post-it, browser's bookmarks of tickets, notes about things to do and so on. I prefer to write any idea to free my mind about those thoughts and focus on something else, maybe I can re-catch them after days or weeks.  
 I order them based on the priorities and based on performance time and the third part of the workflow. Another point is also part of the project management, check who can do that task and propose it to him/her. In this way you are motivating a new volunteer, becoming his/her mentor (maybe), using the skills of a new volunteer and saving time to do something else.  
 
 Learning to delegate is very important and lets you focus on the things that you can do better, in the meantime onboarding new people that (maybe) can help you on that task later.  
@@ -38,7 +38,7 @@ Another suggestion in case you have tasks that you don't want to do it, instead 
 
 This is very personal and I suggest you to read a few books (check the appendix); anyway for this I suggest to have a look to your tasks. When you do something always in the same way many times a day/week, maybe is time to find a solution to simplify, the machines are perfect for this kind of tasks.  
 One solution may be to get a mouse with side button to switch tabs or hotkeys to launch programs (or to learn the hotkeys themselves) and so on.  
-For this I suggest checking the Kaizen philosophy, that is basically a way to do a little change that improves something and continuing to perform a lot of tiny changes that in the big picture create a big puzzle completely different from the previous one.  
+For this I suggest checking the [Kaizen philosophy](https://en.wikipedia.org/wiki/Kaizen), that is basically a way to do a little change that improves something and continuing to perform a lot of tiny changes that in the big picture create a big puzzle completely different from the previous one.  
 
 As example after optimizing the usage of the keyboard I moved to optimizing my daily routine, like checking the news-feed after lunch or saving things to read during “news-feed Moments” in the bookmarks during the day. Also, try to dedicate a specific amount of time to emails every hour or day based on the momentary needs and this is another way to aggregate stuff that requires your attention.  
 Anyway, this can be stupid, any second you save is a way to do something else and make a better use of your time; with tiny steps you can see more tasks that you can optimize like improving the spam filter settings of your inbox or a new feature of your computer. The optimization doesn't need to be intended to save time for open source but time for you to use for what you like but also to be faster.
@@ -46,7 +46,7 @@ Anyway, this can be stupid, any second you save is a way to do something else an
 ## Use your boredom/break times
 
 In my workday in front of a computer I do a lot of things because between tasks I take short breaks, during them I check my todo list and the one that I want to do (based also of the time that I want to invest).  
-As example, I do an important task, I deserve a long break maybe 30 minutes or more, so I can perform a task about something I like. This kind of trophy seems like a dog's treat <that was a good boy>, a lot of coaching books suggest this technique because it improves your attitude on the job but also your mood.  
+As example, I do an important task, I deserve a long break maybe 30 minutes or more, so I can perform a task about something I like. This kind of trophy seems like a dog's treat *that was a good boy*, a lot of coaching books suggest this technique because it improves your attitude on the job but also your mood.  
 Getting a break is helpful because it resets your brain so you can start fresh (even for 30 minutes) and work again on the same task. That's also true if you hate it or didn't find a solution before.
 
 They suggest a piece of chocolate, I do something else. Also, doing such breaks during the work is a way to not get distracted or tired working at the computer, we easily switch to different things keeping the attention span working. Of course, I sometimes dedicate the afternoon to something specific,it may be work or an open source task but it's on me to decide based on the priorities what to do.  
@@ -83,7 +83,7 @@ My experience is basically to understand what are the priorities and define time
 Usually burnout has different symptoms: isolation, feeling undervalued, recognition, values conflict, loss motivation and lack of autonomy.  
 There are some things that you can do quick easy: automatize tasks (I use the rule of 3), understand what others are doing and how, communicate better.
 
-I># Rules of 3
+I> Rules of 3
 I> I don't remember where i found it but I have my own version: if it is a task that I do with the computer like 3 times a day or for week always in the same way you need to automate it. Especially if this task is based on a lot of steps that can creates confusions. In case it is something where you cannot use a computer there are other ways to automatize things in this days with Zapier or IFTTT or if you are a developer you can find some ways.
 
 # Conclusion

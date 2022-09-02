@@ -60,7 +60,7 @@ With the *open source* term usually we refer to a lot of things, from software p
 
 ## Contacts
 
-I am looking for feedback about this book to improve it, so reach me to share your thoughts and ideas.
+I am looking for **feedback** about this book to improve it, so reach me to share your thoughts and ideas.
 
 * [https://daniele.tech](https://daniele.tech)
 * [https://twitter.com/Mte90Net](https://twitter.com/Mte90Net)
@@ -72,4 +72,4 @@ I am looking for feedback about this book to improve it, so reach me to share yo
 
 ## Donation
 
-If you want to donate to the author (me) you can do it with [Patreon](https://www.patreon.com/Mte90).
+If you want to donate to the author (me) you can do it with [Patreon](https://www.patreon.com/Mte90), [Paypal](https://www.paypal.me/mte90) or [Liberapay](https://liberapay.com/Mte90/donate).

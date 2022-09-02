@@ -38,6 +38,7 @@ We are just consumers, and often we don't know the costs involved in developing 
 When using free web services or apps, many people don't ask "how can this service continue to move on if it's free?", but it's a question we should ask ourselves.  
 How Google/Facebook/Whatsapp/Youtube/Gmail etc still offer their services?  
 
+{width=80%}
 ![What they do with your data? Fosdem 2017](images/2/who.png)
 
 **You** are the currency, using it and leaving information in your account and surfing the web, with this information they can show to you perfect ads or discover interests your kind of person has to use it for something else.  
@@ -87,7 +88,7 @@ Usually people stop at the very first step, without acting to make it a construc
 Give the maximum of information to developers, in order for them to research the issue, replicate it (that is a very important step) and create automated tests for it. By only complaining you obtain nothing, you just get madder than before.  
 The ones able to report issues the correct way, and with much information, show a different knowledge level than others; that is a very helpful skill set to have during daily operations.
 
-{width=80%}
+{width=60%}
 ![How to see the problems](images/2/meme.png)
 
 Enterprises apply that way of thinking, but an open philosophy project cannot have this limits.  
@@ -97,7 +98,7 @@ Little step for a man, huge step for humanity as a whole.
 When working with public domain resources, there shouldn't be any *omerta*, for it's against the philosophy of the open source projects itself. Everybody can do her/his own part, even with little time available or doing just little things. A puzzle is made by thousands of little pieces, and everyone can contribute competing it.  
 Nothing is more distant from civics (that in Italy is very poorly understood, even if now it's mandatory to teach it in public schools).  
 
-{width=80%}
+{width=60%}
 ![Open Source is adorable](images/2/adorable.jpg)
 
 There is also another kind of reporting, the one that can help your community on track what is happening or just gathering the common questions and write some documentation. Those are more tasks for a community manager and will be defined in other chapters on the book.

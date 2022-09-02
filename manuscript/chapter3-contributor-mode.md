@@ -124,7 +124,7 @@ When is alive is easy to see, the tickets are getting replies in reasonable time
 Abandoned is more complicated because maybe the owner or maintainer is not replying on the tickets or pull requests but is active on social networks. So basically seems that is not caring at all of the project but he wrote anything about it in the project page itself. Usually this means that a fork is possible without so many troubles but probably will be difficult to get the ownerships of the website domain, social accounts etc from the original creator.  
 There is also the issue of the naming issues of a fork or the trademark, we know how much is important the naming of a project today.
 
-I> "In software engineering, a project fork happens when developers take a copy of source code from one software package and start independent development on it, creating a distinct and separate piece of software. The term often implies not merely a development branch, but also a split in the developer community, a form of schism." [Wikipedia](https://en.wikipedia.org/wiki/Fork_(software_development)
+I> "In software engineering, a project fork happens when developers take a copy of source code from one software package and start independent development on it, creating a distinct and separate piece of software. The term often implies not merely a development branch, but also a split in the developer community, a form of schism." [Wikipedia](https://en.wikipedia.org/wiki/Fork_(software_development))
 
 Instead dead is like abandoned but there are no forks or any communication from the authors but just people asking if the project is still alive and no one is interested to move on the project.  
 
@@ -318,6 +318,7 @@ Like I said in my long biography, for me the turning point was speaking at a Lin
 One of the issues one can face on the internet is when looking up the solution to a problem, one may find only very old content on forums, with a queue of people confirming they had the same issue over time under that discussion, but no answer about a solution at all.
 Usually one of last messages of that kind of discussions states “problem was fixed” without any real documentation of the solution itself, so that you are left screaming at the moon in frustration.
 
+{width=60%}
 ![XKCD #979](images/3/wisdom_of_the_ancients.png)
 
 The [Feynman technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/), created by the Nobel winner physicist consists of 4 rules:

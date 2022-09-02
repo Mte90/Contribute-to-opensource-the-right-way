@@ -147,8 +147,8 @@ Your backup sentences in case of issues:
 * The slides can't change but the way you explain the things can change based on the audience
 * Improve the examples, often they need to be updated because for example after a year it’s not working anymore
 
-I> Tips
-I>
+T> Tips
+T>
 T> * The talk need to be done in standing up
 T> * No stop words, like ehm uhm, but in that case stay silent
 T>     * o exercise talk about something for 30 seconds and register it and listen to it. Repeat until you will stop to say them. Do it for different subjects for weeks every day, this can help you speed up on building sentences on your mind.

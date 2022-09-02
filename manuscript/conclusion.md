@@ -36,6 +36,8 @@ Now people don’t think to these tools anymore if they have better ones (bigges
 
 This is also part of the fact that big companies and a lot of projects in the world use open source components without giving anything back, no money or other types of contribution. The biggest disadvantage of open source basically, but that it’s not the right way to work in the open source world properly. Those days there was a lot of discussions about funding an open source project or the maintainer itself, it’s not very easy but is something that the users should ask every time they use something for free.
 
+The [Open Source Contributor Index](https://opensourceindex.io/) it is a practical way to see the biggest company contributors to the ecosystem and are leaded by Google, Microsoft and Red Hat.
+
 ### Evolve the concept of the license
 
 It is cool to get the source code but is quite useless if it is not possible to run it. It is like when I got a Blu-ray DVD as birthday gift but I had only a DVD player that wasn’t supporting it.  
@@ -53,8 +55,8 @@ Open source is for me when:
 * Everything is documented and following a standard
 * Release management is not happening at the time of major releases only with a cadence of 3-4 months (or less) (people need to be aware of the changes and to be able to deploy without any hurry)
 
-I># Benevolent Dictator for Life
-I>Or the BDFL is a one person that lead the project future, usually is the founder/creator of the project. Also this role has the last voice on every discussion and in some projects this is important because helps on closing discussions or getting a decisions and avoid too much flame wars. In Linux as example is Linus Torvalds, in Python was Guido Van Rossum, Larry Wall for Perl and so on (they created the project). The point to say Benevolent is because as it is open source it is always possible to do a fork with new leaders if there are big issues, for these reasons is a Good Dictator that act only when needed.
+I> Benevolent Dictator for Life
+I> Or the BDFL is a one person that lead the project future, usually is the founder/creator of the project. Also this role has the last voice on every discussion and in some projects this is important because helps on closing discussions or getting a decisions and avoid too much flame wars. In Linux as example is Linus Torvalds, in Python was Guido Van Rossum, Larry Wall for Perl and so on (they created the project). The point to say Benevolent is because as it is open source it is always possible to do a fork with new leaders if there are big issues, for these reasons is a Good Dictator that act only when needed.
 
 ### User friendly because not all the people love the command line
 
@@ -120,9 +122,9 @@ There are public projects like templates for WordPress, Guidelines (with web ver
 
 Another innovation is the new role on INPS (the national institute that manage the italians money retirements) with CHief for innovation that write a [yearly recap of new things](https://vincenzo.me/2022-kamehameha-inps/) on his blog also with a bit of nerdiness. I can remember that they launched their [mobile app as OSS](https://github.com/INPS-it), a new platform to [report issues](https://medium.com/developers-italia) and many other things.
 
-This was something that 5 years ago maybe for a Hard Sci-Fi author was impossible to think of. Like also the fresh news that [Inps, Inal and Istat are working together to create in 2023 a unique software house for their need](https://www.wired.it/article/inps-inail-e-istat-stanno-fondando-una-software-house/) (INPS is the national institute for retirement, Inail the national institute for work injuries and Istat the national institute for statistics).
+This was something that 5 years ago maybe for a Hard Sci-Fi author was impossible to think of. Like also the fresh news that [Inps, Inail and Istat are working together to create in 2023 a unique software house for their need](https://www.wired.it/article/inps-inail-e-istat-stanno-fondando-una-software-house/) (INPS is the national institute for retirement, Inail the national institute for work injuries and Istat the national institute for statistics).
 
-A tiny things to remember is that with Covid in Italy was defined a new type of work `smart working` with the term in english that as usual for italian language doesn't have any "competitor" in other languages. The difference with remote working for the Italian law is that Smart Working you can go to the office sometimes instead of remote working that is something stable. An example of our tecnology weirdness...
+A tiny things to remember is that with Covid in Italy was defined a new type of work `smart working` with the term in english that as usual for italian language doesn't have any "competitor" in other languages. The difference with remote working for the Italian law is that Smart Working you can go to the office sometimes instead of remote working that is something stable. An example of our technology weirdness...
 
 Two things are very interesting for the purpose of this book about what they are doing.
 
@@ -160,7 +162,7 @@ My experience level couldn't be as it is now without the help of a lot of people
 
 * My family because they taught me that "A lot of people talk about how to do things and very few on doing them". Without this imprinting, and without my Catholic faith too, is very difficult to imagine my involvement in Open Source. As humans, we have the power to change the world around us, complaining is right only when people eat pineapple on pizza.
 * My collegue and associate, Eugenio Petullà, that allowed me to be free during work because what we do for open source is important and brings value to our web agency and our skills. I know that he uses Fedora and Gnome and I use Debian Sid and KDE, but I am trying to ignore this problem.
-* Edoardo Viola, leading with me the Mozilla Italia community, who helped me on confronting with others and cooperating in the leadership of a community too. He is a professor now and I hope to get a good rating for this book, but please no oral interview!
+* Edoardo Viola, leading in the past with me the Mozilla Italia community, who helped me on confronting with others and cooperating in the leadership of a community too. He is a professor now and I hope to get a good rating for this book, but please no oral interview!
 
 ![Gabriele, Eugenio, me and Edoardo at Fosdem 2017](images/extra/fosdem-2017.jpg)  
 
