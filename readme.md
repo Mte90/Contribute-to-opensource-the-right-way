@@ -3,7 +3,7 @@
 An *open source* book about how to contribute to *open source*.  
 I already said *open source*? And that's **free**?
 
-[Release article 2nd edition](https://daniele.tech/2020/07/contribute-to-open-source-the-right-way-2nd-edition-download-the-free-open-book-now) - [Release article 1st edition](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
+[Release article 3rd edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition) - [Release article 2nd edition](https://daniele.tech/2020/07/contribute-to-open-source-the-right-way-2nd-edition-download-the-free-open-book-now) - [Release article 1st edition](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
 
 ## Description
 
