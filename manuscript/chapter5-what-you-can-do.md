@@ -50,6 +50,8 @@ A new volunteer wants to do something without having to undertake a big course/o
 Moreover, technical glossary may create a problem because the project can use specific terms and the volunteers don't know or understand them yet.  
 Every project usually has rules or guides about how to help on localizing and is something that everyone can do.
 
+Until you try localization is something easy to say, you have just text to translate. The real issue is to understand the context, how will a newbie read this? A developer and so on. This open many questions and require skills if you want to lead or help to move on this that is one of the most common activities of an open source community. If you are looking for ideas (about how much this is not so easy) Mozilla published their [best practices for project managers](https://mozilla-l10n.github.io/documentation/localization/globalization_best_practices.html).
+
 ### Support *D/I*
 
 These activity requires a knowledge of the project, so I don't suggest that initially, but only for the people that are going like it.  
@@ -124,7 +126,7 @@ A little suggestion, don't forget that the community likes to be involved in dec
 
 If the project has a software, well they are important!  
 Without skilled developers the project will be dead in short time, because it will be abandoned and you don't want that.  
-People with skills are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
+People with skills, like [manage the codebase or how to do the changes in the right way](https://pncnmnp.github.io/blogs/oss-guide.html), are required to lead it and plan what to do, but also to mentor new people and simplify the onboarding. The development area usually has a very high learning curve to contribute and it is important to have a balanced way to access it.  
 
 Also some projects have a different team called Infra/infrastructure/Meta/SysAdmin, the purpose is to keep moving on the official websites and the various tools used by the project from the ticket system to the git instance. They can be developers that create a new theme, specific integrations or sysadmin that keep the server safe and updated.  
 To get the best from your users is important to offer the best tools, this means that they don't need to be at 100% FOSS projects. Well it will be better but sometimes you cannot do everything in this way, maybe in the future your needs can be inspiring for something new or create new opportunities.  
@@ -133,6 +135,6 @@ It is important just to focus on priorities, it is more important the tool or yo
 # Conclusion
 
 The last mention of this chapter is how this activities fit in the structure of the community accountability. Basically every activity or community has various role levels: Leaders, Maintainers/Committers, Contributors.  
-Those helps on evolving the community and giving different tasks but at the end is always a volunteer, it is just a volunteer with more skills that got this role maybe for experience or necessity. In Open Source the **meritocracy** is always a rule (always in projects where there is no business), where the experience is knowledge/facts based and not financially.
+Those helps on evolving the community and giving different tasks but at the end is always a volunteer, it is just a volunteer with more skills that got this role maybe for experience or necessity. In Open Source the **meritocracy** is always a rule (always in projects where there is no business), where the experience is knowledge/facts based and not financially. We have to consider also the [Peter principle](https://en.wikipedia.org/wiki/Peter_principle) "employees are promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another" that can happen in open source also if there is meritocracy as the Maintainer role can have too many duties.
 
 Open source involves a lot of areas where you can find a home for your interests and people like you. The homework that I can give to you is think what do you like most, what will be the first area and the last one that you want to do in your journey. After this, it is time to discover how it really works.  

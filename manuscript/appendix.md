@@ -4,9 +4,9 @@
 
 There are a lot of resources about this topic but this is my book, so this is my version of that definition.  
 First of all a Community Manager is a leader, and this role require you need to delegate and find new areas of business ehm of activity.  
-A nice example of community management in a TV series is "Chuck", the BestBuy is a tech supermarket with a lot of different people, background and their various lives. The main character is the de facto leader of the supermarket so others follow him even if he isn't their boss. Listens to the various people, knows them, knows how to moves and be the middle men with the authorities but keep also different lives.  
+A nice example of community management in a TV series is [”Chuck”](https://en.wikipedia.org/wiki/Chuck_(TV_series)), the BestBuy is a tech supermarket with a lot of different people, background and their various lives. The main character is the de facto leader of the supermarket so others follow him even if he isn't their boss. Listens to the various people, knows them, knows how to moves and be the middle men with the authorities but keep also different lives.  
 In our case is not a spy but maybe a father, a worker, comics collector or a pirate.  
-Another TV series is "Scrubs" with different characters, various roles, different lives but common interests or workplace that have to coexist for a purpose. Everyone with their needs and different behaviors but despite that they move on.   
+Another TV series is [”Scrubs”](https://en.wikipedia.org/wiki/Scrubs_(TV_series)) with different characters, various roles, different lives but common interests or workplace that have to coexist for a purpose. Everyone with their needs and different behaviors but despite that they move on.   
 I like the pop culture and the reference to cinema/books/comics world because it easy to use the learning transfer (we saw already it in the book) to them and [learn how to do not do things](https://blog.tdwright.co.uk/2020/05/07/9-things-westworld-can-teach-us-about-software-engineering/) or how to manage a company (check Silicon Valley TV series as example).  
 
 Another point is a phrase by [Italo Vignoli](https://twitter.com/italovignoli), one of the founders of The Document Foundation and one of the OSI council members, that said to me about the role term Community Manager *"A community cannot be managed because everyone do what they want"*. For me this is true, you aren't a community manager but more a community leader that create a path where others converge because they trust you, not because someone placed you for that role.
@@ -32,6 +32,8 @@ This groups of people can have as example different communications or different 
 It is important also to understand the kind of users you have in the community and their interests, in the Conclusion chapter in the Other Resources section there are some interesting reading about the various type of people that can exists in a community. This study can help you on decide what is better to do it and engage more the people that you have and new ones.
 
 To know better about the various jargon or meanings from the various kind of users, I suggest to you to check this talk by [Italo at Fosdsem 2020](https://fosdem.org/2020/schedule/event/user_standing/).
+
+Another view can be to look at your member like an employee, you want them happy and that they can be productive. At the same time you want to lead them but also [give freedom to experiment and express their creativity](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/). Or you can learn from [The Office](https://www.quill.com/blog/workplace-culture/company-culture-tips-from-the-office.html) tv series some tips.
 
 ## How to do productive discussions
 
@@ -130,9 +132,9 @@ In every communication it’s better to follow the rule of 7 communications.
 * **Consideration**
     * Don’t forget that your audience needs to follow you so it’s important text is understandable from everyone of your audience.
 * **Concreteness**
-    * The object of the communication needs to be complete and clear to everyone (maybe evaluate the use of future tense). Dividing the communications into different points is very helpful.
+    * The object of the communication needs to be complete and clear to everyone (maybe evaluate the use of future tense). Dividing the communications into different points is very helpful. Basically don't go off topic.
 * **Courtesy**
-    * No negativity, not be the victim and be open. It can help with all of your messages.
+    * No negativity, not be the victim and be open. It can help with all of your messages and don't forget to send it at the right time during the day.
 * **Clearness**
     * The message need to be understood not for the amount of words or the quality of the language but for the context. Putting the proof before the conclusion is the TED way or inductive reasoning.
 * **Correctness**
@@ -218,6 +220,34 @@ Every culture has differences but there are few rules that apply for everyone.
 * Hangouts/Hangouts Meet/Zoom/Jitsi: it’s useful online for video meetings but remember it allows a maximum of 10 people on the free plan
 * IRC: it’s the classic solution on open source to chat but for the new generation and for the mobile world it’s too difficult to configure and understand
 * Matrix/Slack-like: it is a IRC 2.0 that may improve the organization in groups of people and usually a bridge between IRC and Telegram can improve the migration. Slack have problems on onboarding new people because the free plan is very limited to 10000 messages (also on private groups and is very easy to reach that). It is not open source and there are many alternatives without that problem. This tools, like Telegram or Matrix have integrations such as bots.
-* Mailing list: like irc they can be annoying but used for the marketing part they work very well
+* Mailing list: like IRC they can be annoying and noisy, but some communities still use and it is not possible to avoid them, but you can get answers more easily as a lot of people are following them
 * Discourse or forum: with a modern interface they work very well with notification and other stuff
 * Collaborative Documents: they are important to work together on a plan. Etherpad in the open source world are the best, but they are very poor in features like: comments or suggest changes, notification and classic features of a text editor. Usually Google Docs are used, covering all those features but the urls are very complicated and some people don’t like that because they are not open source.
+
+## How to do a roadmap
+
+### Briefing
+
+Objectives and Key Results, is a decision framework to improve the group working and define what is the result that you are trying to achieve.
+
+When you have an OKR (like to grow the followers in 3 months or write a new set of documentation pages etc...) the first thing that you have to do is what you want to achieve personally.  
+Take an example: at the end of the quarter I will reach out to all the team leaders with a survey to introduce something new that in the meantime I will work on.
+The first thing is gathering the resources that you need to move to your final goal.  
+Without you cannot start on prepare the plan, so an overview about documents, contacts, tools etc. is important to see if something is missing.  
+The next step is to understand if what you have is enough or need to be improved and based on the resource itself give to them different priorities and assign tasks to other people (as example).  
+
+### Document Structure
+
+When you have an idea of what you already have, you can work on what is missing.  
+The usual structure of the document to help you to do the various tasks and the final proposal is:  
+
+* Recap the actual status in the document as reference for others (this will help you during reviews as example)
+* Analysis of what to change with details and explanation (add also user cases)
+* Do a final proposal that is a recap in a bullet list (this simplifies for feedback and for the others to remember the various tasks/difference)
+
+### Workflow
+
+When you have your proposal but also during the writing you will have tasks to do, like gathering the resources etc.  
+The best way is to track everything somewhere and in your plan (that is private to the leaders maybe) write all the various tasks.  
+
+From a big task, is better to create various little tasks so you can track your progress more easily and see what is happening.  

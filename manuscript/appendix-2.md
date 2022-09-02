@@ -213,4 +213,4 @@ Let’s see which are the best rules for this task (helpful also on preparing a 
 PS: Keep a copy of your bio for the future, it’s boring to write your life every time.  
 Three version as one sentence, medium version and long version.
 
-Also, refresh them every year to update about your actual interests.
+Also, refresh them every year to update about your actual interests. Don't forget to check [Developer Advocacy](https://developer-advocacy.com/)!

@@ -1,6 +1,7 @@
 -# Documentation! Documentation! Documentation!
 
 Maybe it's not clear, [documenting is very important](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) even if it is boring.  
+It is so important that after Google Summer of code there is also [Season of Docs](https://developers.google.com/season-of-docs) to support project to help to build... their documentation!  
 You have no idea how much it may be powerful to document and allow for these resources to be used from everyone.  
 You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI or the logo changes (I am talking to you Mozilla) and because of your story you need to be the Master.  
 You have to stop making the things worse, before the new logo change or the new motto to be ready, moving on your hobbits to the next fatigue and making everything better.
@@ -50,7 +51,7 @@ Every social campaign requires different digital assets to the organizers, here 
    * Provide images only when they are localized
    * Provide posters for offline events
 * Talk
-   * Provide talks made by the community in Italian in powerpoint to review all together, by using Google Documents it's possible to work together more quickly
+   * Provide talks made by the community in Italian in powerpoint (to avoid file formats issues but you can use ODP with LibreOffice of course) to review all together, by using Google Documents (as now Collabora Online is not so performing and publicly available) it's possible to work together more quickly
    * For the event get always a PDF version to avoid issues
    * Evaluate topics that fit better with the local necessities to use along the main topic
    * Create different levels based on the various knowledge for the audience or speakers

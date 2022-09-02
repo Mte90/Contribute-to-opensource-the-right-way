@@ -2,7 +2,7 @@
 
 ## What is the future of the open source world in the next years?
 
-Open source was a scary topic years ago, they used to see you as an amateur. This is a fake new today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
+Open source was a scary topic years ago, they used to see you as an amateur. This is fake news today, it is also that but not always. Only because it is free doesn’t imply that it’s an amateur thing but it can be a good alternative.  
 Do you know Volvo invented the seat belts but the patent was set up as free to use for all to improve the security for everyone?  
 I think we need people to discover how the open world changed everything already. For example, we could grant them the opportunities to participate during a time slot in their working hours.
 
@@ -41,6 +41,8 @@ It is cool to get the source code but is quite useless if it is not possible to 
 Today with the cloud we need to understand that the code access is enough to be open.  
 [Frank Karlitschek](https://karlitschek.de/2019/08/open-source-if-more-than-licenses/) (the creator of Owncloud and Nextcloud) explained very well the issue. The 4 freedoms were created when the computer in the home was the unique way to access a software, now with cloud and mobiles there are different kinds of resources. Access to the code was enough to get Digital freedom, but now it isn’t anymore. Our data are not anymore our files but also our interests, our photos and so on.  
 
+Also, the [Open Source Initiative is evolving](https://opensource.org/sites/default/files/public/2021-OSI-AnnualReport-final.pdf), and now the membership is not only paid, in this way they tripled their members (500/2000) and improved their workflow on evaluating licenses. To reach more people and improve the awareness it is important to go out on our bubble.
+
 Open source is for me when:
 
 * The code is open source
@@ -68,7 +70,7 @@ Communicating better and being more friendly in everything (the purpose of this 
 The legend that “if it is on all the billboards it means it is good” is not true. The high competition in the digital world changed everything.  
 
 We can promote it without money, if we make that together and if the project provides the promotional materials.  
-In this case not graphics assets or gadgets but data to share. The scandals of the last years with social networks have exposed the fact that data are the new currency that if used the right way may also change an election, so le’ts figure out how to use it to promote the open philosophy better.  
+In this case not graphics assets or gadgets but data to share. The scandals of the last years with social networks have exposed the fact that data are the new currency that if used the right way may also change an election, so let's figure out how to use it to promote the open philosophy better.  
 Not only the machine wants data but also people because we are in the world where facts don’t matter and only real data, a lot of it, can change this bias.  
 
 Open source needs more marketers, a sector that often isn’t involved in open source because they don’t care (maybe) but it’s a fact that we need them.
@@ -81,11 +83,67 @@ As we saw in this book Open Source doesn't mean just release the code but let pe
 A real example of this is the release of the source code of an indie game, VVVVV that was announced as "VVVVV goes Open Source" but the project didn't had a good license so it was forced to change the announcement with "source code release". There is the [original blog post announcement](https://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/) with all the blog post comments but with a research is possible to find also various tweets and discussions about this misunderstanding.  
 So the code or the core of the project publicly available is not enough because you can only read it, as the legal definition of that is a proprietary project. Without a license that explain how you are allowed to use it is not possible to do anything. Think about of Doom or Duke Nukem open source releases and how they changed the world, also other games that released piece of that letting creating of new games or create new technologies.  
 
-The other point is the promotion, with GitHub a new issues awaken, someone start a project, release the project with a license and so on. At a certain time the owner is no online anymore or interested on working with that and the project became an abandonware. So a new developer take it with the creation of a fork, the problem is that for the rest of the world maybe this new hope is unknown. All the links and information refer to the original that is abandoned so no one will find the fork. Like a Jedi need to master the force and knows all the aspects of that, also with a release public you need to be ready about what means.
+The other point is the promotion, with GitHub/GitLab a new issues awaken, someone start a project, release the project with a license and so on. At a certain time the owner is no online anymore or interested on working with that and the project became an abandonware. So a new developer take it with the creation of a fork, the problem is that for the rest of the world maybe this new hope is unknown. All the links and information refer to the original that is abandoned so no one will find the fork. Like a Jedi need to master the force and knows all the aspects of that, also with a release public you need to be ready about what means.
+
+![Offering also the best solution to involve and contributing is important to succeed - https://twitter.com/CarlKDE/status/1387754944678215682](images/extra/tweet-kde.png)
+
+Often the best solution is the one that the maintainers or veteran think it is the best, but with new technologies there are new solution that simplify various task that for new people can be very difficult to do.
 
 Personally when I find abandoned project I ask for updates or looking for a new maintainer but often is very difficult to get an answers. Pinging on Twitter or other social media (not everyone publishes their private email address) so the joy of contributing or access to nice things crash against a Death Star, that is the oblivion of the abandon.
 
-So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.
+So we need to evangelist better this fact and explain that the code is just a piece of the brand and the meaning of the project.  
+
+I don't want to forget also that FOSS is not just promotion. With fediverse and new people discovering this world I see more people that want to do promotion, but it is something that we need after all? In this book I talked a lot about communication and promotion, at the same time there is promotion that change things and promotion that is useless or not working.  
+The project need it but often is more important instead to be one of the fan in the stand to be the player in the game, maybe not the player but maybe the coach or the doctor.
+
+## The Italian case
+
+I am writing this section in English, but is focused on the Italian situation about digitization and awareness about digital matters.  
+
+![Italy is one of the most decentralized country in the world](images/extra/italy.jpg)  
+
+As you can see this is the real situation, with people that is not gathered mainly in big cities like it happens in other countries. This open to various discussions and different situations about how to evangelize or digitalize a fragmented country.
+
+In Italy, the Covid period was one of the biggest reasons for upgrading or understand that digitization is something that improve the life/work quality (like in other part of the world). The real difference (to me) is that involved a lot of the public administration that was always very slow on updating itself but also on the knowledge of the public employees that now were forced to learn a bit about how to use the computer, not just to play Solitaire.  
+
+Open data are matters of various association as they are not easily public as digital rights for Italian government propriety like the Colosseum or also [The Good Lobby project](https://www.thegoodlobby.it/campagne/) for sign petitions about various topics from privacy to digital rights. Let's split in two different paragraphs.  
+
+[Open data in Italy](https://dati.gov.it/) have various issues from the license and the quality of them (when they are available), in fact [DatibeneComune compaign](https://www.datibenecomune.it/) with 58110 signers and 287 organization works on improving this with a monthly newsletter that will keep you updated about what they are doing. The Government now opened the discussion to the [Open Data guidelines](https://www.datibenecomune.it/2022/07/18/datibenecomune-ha-scelto-di-prendere-parte-alla-consultazione-sulle-linee-guida-open-data/) that is like the first time that something like this is happening (at same time the bigger Italian association for Open Data promotion written a [guide about legal aspects on the topic](https://ondata.github.io/aspetti-legali-opendata/)).
+
+The [Freedom of panorama in Italy](https://en.wikipedia.org/wiki/Freedom_of_panorama#Italy) doesn't exist even though we are famous for tourism. Based on a 1941 law we are locked to a definition that says that photographic reproductions of public space are allowed if not create competition against the economic values of the object. This creates issues on Wikipedia side as it is not possible to make certain photos to the [Pisa Tower](https://en.wikipedia.org/wiki/Pisa_Tower) or [Castel Del Monte](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) and publish it under a Creative Commons license, if there isn't any act that allow for any of them. The recent European law about copyright didn't help on pushing changes to this law and every year for the Wiki Loves Monuments (global photographic competition) for every local public government they send a request with a list of monuments.
+
+From the software side instead, since the born of the [Italian Digital transformation team](https://teamdigitale.governo.it/en/), various things have changed. Not just the [Official Forum](https://forum.italia.it/) but also the procedure on what they are doing with [GitHub](https://github.com/italia/) (278 repositories at the time of writing). Including a webpage [Come Partecipo](https://come-partecipo.italia.it/) to find projects to contribute to, that is based on [What I can do for Mozilla](https://whatcanidoformozilla.org/).  
+There are public projects like templates for WordPress, Guidelines (with web version on ReadTheDocs), mobile apps, SDK, design kits and others.  
+
+This was something that 5 years ago maybe for a Hard Sci-Fi author was impossible to think of. Like also the fresh news that [Inps, Inal and Istat are working together to create in 2023 a unique software house for their need](https://www.wired.it/article/inps-inail-e-istat-stanno-fondando-una-software-house/) (INPS is the national institute for retirement, Inail the national institute for work injuries and Istat the national institute for statistics).
+
+Two things are very interesting for the purpose of this book about what they are doing.
+
+### PublicCode.yml standard
+
+`
+A metadata description standard for public software that is easy to use both for developers and people with less technical background in order to make the software developed by Public Administrations and Public Organizations easily discoverable. 
+`
+
+In few words, a file that you can put in your git repository that is like an identity card that allow to index it with references to the maintainer and dependencies.  
+The idea is to improve the discoverability and if that project is suitable for a public administration and to use the standard also in other countries.
+
+## Catalogo del software di Riuso
+
+That in English "Reuse Software catalog" that Italian public administration can use it. Like every big organization not only departments don't talk to each other, but also cities or region, but they have often the same needs, so why develop the same software multiple times?
+
+This is the idea at the end, a way for public administration where often managers have not so much knowledge on IT to find software already available and open source developed by themselves or by others like LibreOffice for example.  
+
+This project uses the standard we saw to fetch the software list, but the website is more friendly as it includes more information, not just a description but people that you can reach to ask questions. It is something that for a bureaucratic organization is important and that in OSS is often ignored.  
+After all, if you are maintaining a project you don't want that people reach you for questions about if the software can do this or that, or if you can implement something just for them. Especially if it is someone that maybe will pay you...
+
+This is an example about how to improve the awareness for organization that is not like the usual software alternative list, because it can give more information that are valuable to the people in charge of decisions. 
+
+In a first world country there are limitations or issues like elsewhere but it is important to see that internet, public awareness and young people are changing the situation. Also, if the [Italian case](https://profilo.forumpa.it/doc/?file=2021/2021_FPA_Data_Insight_Lavoro_pubblico_2021.pdf&confirm=yes) seems that in the public government the people under 30 years old is the 4%. Especially in [School institution the age average is the 58% is over 50](https://www.truenumbers.it/eta-degli-insegnanti/) but in Ocse countries is the 35%.
+
+I know people in Italian universities that still asks questions about Floppy disks to students of psychology for example or that teach using computer with very old operative systems because the professors don't know how to use the modern ones.
+
+The open source awareness let us spread all those ideas and change the situation, takes a lot of time, but gathering various pieces we are getting something. To do this changes is not required evangelism, but also facts like what I am saying. Not just "Ehi that city migrated to Libreoffice" but people that do things, develop software and explain things in a way that the [listeners can understand it](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/2022-05/index.html) (Like the Italian guide by the Digital team for managers to understand OSS and how it affects them). Maybe with a catalog with unusual information or showing the issues on various laws.
 
 ## Thanks
 
@@ -102,10 +160,9 @@ My experience level couldn't be as it is now without the help of a lot of people
 
 * Mozilla community for all the things that they taught me, for all the things that I did there, and all the opportunities that I got. Just to mention few people: Michael Kohler, Konstantina Papadea, Ruben Martin, Elio Qoshi, Andre Garzia, Michael Ellis, Anthony Maton, Yofie Setiawan, Irvin Chen, Christos Bacharakis, Tim Maks Van De Broek, Ioana Chiorean, Henrik Mitsch, Ankit Gadgil, Francisco Picolini, Brian King, Havi Hoffman, Jean-Yves Perrier, Catlin Neiman, Emma Irwin, Alex Lakatos.
 * Mozilla Italia community members for their involvement in the community itself and for what we achieved in the years, together: Sara, Saverio, Giovanni, Edoardo, Eugenio, Michele, Simone, Damiano, Gabriele, Stefania, Aronne, Niccolò, Francesco.
-* The founders (Marco and Vincenzo) of Industria Italiana del Software Libero, may our idea to create a national group of IT professionals in Italy be an achievable dream and not only a group of friends (Also Emilio, Stefano and Giancarlo).
 * WordPress community, even with all the issues I have with the actual project management I am still involved because I trust the people more than the project itself (now).
 * To all the other people in other communities that it’s always a pleasure to meet and chat with: Italo Vignoli, Enio Gemmo, Giordano Alborghetti, Gabriele Ponzo, Gianfranco Buttu, Roberto Guido, Marina Latini, Saverio Giulio Malatesta, Emiliano Valvassori, Dario Cavedon, Fabio Pietrosanti, Luca Martinelli.
-* All the reviewers for their time and lots of patience on finding English mistakes and suggesting new things that I forgot: Rizki D Kelimutu, Marco Lombardo, Elisabetta Carrara, Konstantina Papadea, Michele Nasti, Takeshi Hamasaki, Stefano Cassone, André Jaenisch.
+* All the reviewers for their time and lots of patience on finding English mistakes and suggesting new things that I forgot: Rizki D Kelimutu, Marco Lombardo, Elisabetta Carrara, Konstantina Papadea, Michele Nasti, Takeshi Hamasaki, Stefano Cassone, André Jaenisch (twice), Valerio Bozzolan.
 
 ## Books that you need to read
 
@@ -130,3 +187,5 @@ My experience level couldn't be as it is now without the help of a lot of people
 * [Mozilla Contributor Research 2017](https://mzl.la/whyopensource)
 * [Mozilla Open Strategy 2018](https://mzl.la/openstrategy)
 * [Mozilla Contributor's Communities 2019](https://report.mozilla.community/)
+* [Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
+* [Producing Open Source Software: How to Run a Successful Free Software Project (SVN)](https://producingoss.com/)
