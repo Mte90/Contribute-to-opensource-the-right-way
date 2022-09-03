@@ -7,7 +7,7 @@ I already said *open source*? And that's **free**?
 
 ## Description
 
-Open Source is a trending topic today but how you can learned all or some of the skills required to create or contribute to a project opened to the world? This book is my experience in the last 12 years, what I learn and what are the best practice from someone in the field.
+Open Source is a trending topic today but how can you learn all or some of the skills required to create or contribute to a project opened to the world? This book is my experience in the last 12 years, what I learn and what are the best practice from someone in the field.
 
 ## Teaser
 

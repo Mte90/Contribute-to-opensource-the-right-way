@@ -5,7 +5,7 @@ I also hope to be inspirational and show new ways to approach the technology and
 
 ## Let's start with the flashback!
 I was born in 1990 in Rieti (Latium, Italy), a little city famous because is the `Umbilicus Italiae` (this is Latin and means the belly button of Italy), basically the center of Italy.  
-The city is near Rome, Terni and Aquila and apart from the name is famous all over the world for [The Rape of the Sabine Women](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women). The legend is that when Rome was founded there wasn't sufficient women for the citizen so they kidnapped there/around. This story was famous because many artists during the Renaissance used it as theme for their arts.  
+The city is near Rome, Terni and Aquila and apart from the name is famous all over the world for [The Rape of the Sabine Women](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women). The legend is that when Rome was founded there weren't sufficient women for the citizen so they kidnapped there/around. This story was famous because many artists during the Renaissance used it as theme for their arts.  
 
 I think we are more famous for the Porchetta (food) and Lucio Battisti (singer who also made stuff in Spanish, English, French and German), and San Francis that moved in Rieti and built various sanctuaries and the first nativity in Greccio.
 
