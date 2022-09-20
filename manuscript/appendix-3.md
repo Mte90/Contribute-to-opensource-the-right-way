@@ -48,7 +48,7 @@ Conventions are your workflow or the community convention on tasks, that you nee
 
 ## Motivate your mentees
 
-The volunteers need to be motivated in their activities so don’t forget to ask feedback on the activityitself about:
+The volunteers need to be motivated in their activities so don’t forget to ask feedback on the activity itself about:
 
 * What works? What doesn’t?
 * What would you like to do?

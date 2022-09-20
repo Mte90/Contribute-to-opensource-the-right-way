@@ -69,7 +69,7 @@ At the same time can be important to have a moment during the meeting for open f
 
 The new volunteers need to participate to feel a part of a big team so is useful to do one monthly, biweekly or weekly meeting about the status.  
 When you are working on a specific project you can organize other meetings with their plan and specific people.  
-It’s important the timing of meeting is chosen gathering team’s availability, and remains almost unchanges during the iterations to avoid issues.  
+It’s important the timing of meeting is chosen gathering team’s availability, and remains almost unchanged during the iterations to avoid issues.  
 There are 3 type of meeting:
 
 * Live meeting: meeting people in real life it’s important but you always need an agenda with very strict timings
