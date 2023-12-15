@@ -195,7 +195,7 @@ A great idea that today has failed to explode as we thought, also because we are
 
 ![Article from Italian newspaper with also my interview about the Italian Digital team](images/1/italia.jpg)
 
-I say it because in 2018 I became the president of the association and after a few years I can see the issues in a world that transform itself too much quickly.  
+I say it because in 2018 I became the president of the association and after a few years I can see the issues in a world that transforms itself too much quickly.  
 
 Let's think a moment together, in 2019 the open source world is not as strange and dark as 5 or 10 years before.  
 The world is paying more and more attention to the opportunities of these technologies (except the Italian government in the various cities) but I see the big problem: to contribute.  
@@ -218,7 +218,7 @@ On April 2021, I was elected in the [Italian Linux Society](https://www.ils.org/
 I put my experience like in these ebooks to improve various websites we offer like [Planet.Linux.it](https://planet.linux.it/eventi/) with a new calendar and ICS/RSS feeds divided as national or by regions to find the nearest events to you about open source, so not just LUGs but also from meetup and national communities.  
 Or a whole series of tiny/easy guides to contribute to [Open Source projects from your smartphone/computer in 5 minutes](https://www.linux.it/todo/attivita/), not just using an open alternative app.
 
-In April 2022, I joined the Italian community behind [/r/place, and it was an interesting experience](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) in something that last few days but purely online.
+In April 2022, I joined the Italian community behind [/r/place, and it was an interesting experience](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) in something that lasts few days but purely online.
 
 # Conclusion
 
@@ -246,7 +246,7 @@ Open source allowed me to:
 A lot of very useful things for work but also for personal life, the fact is I did everything for... fun!  
 
 X> Your turn
-X> I want you repeat the same flow of thoughts as I did on writing this chapter.  
+X> I want you to repeat the same flow of thoughts as I did on writing this chapter.  
 X> Take 2 analogic tools, a pen and a paper and write on that:
 X>
 X>  * The first time that you participated in an open source project

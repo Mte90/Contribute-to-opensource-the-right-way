@@ -3,7 +3,7 @@
 Maybe it's not clear, [documenting is very important](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) even if it is boring.  
 It is so important that after Google Summer of code there is also [Season of Docs](https://developers.google.com/season-of-docs) to support project to help to build... their documentation!  
 You have no idea how much it may be powerful to document and allow for these resources to be used from everyone.  
-You need to leave the environment better compared to before, you are the veteran, the one survived to the war about the new UI or the logo changes (I am talking to you Mozilla) and because of your story you need to be the Master.  
+You need to leave the environment better than before, you are the veteran, the one survived to the war about the new UI or the logo changes (I am talking to you Mozilla) and because of your story you need to be the Master.  
 You have to stop making the things worse, before the new logo change or the new motto to be ready, moving on your hobbits to the next fatigue and making everything better.
 
 Probably too much cinematic but I think you got the point, before performing better than what we have now you have to stop things from getting worse.  
@@ -66,8 +66,8 @@ To create a team you need to specify the various roles to work all together and 
 * Graphics
    * A person or more that can prepare the resources in your language
 * Social
-   * A person or more than schedule the messages
-   * Remember the url shortner 
+   * A person or more, than schedule the messages
+   * Remember the url shortener 
    * Keep track of the statistics from the start to the end
 * Event
    * A person to reference to for help on preparing the schedule for the various event organizers
@@ -87,7 +87,7 @@ A social campaign can also include live events:
 * Why they joined the project?
 * Define what are the volunteers interests
 
-With those questions we have different Personas to start discussing and see which ones are missing.
+With those questions we have different people to start discussing and see which ones are missing.
 
 * Categorize the volunteer types
 * Define their usual workflow
@@ -97,9 +97,9 @@ Next steps:
 * What you can do to improve this workflow?
 * Which new activities can be interested for them?
 * Which activities are missing the participation of new volunteers?
-* Which are the broken part of the onboarding? (resources on the website, getting accounts to platforms and so on)
+* Which are the broken parts of the onboarding? (resources on the website, getting accounts to platforms and so on)
 
 # Conclusion
 
 Take this chapter as inspirational for you to start writing documentation about community management but also on other things. Write the most stupid things too but write them, the next one that is going to replace you probably won't know everything.  
-Instead if you are interested on discover how to write documentation from the language or the style there is [this guide by Google](https://developers.google.com/style).
+Instead, if you are interested on discover how to write documentation from the language or the style, there is [this guide by Google](https://developers.google.com/style).
