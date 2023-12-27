@@ -87,7 +87,7 @@ A social campaign can also include live events:
 * Why they joined the project?
 * Define what are the volunteers interests
 
-With those questions we have different people to start discussing and see which ones are missing.
+With those questions we have different "Personas" to start discussing and see which ones are missing.
 
 * Categorize the volunteer types
 * Define their usual workflow
