@@ -62,7 +62,7 @@ The rules are:
 * Don’t be defensive or against feedback but document all them, because they can help in the future in a manner that you don’t imagine now.
 * Reach out often to the mentee or you will lose the volunteer, so get in touch twice a month is the best timing initially (to not become annoying).
 
-Remember that feedbacks are not useful to improve only the activity/project but also yourself, to learn how to ask the right question in the right moment.  
+Remember that feedback are not useful to improve only the activity/project but also yourself, to learn how to ask the right question in the right moment.  
 Every feedback needs to be explained to understand what is going on, yes or no are not enough.  
 Basically without context everything can be misconfused from everyone.
 
