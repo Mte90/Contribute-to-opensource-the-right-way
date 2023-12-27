@@ -1,60 +1,60 @@
 -# My (open source) story
 
 I want to start with a chapter about me to let you understand the rest of the book (or the book itself).  
-I also hope to be inspirational and show new ways to approach the technology and open source philosophy.  
+I also hope to be inspirational and to show new ways to approach the technology and open source philosophy.  
 
 ## Let's start with the flashback!
-I was born in 1990 in Rieti (Latium, Italy), a little city famous because is the `Umbilicus Italiae` (this is Latin and means the belly button of Italy), basically the center of Italy.  
-The city is near Rome, Terni and Aquila and apart from the name is famous all over the world for [The Rape of the Sabine Women](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women). The legend is that when Rome was founded there weren't sufficient women for the citizen so they kidnapped there/around. This story was famous because many artists during the Renaissance used it as theme for their arts.  
+I was born in 1990 in Rieti (Latium, Italy), a little city famous because it's the `Umbilicus Italiae` (this is Latin and means the belly button of Italy), basically the center of Italy.  
+The city is near Rome, Terni and Aquila and apart from the name is famous all over the world for [The Rape of the Sabine Women](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women). The legend is that when Rome was founded, there weren't sufficient women for the citizens so they kidnapped there/around. This story was famous because many artists during the Renaissance used it as theme for their arts.  
 
 I think we are more famous for the Porchetta (food) and Lucio Battisti (singer who also made stuff in Spanish, English, French and German), and San Francis that moved in Rieti and built various sanctuaries and the first nativity in Greccio.
 
-On 1990, the year of "Home Alone", my grandmother said that as kid I was similar to that child, anyway I think I have grown a little better without thiefs trying to break in my home.  
+On 1990, the year of "Home Alone", my grandmother said that as a kid I was similar to that child, anyway I think I have grown a little better without thiefs trying to break in my home.  
 
 ![A footage that I did for my 25 years](images/1/25.jpg)  
 
 I really like the Open Source world and this has created many problems because I joined many communities, I contributed to different projects, joined many events and sometimes this creates confusion about my role.  
-In my personal life I like to collect comics Italian, European and American, I have a large library with many comics in my room.  
-My passion about Open Source (or activism) is not clear to my friends because it doesn't revolve around sport (especially soccer that I hate a lot) and in Italy it seems that if you aren't interested in following sports (or practicing them) you are like a loser. Anyway this create issues with my friends that doesn't know what I do for living or why I travel a lot.
+In my personal life I like to collect Italian, European and American comics, I have a large library with many comics in my room.  
+My passion about Open Source (or activism) is not clear to my friends because it doesn't revolve around sport (especially soccer that I hate a lot) and in Italy it seems that, if you aren't interested in following sports (or practicing them), you are like a loser. Anyway this create issues with my friends that don't know what I do for living or why I travel a lot.
 
-This is probably the first reason why I am so easy to get involved, because what I do in Open Source has a real effect on the world and people, compared to this kind of interest that for me is not productive.  
+This is probably the first reason why I am so easy to get involved, because what I do in Open Source has a real effect on the world and the people, compared to this kind of interest that for me is not productive.  
 
-I attended the “Liceo Scientifico Tecnologico” (in Italy the school differs from the others, we have different schools based on the topics), completed in 2009 at "ITI Celestino Rosatelli" in Rieti with 68/100 as a final score of 5 years (thanks to the math that lowered my score), I did a little thesis (it's quite common in Italy for the final exam in high school) and I was only one in a class of 27 people, I even took the laptop (purchased in 2006) for a demo on Lissajouss graphs on Windows XP virtualized on Sidux (the Linux distribution based on Debian Sid, that is now dead).  
-I started to use Linux on my personal laptop just before the end of the school but I was distributing my dev projects online (with sources already).  
+I attended the “Liceo Scientifico Tecnologico” (in Italy the school differs from the others, we have different schools based on the topics), completed in 2009 at "ITI Celestino Rosatelli" in Rieti with 68/100 as a final score of 5 years (thanks to math that lowered my score), I did a little thesis (it's quite common in Italy for the final exam in high school) and I was only one in a class of 27 people, I even took the laptop (purchased in 2006) for a demo on Lissajouss graphs on Windows XP virtualized on Sidux (the Linux distribution based on Debian Sid, that is now dead).  
+I started to use Linux on my personal laptop just before the end of the school, but I was distributing my dev projects online (with sources already).  
 I started to develop in 2006, just before starting the third year of high school, where we finally should start to develop with Visual Basic 6. The school switched to more new technologies like Windows XP (we were using Windows 98) and .NET framework (was using that already).
 I was very thrilled from starting to develop that in the year 2006, I was already doing my first internet websites with HTML4. At the time my data source was the local public library and the IT magazines.  
 
 ![My first book about web development](images/1/libro-xhtml.jpg)  
 
 My very first website was about the Dragon Ball anime that I maintained until 2009 and this allowed me to learn and discover the web development after the desktop development.  
-Meanwhile if I wanted to use internet I had to be good at school (you know get good votes). In the house we had ADSL that was hour based for the price, so I usually got 1 or 2 hours at week. In other words I had a paper with me every day with the list of stuff to check or download that I filled every week to use internet.  
+Meanwhile if I wanted to use internet I had to be good at school (you know get good votes). In the house we had ADSL that was hour-based for the price, so I usually got 1 or 2 hours at week. In other words I had a paper with me every day with the list of stuff to check or download that I filled every week to use internet.  
 Something incredible compared with today!  
 
 I remember when my father got frightened because I was taking part online in forums or by chat (MSN or IRC) with people that I had never met. I started in this period to use my nickname `Mte90`, created in 2002/2003 and still using it. That is why people meeting me at events think my name is Matteo.  
 
-Anyway I was developing my software during the school times, based on my needs, this is the first reason I think everyone needs to start from a personal need, to get motivation for everything.  
+Anyway I was developing my software during the school times, based on my needs, this is the first reason I think everyone needs to start from a personal need to get motivation for everything.  
 I am still using this approach when I need to learn something new, I don't study because someone told me, but because I need it. A different approach to school, work and life that helps you optimize but also stay motivated, because after all there is a real reason.  
 So to explain what I am doing or what I am learning to others, because what's useful for me may be also for others. That even before discovering the open source world.  
 
 ![2014 in Pordenone](images/1/sbarbatello.jpg)  
 
-For me internet was the first way to meet people like me (I still love forums) to work on my projects or discuss.  
+For me internet was the first way to meet people like me (I still love forums), to work on my projects or discuss.  
 In 2009 after the school I had to choose what to do with my life. A question that all the young people often face, my choice was very simple: work with computers (without math).   
 Something clearly impossible at that time, it was a like an elitarian job, because there was this idea that to be good at computer you needed to be good at math i.e. on remembering formulas or calculating algorithms.  
 
 I chose to go to L'Aquila and take a university course at the Academy of Fine Arts on Web Design. After all I liked to work with websites, so I was easily getting the piece of paper (my parents were longing for).  
-For non-italians, 2009 was the year of the big earthquake with 309 dead and that course never started, so I took a sabbatical year working at the family's shop in the morning and doing a work stage in an IT company in the afternoon for 6 months.  
+For non-italians, 2009 was the year of the big earthquake with 309 deaths and that course never started, so I took a sabbatical year working at the family's shop in the morning and doing a work stage in an IT company in the afternoon for 6 months.  
 My tasks were to install antennas for internet, configure web servers, install or fix computers; while at the shop I was learning how to talk with customers and how does a company works, at only 19 years old.  
 
 I> 2010 was the last year I developed on Windows when I did that work phase, where I valued Linux a lot more.  
 
-Finished this year (later I worked only at the family's shop) in the position to gain the this piece of paper, that as of today is useless. I removed the reference on Linkedin and I don't want to mention the school or the course I attended for years about web/digital stuff in Rome (basically only Adobe-boring stuff).  
+Finished this year (later I worked only at the family's shop) in the position to gain the piece of paper, that as of today is useless. I removed the reference on Linkedin and I don't want to mention the school or the course I attended for years about web/digital stuff in Rome (basically only Adobe-boring stuff).  
 
 ![My first real video game... in Flash](images/1/cakefactory.png)  
 
-So in the 2012, when people started to call me "Linux" I started working as a freelance.
+So in the 2012, when people started to call me "Linux", I started working as a freelance.
 Up to 2015 where I founded a Web Agency in Rome with two friends and as of today we are still doing open source development and web sites/application development.  
-In our company statute is written that we have to use 50% of our time on contributing to open source technologies (a big idea of Eugenio).  
+In our company statute it's written that we have to use 50% of our time on contributing to open source technologies (a big idea of Eugenio).  
 After 4 years we are still doing stuff but we are only two people now. With a lot of other topics to discuss in next chapters, I hope I am not being boring (hate that) and to be able to show you the key points informing my interest in this industry.  
 
 ## How I started to contribute to open source projects
@@ -195,7 +195,7 @@ A great idea that today has failed to explode as we thought, also because we are
 
 ![Article from Italian newspaper with also my interview about the Italian Digital team](images/1/italia.jpg)
 
-I say it because in 2018 I became the president of the association and after a few years I can see the issues in a world that transform itself too much quickly.  
+I say it because in 2018 I became the president of the association and after a few years I can see the issues in a world that transforms itself too much quickly.  
 
 Let's think a moment together, in 2019 the open source world is not as strange and dark as 5 or 10 years before.  
 The world is paying more and more attention to the opportunities of these technologies (except the Italian government in the various cities) but I see the big problem: to contribute.  
@@ -218,7 +218,7 @@ On April 2021, I was elected in the [Italian Linux Society](https://www.ils.org/
 I put my experience like in these ebooks to improve various websites we offer like [Planet.Linux.it](https://planet.linux.it/eventi/) with a new calendar and ICS/RSS feeds divided as national or by regions to find the nearest events to you about open source, so not just LUGs but also from meetup and national communities.  
 Or a whole series of tiny/easy guides to contribute to [Open Source projects from your smartphone/computer in 5 minutes](https://www.linux.it/todo/attivita/), not just using an open alternative app.
 
-In April 2022, I joined the Italian community behind [/r/place, and it was an interesting experience](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) in something that last few days but purely online.
+In April 2022, I joined the Italian community behind [/r/place, and it was an interesting experience](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) in something that lasts few days but purely online.
 
 # Conclusion
 
@@ -246,7 +246,7 @@ Open source allowed me to:
 A lot of very useful things for work but also for personal life, the fact is I did everything for... fun!  
 
 X> Your turn
-X> I want you repeat the same flow of thoughts as I did on writing this chapter.  
+X> I want you to repeat the same flow of thoughts as I did on writing this chapter.  
 X> Take 2 analogic tools, a pen and a paper and write on that:
 X>
 X>  * The first time that you participated in an open source project

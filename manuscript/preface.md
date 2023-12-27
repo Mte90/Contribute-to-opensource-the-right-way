@@ -8,17 +8,17 @@ This is not my first rodeo. I have written technical books before. This time, th
 
 ## What you will find
 
-The book follows my mind flow from why and how I started and what I learned, based on my lectures (books or online articles) but also a lot of experience, in few words this is my view about the topic.  
+The book follows my mindflow from why and how I started and what I learned, based on my lectures (books or online articles) but also a lot of experience, in a few words this is my view about the topic.  
 In this way you have a (big) tutorial in the open source life to individually create your path.  
 There will be memes (I love them) and funny images like my writing style on the blog or talks, because this book is written in an informal way.   
 If you want to read it because *I need to learn, make money and became famous* here you will find nothing for you, check on Udemy or somewhere else.  
 A person not engaged, not interested on the long term is already failing on contributing.
 
-One real example from the [Linux Kernel, a message by Qu Wenruo, with relative HackerNews discussion](https://news.ycombinator.com/item?id=27629366) shows us sometimes contributions are just a number. This number doesn't mean quality or can be a time-consuming task for maintainer (we will see in the book who they are). A company see a single change as a number but can be just a typo, that is good especially for newcomers as they are learning with something simple, but if you are a skilled person and you are doing it a lot with a single request for any change instead of a single one (so the changes amount that you did for the company grows) you are wasting the time for the maintainers to focus on more important things that can require their best attention.
+One real example from the [Linux Kernel, a message by Qu Wenruo, with relative HackerNews discussion](https://news.ycombinator.com/item?id=27629366) shows us sometimes contributions are just a number. This number doesn't mean quality or can be a time-consuming task for maintainerz (we will see in the book who they are). A company sees a single change as a number, but it can be just a typo, that is good especially for newcomers as they are learning with something simple, but if you are a skilled person and you are doing it a lot with a single request for any change instead of a single one (so the changes amount that you did for the company grows), you are wasting the time for the maintainers to focus on more important things that can require their best attention.
 
-The value is not in the contribution per se but for the contribution content, if you want really success in Open Source, and not just be a number a bit of ethic is important, as everything is public and not hidden behind a NDA/CLA (sometimes).
+The value is not in the contribution per se but for the contribution content, if you really want success in Open Source, and not be just a number, a bit of ethic is important, as everything is public and not hidden behind a NDA/CLA (sometimes).
 
-I> I like to generalize often in my thoughts and discussions. So this book can seems like that but is my way of thinking to simplify the issue or the discussion itself. As a developer is important to see the real problem and the frame but they don't need to be managed together. 
+I> I like to generalize often in my thoughts and discussions. So this book can seem like that, but is my way of thinking to simplify the issue or the discussion itself. As a developer it's important to see the real problem and the frame but they don't need to be managed together. 
 
 ## What are the hints of this book
 
@@ -26,15 +26,15 @@ Information, suggestions, procedure, workflow, best practices.
 It begins from the basic stuff to my (new) way of doing things and intro to do the first steps.  
 The technical terms will be explained (the first time) to help Newbies and non-tech people at their first approach to the matter.  
 The open world is *open* to everybody so this book will serve to explaining things.  
-It includes also a lot of links to external resources so you can give sources but also learn more about specific topic without going off topic with the book.  
-Also it is a way to give a bit of critical thinking about stuff and other point of view around open source, it is not so simple as you think!  
+It includes also a lot of links to external resources so you can give sources but also learn more about specific topics without going off topic with the book.  
+Also it is a way to give a bit of critical thinking about stuff and other points of view around open source, it is not so simple as you think!  
 See you at the index!
 
 ## License
 
 This book is licensed under the GPLv3 license because I like it, maybe not the best one for a book but is like a mention to remember how much this license changed the world.  
-Includes also memes (usually in bad quality) that are used freely following the [Article 13 of the EU Copyright Directive](https://eur-lex.europa.eu/eli/dir/2019/790/oj) that excludes them for the copyright.  
-Just to mention it, I made a tool called [GH-License](https://github.com/Mte90/GH-License) that help you to check if your repository include a license, if your repo on GitHub/Bitbucket/etc include it and to download automatically.  
+It includes also memes (usually in bad quality) that are used freely following the [Article 13 of the EU Copyright Directive](https://eur-lex.europa.eu/eli/dir/2019/790/oj) that excludes them for the copyright.  
+Just to mention it, I made a tool called [GH-License](https://github.com/Mte90/GH-License) that help you to check if your repository includes a license, if your repo on GitHub/Bitbucket/etc includes it and to download automatically.  
 
 Remember **a project that you can download with all the code doesn't mean that is open source** if doesn't include a license. Without a license is a proprietary project!
 
@@ -52,11 +52,11 @@ Original GIMP project file (.xcf) available on [GitHub](https://github.com/Mte90
 This book is written in Markdown using [ReText](https://github.com/retext-project/retext), released on [GitHub](https://github.com/Mte90/Contribute-to-opensource-the-right-way) and published to [leanpub.com](https://leanpub.com/contributetoopensource-therightway/).  
 The language was reviewed using [LanguageTool.org](https://languagetool.org/), [Grammark](https://grammark.org/dist/) and [Sed](https://www.gnu.org/software/sed/manual/html_node/index.html).
 
-An example of what means contribute to open source is part of this tools. When I written the first edition I did it with just ReText that has a big problem, also it has a tab UI when you open a new file from the file manager start a new instance, so I did a [patch that now is part of ReText](https://github.com/retext-project/retext/pull/476) that enable to use an unique instance. Working on this 3rd edition (after 3 years) with this improvement on was a pleasure compared to the first edition.
+An example of what means contribute to open source is part of this tools. When I wrote the first edition, I did it with just ReText that has a big problem, also it has a tab UI when you open a new file from the file manager start a new instance, so I did a [patch that now is part of ReText](https://github.com/retext-project/retext/pull/476) that enables to use an unique instance. Working on this 3rd edition (after 3 years) with this improvement on was a pleasure compared to the first edition.
 
 ## Legend
 
-With the *open source* term usually we refer to a lot of things, from software projects to others like open knowledge (as Wikipedia), so the term (*open* or *open source*) in this book as to be intended as a big view about the philosophy of the project itself and the approach of the community.
+With the *open source* term usually we refer to a lot of things, from software projects to others like open knowledge (as Wikipedia), so the term (*open* or *open source*) in this book has to be intended as a big view about the philosophy of the project itself and the approach of the community.
 
 ## Contacts
 
