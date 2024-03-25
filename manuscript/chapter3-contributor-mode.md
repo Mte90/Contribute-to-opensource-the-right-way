@@ -221,6 +221,8 @@ Scared about the tool?
 Often the tool is public, sometimes there is the fear of the public (like in public speaking) with the concern it would be permanent because it is written. I remember the first time I opened a ticket on Debian for an error on a software that I was using. I had a lot of anxiety because I had to use the email instead of a web interface, I was writing a ticket to one of the biggest Linux organizations in the world.  
 I was thinking along the lines of: "it's a stupid error", "maybe it's my fault because I don't know how to read documentation", "I am reporting to the wrong people, since it's the tool and not the distro", "maybe my report is lacking something important", or "it's poorly written and they will mock me for that".
 
+![How likely is it that my bug will get fixed from https://pointieststick.com/2023/07/16/where-bugfixes-and-new-features-come-from/](images/3/how-likely-is-it-that-my-bug-will-get-fixed.png)
+
 Basically I was joining the public circle of technicians that contribute to one of the most famous project in Linux, it was public and open but at the same time it was for a small elite. I took a breath, provided more information I could, verified it few times and sent it (without asking for help, all by myself).  
 I cannot recall what the ticket was about now, this isn't the point however; after that situation I had no more fear or anxiety. If I, an expert and skilled person, was to have them, it was easy to understand what newcomers feel in front of a form whatsoever (even when posing the simplest questions).
 
@@ -232,6 +234,10 @@ One of the common comments that I receive on tickets in my project as example is
 
 A key point to involve new volunteers if there are information about how to fix it, like a step by step about "what is missing to approve and close" so the ticket will not be abandoned for months because the status isn't clear. And again there will be a documentation of what is required to do.  
 On the other side, if someone opens a ticket, give them the clues to fix on their own and contribute back to the project. One example is giving them the lines and the files to patch, so they can open a pull request or suggest a new wording for the documentation.  
+
+![From reddit https://new.reddit.com/r/ProgrammerHumor/comments/15y7o9a/opensourcecontributions/](images/3/open-issue.png)
+
+I have to admit, there are tons of cases where just opening a ticket is not worthy or really contributes to a project. Of course, there are a lot of cases around, but when you are opening a ticket, just think of yourself as the one that will handle it, just to understand if it is really something that can help the project.
 
 #### Email
 
