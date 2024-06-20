@@ -38,12 +38,12 @@ There are many projects started as private or side projects inside a company or 
 
 Let's see an example of an OSS project that forced the [entire ecosystem with Chromium](https://www.reddit.com/r/opensource/comments/phm308/comment/hbjo95j/?utm_source=reddit&utm_medium=web2x&context=3):
 
-* Apple forks KHTML (from Kounqueror by KDE) and creates WebKit
+* Apple forks KHTML (from Konqueror by KDE) and creates WebKit
 * Google creates a new browser based on WebKit (and hires various Mozilla employees)
 * Years later, as Apple is not following enough all the changes by Google, they fork it and create Blink
 * All today's browsers (except Firefox) are based on WebKit or Blink (often is branded as WebKit)
 
-Now for them is easier to push standards or bad behaviours as their is the most used technology in a ratio 20:1, so now with the new [Manifest V3 for extensions](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/) will be more difficult to do adblockers.  
+Now for them is easier to push standards or bad behaviors as their is the most used technology in a ratio 20:1, so now with the new [Manifest V3 for extensions](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/) will be more difficult to do adblockers.  
 
 This is a bad way to use an OSS project but is also the reality as there are many good examples that is not the case to discuss (otherwise this would be a new chapter).
 
@@ -93,6 +93,12 @@ The idea is that the most bottom stuff requires more attention by moneymakers, l
 ![XKCD (2347) "the OSS pyramid"](images/3/xkcd-pyramid.jpg)
 
 With this version maybe is easier to understand how a component in a business can be valuable, but in Open Source it's ignored by those entities as they are not contributing to the future of this tiny piece. Another short version is [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/), that makes more sense, after all every OSS project is based on other OSS projects that often don't get the deserved credits.
+
+[Another story is the one from Thunderbird project](https://fosdem.org/2024/schedule/event/fosdem-2024-2741-take-your-foss-project-from-surviving-to-thriving/), that changed a lot:
+
+>In 2012, Thunderbird was pronounced dead. What happened next unfolded like a fairytale, as the Thunderbird project roared back to life on the shoulders of an incredibly generous community. Fast-forward to the end of 2022, and Thunderbird raised an astounding $6.4 million in donations. Within the last 3 years, it experienced a 326% revenue increase, quadrupled its core team, visually overhauled the desktop application, and announced plans to expand to Android and iOS.
+
+
 
 ## How to live inside the Open Source
 
@@ -167,6 +173,35 @@ The first one is easy as can be a bug report, a localization, replying to a supp
 
 When you are contributing, it''s important to you to act as a friend and not like a customer to the Maintainer, so provide all the help in what you are asking, in this way you can grow your role in the project but also [your knowledge/awareness](https://notes.eatonphil.com/learning-a-new-codebase-hacking-nginx.html). Remember that the more you are autonomous and provide a "complete" task in a project, the more you can drive it in the direction you want, that can be a feature that you need or finding new contributors.  
 The first expectation in contributing is a *hope* that your contribution will be handled, and you need to help this hope to succeed, like for our daily hope.
+
+#### The XZ Utils incident
+
+In 2024 a very important fact shocked the OSS world, a vulnerability (specifically a backdoor) was inserted in the XZ utility (a compress format, like for tar.xz files) that is a dependence in a lot of projects.  
+That code change allowed, as it was loaded the library, to start a backdoor that was hidden pretty good for few months and it was discovered because an user started benchmark why OpenSSH was slow, compared as before, and at the same time systemd was working to optimize their builds to not include the library when it was not used.  
+So with the second fact the fraudulent maintainer had to hurry up and implement quickly before the change in systemd was official.
+
+![XZ Outbreak infographic by @fr0gger](images/3/xz-case.jpg)
+
+The [timeline](https://research.swtch.com/xz-timeline) was very interesting and as per open source it was transparent online and basically the whole fault is a psychological one.  
+The original maintainer, and creator of the project, didn't have so much time to follow the project and there was a lot of pressure in the community to add more maintainers with access to the project to speed up. The maintainer accepted a person that was completely anonymous, there was only a name without a photo.  
+The fact that the people giving pressure was other anonymous users just gives you the suspects that was everything planned as this project is present everywhere.
+
+> ”Finding a co-maintainer or passing the projects completely to someone else has been in my mind a long time but it’s not a trivial thing to do. For example, someone would need to have the skills, time, and enough long-term interest specifically for this.” - https://www.mail-archive.com/xz-devel@tukaani.org/msg00571.html
+> From [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+
+The same days a lot of people discovered this ticket on [ifupdown](https://github.com/ifupdown-ng/ifupdown-ng/issues/234), where an user just pushed a lot to get another contributor to the project. Also the same user asked in other projects to update the Xz library so there was a lot of attention in similar cases but seems that in this case it was just in good faith.
+
+I suggest to you to learn from the links otherwise we go outside the scope of the book.  
+What we can learn?
+
+* A single maintainer, in a hobby project, can be a base to attack everyone using FOSS projects
+* Many maintainers are helpful and create a healthy project
+* Find maintainers is not easy as requires a lot of skills and thrust
+* Often maintainers doesn't get credit or compensation for what they are doing
+* There are thousands of tiny projects that can be targeted for "evil stuff"
+* An [open source project without ethics](https://fleker.medium.com/is-open-source-software-ethical-7404ec3ef3b2), well is a Trojan horse
+
+Helping them, instead of just complaining is very important for a better, healthy and safe FOSS world, like we want.
 
 ### Communicate on the internet
 
