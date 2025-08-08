@@ -220,6 +220,15 @@ Or a whole series of tiny/easy guides to contribute to [Open Source projects fro
 
 In April 2022, I joined the Italian community behind [/r/place, and it was an interesting experience](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) in something that lasts few days but purely online.
 
+In May 2023 I was one of the organizers of [Merge-IT 2023](https://merge-it.net/) with various communities and panels.  
+
+In April 2024 I was elected again in the Italian Linux Society, I did a [report in Italian](https://daniele.tech/2024/02/mi-ricandido-a-italian-linux-society/) about the past 3 years, so I am still doing a lot of stuff for FOSS in Italy.
+
+In June 2024 I was promoted as one of the maintainers of the [Amber Lang](https://amber-lang.com/) and started coding a bit in Rust.
+
+In June 2025 (it's the future of the time of writing), I will get married to my wonderful girlfriend Fiamma!
+
+
 # Conclusion
 
 Open source allowed me to:

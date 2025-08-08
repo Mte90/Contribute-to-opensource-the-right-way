@@ -28,7 +28,8 @@ The seven stages of Grief is a way to express the various steps of a loss, anywa
 
 So Open Source != Free Software, this means that open source is a subset or a minimal definition of the goals of a project compared to Free Software. This happen about the *free* in Free Software because as we said open source means that the code is available but what you can do with that depends on the license, that can be Free Software, or you need to pay to access it for example. There are tons of pages that explain the difference between the various licenses and why, but often they are very complicated, so [get ready on studying them](https://blog.graphqleditor.com/software-licensing-cheat-sheet/).  
 Another opinion is by company side when the license topic is on fire, like dual licensing, CLA, abuses or license's restrictiveness, but I don't want to talk about those stuff as it is the most common discussion in this world and there are people who explain a lot better than me, [Open source licensing for supervillains](https://offlinemark.com/2021/01/22/open-source-licensing-for-supervillains/).  
-Yes, you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).
+Yes, you need to study a bit because it easy to get a license conflict because [you like to code but you don't care of the legal part](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/).  
+Another recent trend, followed by the various Open Source companies that have to fight against various hosting/cloud providers that not contribute back (in money terms) to the project or the fact that "open source" is used for everything that is free to download and use it, is the one [that developers care more about software's access that the license itself](https://www.infoworld.com/article/3703768/the-open-source-licensing-war-is-over.html). Infact there is a new term "post-opensource" about [this new types of licenses for Open Source Business model](https://devclass.com/2024/02/08/preserving-the-magic-of-free-new-types-of-licenses-will-not-solve-open-source-business-model-says-percona-founder/), usually because they are double licensed and not OpenSourceInitiative compatible, as they limit the usage for some specific business cases.
 
 ## Do ut des
 
@@ -137,17 +138,17 @@ Concluding, don't forget to take responsibility in case you are the culprit (by 
 
 ## The virtuosity of reports
 
-Let’s think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**. 
+Let's think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**.
 
 {width=80%}
 ![There are 2 kind of people: who want a feedback and who is lying](images/2/feedback.jpg)
 
-Gorgeous, isn’t it? Let’s take the first difficult step ourselves, let’s be ready to take it because we know how a ticket is powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.  
+Gorgeous, isn't it? Let's take the first difficult step ourselves, let's be ready to take it because we know how a ticket is powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.
 
 On a personal level, it helps thinking in a constructive way, it helps in lifting depression and avoiding being angry with other people around us (I guess that moment before the proverbial "morning coffee" is an exception to that); it helps in making us more optimistic, it makes us grow better, when the request is well received and we wait like a child on Christmas Eve for the outcome.  
 In life, when something is not working we need to be listened, but the only way to achieve that is to be constructive and available because this speeds the process up a lot, by improving communication.
 
-Obviously, this isn’t a fool-proof method, but makes us trustable, it transforms the environment into one where interactions are productive/pleasurable/easy (when there is a shortage of time making things hectic, too!). Communicating that way also creates an “history” that may come useful in future times ahead as a reference.  
+Obviously, this isn't a fool-proof method, but makes us trustable, it transforms the environment into one where interactions are productive/pleasurable/easy (when there is a shortage of time making things hectic, too!). Communicating that way also creates an "history" that may come useful in future times ahead as a reference.
 
 Another point: if in a OSS project is not possible to ask questions, then it isn't a real OSS project. Another view can be that you can ask questions, but there are some choices that for [1-2-3-etc] reasons is not possible to ask again.
 
@@ -165,10 +166,10 @@ The main points:
 
 Those are just few hints from this report that show how can be powerful to embrace these philosophy and solutions. For IT companies also it open new doors for business like this [Tidelift's report explains to getting more developers](https://tidelift.com/subscription/managed-open-source-survey).
 
-Let’s consider that a way to start a relationship in the way others expect this to happen, like the fish: when we move it from its tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.  
+Let's consider that a way to start a relationship in the way others expect this to happen, like the fish: when we move it from its tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.
 The next chapter approaches a bit how to improve the quality of your learnings with this new philosophy.
-Now that you joined, what’s next?  
-It’s up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.  
+Now that you joined, what's next?
+It's up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.
 Next chapter is about how to maximize the Contributor Mode.  
 I call it so because I am a nerd, and probably because eating so much candies, chocolate, liquirice, fruits and the like, I get to drink not enough coffee.
 
@@ -189,9 +190,33 @@ The transparency of the OSS management can benefit the quality of the project it
 
 For legacy project instead it is important to define the license, how to setup a dev environment (if it is possible), give all the information that are available and that can be helpful to run your tool. Don't be like [this (source code of XIII game that I like so much, also the comic)](https://github.com/Ch0wW/xiii_unrealscript) that doesn't include any readme or documentation.
 
+## What is "Post Open Source"
+
+When [something gets a Wikipedia page](https://en.wikipedia.org/wiki/Post_open_source) it means that is important.  
+It is a trending topic and philosophy that with all the companies that lives reselling F/OSS projects as SaaS and the same vendor that changes licenses is getting popularity.  
+
+Everything started from companies, like Elastic or MongoDB or Redis, saw other companies like Amazon or Google reselling their OSS projects (not their enteprise version) without contributing back to the projects and at same time making money.  
+This was unfair so they created new licenses to avoid those cases and at same time there were a lot of forks to avoid those new non-open source licenses.
+
+So at the end of the day [one of the founders of the Open Source Initiative](https://www.theregister.com/2023/12/27/bruce_perens_post_open/) (Bruce Perens) officially said that the problem is the licensing that doesn't fit in this new world where a lot of companies uses OSS without contributing financially or in the project itself and at same time making money.
+
+Resources:
+
+* [Elastic, The SSPL is Not an Open Source License](https://opensource.org/blog/the-sspl-is-not-an-open-source-license)
+* [MongoDB, MongoDB Issues New Server Side Public License for MongoDB Community Server](https://www.mongodb.com/company/newsroom/press-releases/mongodb-issues-new-server-side-public-license-for-mongodb-community-server)
+* [Redis tightens its license terms, pleasing basically no one](https://www.theregister.com/2024/03/22/redis_changes_license/)
+* [RedHat, How Red Hat's License Change Is Reinvigorating Enterprise Linux Distros](https://thenewstack.io/how-red-hats-license-change-is-reinvigorating-enterprise-linux-distros/)
+
+As today there aren't new licenses that are still Open Source Initiative approved (they don't respect one of the 4 freedom) and at same time a process for OSS projects that let them to survive in this world. At same time as F/OSS user and contributor I think that is important to have more awareness to the consumers like companies to give back something, not just be a consumer.
+
+For the same reason, since 2023 a lot of companies release their LLM models for AI as open source. At the end they aren't open source, because they just shares to you the final output, so you don't know how it is generated, infact some [big projects don't want contribution generated by AI](https://www.theregister.com/2024/05/18/distros_ai_code/) and at same time they have some limitations.  
+The [Meta case with LLaMa 2 shown some issues](https://opensource.org/blog/metas-llama-2-license-is-not-open-source), has doesn't follow the 4 freedom, limit the commercial usage and also the purpose of the model.
+
+It is that there isn't anymore some affection or purity about what means "Open Source", so it is like that is freely downloadable without paying but there will be some limitations, but Open Source doesn't want limitations.
+
 # Conclusion
 
-I hope that now it’s clear why philosophy is so important: not only it differentiates us from our competitors (the non-open projects) but it’s for us a path to follow.  
+I hope that now it's clear why philosophy is so important: not only it differentiates us from our competitors (the non-open projects) but it's for us a path to follow.
 Open source, without understanding the philosophy or way it should be open or managed openly, is only another proprietary project hidden by the code availability. Again a project without a license is not an open source project.  
 The real question could be *Why you should join a OSS project?*, let's see some points:
 

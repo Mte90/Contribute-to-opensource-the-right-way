@@ -60,7 +60,8 @@ Probably a combo will be to translate something about Support.
 ### Testing *D*
 
 This is very important, as the reviewer is, because they can learn about the project and make it something to improve it. It follows reviewer rules.  
-The difference is that Testing consists in trying to find problems or bugs, while Reviewing on the other hand consists in writing a document including all the problems without going in depth about implementation but only to receive feedback.
+The difference is that Testing consists in trying to find problems or bugs, while Reviewing on the other hand consists in writing a document including all the problems without going in depth about implementation but only to receive feedback.  
+In the [KDE ecosystem they are focus a lot on Quality](https://pointieststick.com/2024/03/09/how-you-help-with-quality/) too, that in my opinion fit this case.
 
 ### Promotion/Evangelism/Design *D/I*
 
@@ -98,6 +99,9 @@ The project needs more buzzword to get promoted and to have a chance to fight wi
 * Promote Open data because it is possible to track and discover new things around you that are catalogued. Do you know what is the amount of masterpieces closed in the Italian museums' warehouses because there is no space to expose them? Without exposure, you will have no idea about how much one single information can change a lot of feelings.
 * Privacy is important because it's possible to identify you even if you are navigating in private mode on the internet due to the proprietary feature of your browser full of bugs.
 * Open source doesn't mean it is free, but that the project is under a license allowing specific things. So it's sometimes possible to get the code by paying it for example, like in WordPress plugin/theme ecosystem.
+
+> About Privacy
+> It is a topic that growth a lot in the past years and there are tons of stories about why you should care of it. I want to share this to you [How the Pentagon Learned to Use Targeted Ads to Find Its Targets—and Vladimir Putin](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/), to understand how much bigger can be.
 
 Those are examples of advocacy 2.0 for open source projects. We take an important fact that involves everyone, from the newbie to the non-IT aware person, leaving a few doubts behind, so people will remember the whole point and give information about something new that they don't know. Also, giving people a choice without being a dictator but motivating them to discover more and not only by talking about your project.  
 For me this differs from promotion/evangelism because the purpose here is to motivate people to discover more and engage, not only to get a gadget or something new to promote.
