@@ -138,17 +138,17 @@ Concluding, don't forget to take responsibility in case you are the culprit (by 
 
 ## The virtuosity of reports
 
-Let’s think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**. 
+Let's think for a moment to all the rants or requests we receive every day, to how much better they would be if submitted in a **constructive way**.
 
 {width=80%}
 ![There are 2 kind of people: who want a feedback and who is lying](images/2/feedback.jpg)
 
-Gorgeous, isn’t it? Let’s take the first difficult step ourselves, let’s be ready to take it because we know how a ticket is powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.  
+Gorgeous, isn't it? Let's take the first difficult step ourselves, let's be ready to take it because we know how a ticket is powerful, and we know how to take it, so we can spread it to all the world and in our daily life, family, job and so on.
 
 On a personal level, it helps thinking in a constructive way, it helps in lifting depression and avoiding being angry with other people around us (I guess that moment before the proverbial "morning coffee" is an exception to that); it helps in making us more optimistic, it makes us grow better, when the request is well received and we wait like a child on Christmas Eve for the outcome.  
 In life, when something is not working we need to be listened, but the only way to achieve that is to be constructive and available because this speeds the process up a lot, by improving communication.
 
-Obviously, this isn’t a fool-proof method, but makes us trustable, it transforms the environment into one where interactions are productive/pleasurable/easy (when there is a shortage of time making things hectic, too!). Communicating that way also creates an “history” that may come useful in future times ahead as a reference.  
+Obviously, this isn't a fool-proof method, but makes us trustable, it transforms the environment into one where interactions are productive/pleasurable/easy (when there is a shortage of time making things hectic, too!). Communicating that way also creates an "history" that may come useful in future times ahead as a reference.
 
 Another point: if in a OSS project is not possible to ask questions, then it isn't a real OSS project. Another view can be that you can ask questions, but there are some choices that for [1-2-3-etc] reasons is not possible to ask again.
 
@@ -166,10 +166,10 @@ The main points:
 
 Those are just few hints from this report that show how can be powerful to embrace these philosophy and solutions. For IT companies also it open new doors for business like this [Tidelift's report explains to getting more developers](https://tidelift.com/subscription/managed-open-source-survey).
 
-Let’s consider that a way to start a relationship in the way others expect this to happen, like the fish: when we move it from its tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.  
+Let's consider that a way to start a relationship in the way others expect this to happen, like the fish: when we move it from its tank to a new one, we make sure the temperature of the tanks is consistent and the environment is similar, to avoid it any shock whatsoever.
 The next chapter approaches a bit how to improve the quality of your learnings with this new philosophy.
-Now that you joined, what’s next?  
-It’s up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.  
+Now that you joined, what's next?
+It's up to you, doing the triage you learned more things on how the project is organized, who does what, who works on what, where to find the right people to help you without being overwhelmed by the hugeness of the community, you learned to estimate response time and also the actions you can take from there.
 Next chapter is about how to maximize the Contributor Mode.  
 I call it so because I am a nerd, and probably because eating so much candies, chocolate, liquirice, fruits and the like, I get to drink not enough coffee.
 
@@ -205,7 +205,7 @@ Resources:
 * [Elastic, The SSPL is Not an Open Source License](https://opensource.org/blog/the-sspl-is-not-an-open-source-license)
 * [MongoDB, MongoDB Issues New Server Side Public License for MongoDB Community Server](https://www.mongodb.com/company/newsroom/press-releases/mongodb-issues-new-server-side-public-license-for-mongodb-community-server)
 * [Redis tightens its license terms, pleasing basically no one](https://www.theregister.com/2024/03/22/redis_changes_license/)
-* [RedHat, How Red Hat’s License Change Is Reinvigorating Enterprise Linux Distros](https://thenewstack.io/how-red-hats-license-change-is-reinvigorating-enterprise-linux-distros/)
+* [RedHat, How Red Hat's License Change Is Reinvigorating Enterprise Linux Distros](https://thenewstack.io/how-red-hats-license-change-is-reinvigorating-enterprise-linux-distros/)
 
 As today there aren't new licenses that are still Open Source Initiative approved (they don't respect one of the 4 freedom) and at same time a process for OSS projects that let them to survive in this world. At same time as F/OSS user and contributor I think that is important to have more awareness to the consumers like companies to give back something, not just be a consumer.
 
@@ -216,7 +216,7 @@ It is that there isn't anymore some affection or purity about what means "Open S
 
 # Conclusion
 
-I hope that now it’s clear why philosophy is so important: not only it differentiates us from our competitors (the non-open projects) but it’s for us a path to follow.  
+I hope that now it's clear why philosophy is so important: not only it differentiates us from our competitors (the non-open projects) but it's for us a path to follow.
 Open source, without understanding the philosophy or way it should be open or managed openly, is only another proprietary project hidden by the code availability. Again a project without a license is not an open source project.  
 The real question could be *Why you should join a OSS project?*, let's see some points:
 
